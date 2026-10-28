@@ -77,9 +77,10 @@
       "planned": "2026-10-28T19:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae23c06946bf74c57ee8867",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T19:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701803285723827489",
+      "at": "2026-10-28T19:32:08.371Z"
     },
     "2026-10-28-5-hidden-details-ig": {
       "platform": "ig",
