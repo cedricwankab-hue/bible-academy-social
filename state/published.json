@@ -109,6 +109,26 @@
       "status": "scheduled",
       "dueAt": "2026-10-28T23:00:00.000Z",
       "permalink": null
+    },
+    "2026-10-28-guess-who-nicodemus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-29T01:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2619561a8363a4948c553",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T01:30:00.000Z",
+      "permalink": null
+    },
+    "2026-10-28-guess-who-nicodemus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-29T01:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2619561a8363a4948c580",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T01:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
