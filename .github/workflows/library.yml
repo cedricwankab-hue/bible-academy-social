@@ -19,7 +19,7 @@ jobs:
             ok=0
             for u in "https://images.pexels.com/photos/$id/pexels-photo-$id.jpeg?auto=compress&cs=tinysrgb&w=1600" "https://www.pexels.com/photo/$id/download/?w=1600"; do
               curl -sSL -A "Mozilla/5.0" -m 60 -o "$f.tmp" "$u" || true
-              if file "$f.tmp" | grep -qi 'jpeg\|png\|webp'; then convert "$f.tmp" -resize '1600x1600>' -quality 86 "$f"; ok=1; break; fi
+              if file "$f.tmp" | grep -qi 'jpeg\|png\|webp'; then mv "$f.tmp" "$f"; ok=1; break; fi
             done
             rm -f "$f.tmp"
             echo "$id $ok" >> library/fetch-log.txt
