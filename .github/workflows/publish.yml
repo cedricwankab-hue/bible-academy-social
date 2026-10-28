@@ -28,6 +28,7 @@ jobs:
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ vars.IG_USER_ID }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           ONLY_ID: ${{ inputs.only_id }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: node scripts/publish.mjs

@@ -1,4 +1,4 @@
-name: Vérifier la connexion Instagram
+name: Vérifier les connexions
 on:
   push:
     paths: ['checks/**']
@@ -10,9 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
       - run: node scripts/check.mjs
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      - run: node scripts/check-buffer.mjs
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
       - run: |
           git config user.name "bible-academy-bot"; git config user.email "bot@bibleacademyapp.com"
-          git add state/check.json && git commit -m "Vérification Instagram" && git pull --rebase -q && git push -q
+          git add state/check.json state/buffer-check.json && git commit -m "Vérification des connexions" && git pull --rebase -q && git push -q || true
