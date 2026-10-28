@@ -71,13 +71,15 @@ async function publishBuffer(item) {
   const assets = video
     ? [{ video: { url: item.media[0], ...(item.platform === 'tt' && item.thumbMs ? { metadata: { thumbnailOffset: item.thumbMs } } : {}) } }]
     : item.media.slice(0, item.platform === 'tt' ? 35 : 10).map((url) => ({ image: { url } }));
-  const metadata = item.platform === 'fb' ? { facebook: { type: video ? 'reel' : 'post' } } : undefined;
+  const firstLine = item.caption.split('\n').find((l) => l.trim()) || '';
+  const metadata = item.platform === 'fb' ? { facebook: { type: video ? 'reel' : 'post' } }
+    : { tiktok: { title: (item.title || firstLine).slice(0, 90) } };
   const dueAt = new Date(Math.max(Date.parse(item.at), Date.now() + 3 * 60e3)).toISOString();
   const d = await gql(`mutation($input: CreatePostInput!) { createPost(input: $input) {
-      ... on PostActionSuccess { post { id status dueAt } } ... on MutationError { message } } }`,
+      __typename ... on PostActionSuccess { post { id status dueAt } } ... on MutationError { message } } }`,
     { input: { channelId: ch.id, text: item.caption, schedulingType: 'automatic', mode: 'customScheduled', dueAt, assets, ...(metadata ? { metadata } : {}) } });
   const r = d.createPost;
-  if (!r.post) throw new Error('Buffer refuse : ' + (r.message || JSON.stringify(r)));
+  if (!r.post) throw new Error('Buffer refuse (' + r.__typename + ') : ' + (r.message || JSON.stringify(r)));
   return { via: 'buffer', bufferId: r.post.id, status: 'scheduled', dueAt: r.post.dueAt || dueAt, permalink: null };
 }
 /** Met à jour les publications confiées à Buffer : envoyée (lien) ou erreur. */
