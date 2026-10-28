@@ -118,19 +118,7 @@
    "tag": "night"
   },
   {
-   "id": 13846124,
-   "tag": "night"
-  },
-  {
    "id": 4384147,
-   "tag": "night"
-  },
-  {
-   "id": 36543210,
-   "tag": "night"
-  },
-  {
-   "id": 8921700,
    "tag": "night"
   },
   {
@@ -250,5 +238,6 @@
    "tag": "citynight"
   }
  ],
- "mood": "Planches d’ambiance de Cédric (28/10, Pinterest, inspiration seulement) : Bible et café le matin, étude de nuit, bougie, pluie sur la vitre, bureau sombre minimal, studio cosy à la lampe, ville de nuit."
+ "mood": "Planches d’ambiance de Cédric (28/10, Pinterest, inspiration seulement) : Bible et café le matin, étude de nuit, bougie, pluie sur la vitre, bureau sombre minimal, studio cosy à la lampe, ville de nuit.",
+ "rule": "Règle de Cédric : si un livre est visible, ce doit être une Bible (jamais un Coran, un magazine ou un manuel scolaire)."
 }
