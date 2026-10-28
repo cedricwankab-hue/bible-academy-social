@@ -66,9 +66,10 @@
       "planned": "2026-10-28T19:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae23c06946bf74c57ee8834",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T19:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096341557534302",
+      "at": "2026-10-28T19:15:29.028Z"
     },
     "2026-10-28-5-hidden-details-tt": {
       "platform": "tt",
@@ -78,6 +79,34 @@
       "bufferId": "6ae23c06946bf74c57ee8867",
       "status": "scheduled",
       "dueAt": "2026-10-28T19:30:00.000Z",
+      "permalink": null
+    },
+    "2026-10-28-5-hidden-details-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T19:18:24.628Z",
+      "planned": "2026-10-28T19:00:00.000Z",
+      "mediaId": "18151291936515177",
+      "permalink": "https://www.instagram.com/p/DfDKlh9CZEg/"
+    },
+    "2026-10-28-abigail-1-samuel-25-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae24a818841a32106b1cc72",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T22:45:00.000Z",
+      "permalink": null
+    },
+    "2026-10-28-abigail-1-samuel-25-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae24a8200ee4c4cb9eaf972",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T23:00:00.000Z",
       "permalink": null
     }
   },
