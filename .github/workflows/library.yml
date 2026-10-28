@@ -1,0 +1,30 @@
+name: Bibliothèque photos
+on:
+  push:
+    paths: ['library/pexels.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Télécharger les photos Pexels manquantes (1600 px)
+        run: |
+          mkdir -p library/photos
+          for id in $(jq -r '.photos[].id' library/pexels.json); do
+            f=library/photos/$id.jpg
+            [ -s "$f" ] && continue
+            ok=0
+            for u in "https://images.pexels.com/photos/$id/pexels-photo-$id.jpeg?auto=compress&cs=tinysrgb&w=1600" "https://www.pexels.com/photo/$id/download/?w=1600"; do
+              curl -sSL -A "Mozilla/5.0" -m 60 -o "$f.tmp" "$u" || true
+              if file "$f.tmp" | grep -qi 'jpeg\|png\|webp'; then convert "$f.tmp" -resize '1600x1600>' -quality 86 "$f"; ok=1; break; fi
+            done
+            rm -f "$f.tmp"
+            echo "$id $ok" >> library/fetch-log.txt
+          done
+          ls library/photos | wc -l
+      - run: |
+          git config user.name "bible-academy-bot"; git config user.email "bot@bibleacademyapp.com"
+          git add library && (git diff --cached --quiet || (git commit -m "Bibliothèque photos" && git pull --rebase -q && git push -q))
