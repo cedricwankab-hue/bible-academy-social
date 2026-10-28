@@ -1,1 +1,13 @@
-{"published":{},"errors":[]}
+{
+  "published": {
+    "test-quiz-1": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T10:46:06.758Z",
+      "planned": "2026-10-28T10:44:12.204Z",
+      "mediaId": "18116072975326878",
+      "permalink": "https://www.instagram.com/p/DfCP9R1lohb/"
+    }
+  },
+  "errors": []
+}
