@@ -36,9 +36,10 @@
       "planned": "2026-10-28T17:45:00.000Z",
       "via": "buffer",
       "bufferId": "6ae223eba557fadd21683f35",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T17:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1130370609440791/",
+      "at": "2026-10-28T17:45:23.822Z"
     },
     "2026-10-28-countdown-jedidiah-tt": {
       "platform": "tt",
@@ -46,8 +47,37 @@
       "planned": "2026-10-28T18:00:00.000Z",
       "via": "buffer",
       "bufferId": "6ae230e44f060961b744858c",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T18:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701780148747554080",
+      "at": "2026-10-28T18:02:07.648Z"
+    },
+    "2026-10-28-countdown-jedidiah-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-28T18:16:37.864Z",
+      "planned": "2026-10-28T17:30:00.000Z",
+      "mediaId": "18152770624531384",
+      "permalink": "https://www.instagram.com/reel/DfDDfD6ijX3/"
+    },
+    "2026-10-28-5-hidden-details-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae23c06946bf74c57ee8834",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T19:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-28-5-hidden-details-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae23c06946bf74c57ee8867",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T19:30:00.000Z",
       "permalink": null
     }
   },
