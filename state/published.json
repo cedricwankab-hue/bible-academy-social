@@ -96,9 +96,10 @@
       "planned": "2026-10-28T22:45:00.000Z",
       "via": "buffer",
       "bufferId": "6ae24a818841a32106b1cc72",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T22:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096439855534302",
+      "at": "2026-10-28T22:45:31.665Z"
     },
     "2026-10-28-abigail-1-samuel-25-tt": {
       "platform": "tt",
@@ -106,9 +107,10 @@
       "planned": "2026-10-28T23:00:00.000Z",
       "via": "buffer",
       "bufferId": "6ae24a8200ee4c4cb9eaf972",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-28T23:00:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701857522843454752",
+      "at": "2026-10-28T23:03:16.855Z"
     },
     "2026-10-28-guess-who-nicodemus-tt": {
       "platform": "tt",
