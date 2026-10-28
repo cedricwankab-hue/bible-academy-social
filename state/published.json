@@ -29,6 +29,16 @@
       "dueAt": "2026-10-28T14:51:56.237Z",
       "permalink": "https://tiktok.com/@bibleacademy4/video/7701731595056696608",
       "at": "2026-10-28T14:54:05.308Z"
+    },
+    "2026-10-28-countdown-jedidiah-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-28T17:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae223eba557fadd21683f35",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T17:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
