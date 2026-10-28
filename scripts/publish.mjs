@@ -138,3 +138,14 @@ if (BUFFER_KEY) {
   if (!DRY && (await syncBuffer())) changed = true;
 } else if (dueBuf.length) log('BUFFER_API_KEY absent : TikTok et Facebook en attente');
 if (changed && !DRY) fs.writeFileSync(statePath, JSON.stringify(state, null, 2) + '\n');
+
+// abonnés Instagram (lus pour le bilan Telegram de 22 h) : state/stats.json, réécrit seulement s'il change
+if (TOKEN && !DRY) {
+  try {
+    const me = await ig('GET', '/me', { fields: 'followers_count,media_count' });
+    const sp = path.join(ROOT, 'state/stats.json');
+    const old = fs.existsSync(sp) ? JSON.parse(fs.readFileSync(sp, 'utf8')) : {};
+    if (!old.ig || old.ig.followers !== me.followers_count || old.ig.posts !== me.media_count)
+      fs.writeFileSync(sp, JSON.stringify({ ...old, ig: { followers: me.followers_count, posts: me.media_count, at: new Date().toISOString() } }, null, 2) + '\n');
+  } catch (e) { log('statistiques Instagram', e.message.slice(0, 200)); }
+}
