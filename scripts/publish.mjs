@@ -103,8 +103,9 @@ const items = fs.readdirSync(path.join(ROOT, 'queue')).filter((f) => f.endsWith(
   .flatMap((f) => (JSON.parse(fs.readFileSync(path.join(ROOT, 'queue', f), 'utf8')).items || []).map((x) => ({ ...x, file: f })));
 
 const fresh = (x, early = 0) => Date.parse(x.at) - early <= NOW && NOW - Date.parse(x.at) < 6 * 3600e3;
-const pick = (x) => !state.published[x.id] && (ONLY ? x.id === ONLY : fresh(x, x.platform === 'ig' ? 0 : 75 * 60e3));
-const dueIG = items.filter((x) => x.platform === 'ig' && pick(x));
+// Instagram n'a pas de programmation : GitHub lance les passages avec du retard, donc on prend ce qui tombe dans les 25 prochaines minutes et on attend l'heure exacte.
+const pick = (x) => !state.published[x.id] && (ONLY ? x.id === ONLY : fresh(x, x.platform === 'ig' ? 25 * 60e3 : 75 * 60e3));
+const dueIG = items.filter((x) => x.platform === 'ig' && pick(x)).sort((a, b) => Date.parse(a.at) - Date.parse(b.at));
 const dueBuf = items.filter((x) => (x.platform === 'tt' || x.platform === 'fb') && pick(x));
 log(`${items.length} éléments en file ; à traiter : ${dueIG.length} Instagram, ${dueBuf.length} TikTok/Facebook${DRY ? ' (essai, rien n’est publié)' : ''}`);
 if (dueIG.length && !TOKEN && !DRY) { console.error('IG_ACCESS_TOKEN manquant'); process.exit(1); }
@@ -118,6 +119,8 @@ const fail = (item, e) => {
 };
 for (const item of dueIG.slice(0, 3)) {          // au plus 3 par passage
   try {
+    const wait = Date.parse(item.at) - Date.now();
+    if (!ONLY && wait > 0) { log('attente de l’heure prévue :', item.id, Math.round(wait / 1000), 's'); if (!DRY) await sleep(wait); }
     log('→', item.id, item.kind, item.media.length, 'fichier(s)');
     const res = DRY ? { mediaId: 'dry-run', permalink: null } : await publishIG(item);
     state.published[item.id] = { platform: 'ig', kind: item.kind, at: new Date().toISOString(), planned: item.at, ...res };
