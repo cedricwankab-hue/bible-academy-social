@@ -7,7 +7,23 @@
       "planned": "2026-10-28T10:44:12.204Z",
       "mediaId": "18116072975326878",
       "permalink": "https://www.instagram.com/p/DfCP9R1lohb/"
+    },
+    "test-quiz-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T14:48:52.347Z",
+      "via": "buffer",
+      "bufferId": "6ae20b25fe2b5b085762745c",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T14:51:04.803Z",
+      "permalink": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "id": "test-quiz-tt",
+      "at": "2026-10-28T14:48:05.780Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    }
+  ]
 }
