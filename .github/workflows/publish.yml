@@ -1,5 +1,7 @@
 name: Publier
 on:
+  push:
+    paths: ['queue/**']
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
