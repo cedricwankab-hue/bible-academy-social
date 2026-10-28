@@ -17,6 +17,16 @@
       "status": "scheduled",
       "dueAt": "2026-10-28T14:51:04.803Z",
       "permalink": null
+    },
+    "test-quiz-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T14:48:44.678Z",
+      "via": "buffer",
+      "bufferId": "6ae20b5800f35d308c81477b",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T14:51:56.237Z",
+      "permalink": null
     }
   },
   "errors": [
