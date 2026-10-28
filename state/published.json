@@ -39,6 +39,16 @@
       "status": "scheduled",
       "dueAt": "2026-10-28T17:45:00.000Z",
       "permalink": null
+    },
+    "2026-10-28-countdown-jedidiah-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-28T18:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae230e44f060961b744858c",
+      "status": "scheduled",
+      "dueAt": "2026-10-28T18:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
