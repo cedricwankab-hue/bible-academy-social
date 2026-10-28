@@ -129,6 +129,14 @@
       "status": "scheduled",
       "dueAt": "2026-10-29T01:15:00.000Z",
       "permalink": null
+    },
+    "2026-10-28-abigail-1-samuel-25-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T22:30:46.335Z",
+      "planned": "2026-10-28T22:30:00.000Z",
+      "mediaId": "18052938686813397",
+      "permalink": "https://www.instagram.com/p/DfDgmkIidJU/"
     }
   },
   "errors": [
