@@ -1,0 +1,650 @@
+{
+  "at": "2026-10-28T14:47:13.358Z",
+  "keyPresent": true,
+  "orgId": "6ae206a15ff3091bfae6fefd",
+  "channels": [
+    {
+      "id": "6ae209d72f1f5ed648fcd69e",
+      "service": "facebook",
+      "name": "Bible Academy"
+    },
+    {
+      "id": "6ae2088b2f1f5ed648fccae4",
+      "service": "tiktok",
+      "name": "bibleacademy4"
+    }
+  ],
+  "query": [
+    {
+      "name": "dailyPostingLimits",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "DailyPostingLimitsInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "channel",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "ChannelInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "channels",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "ChannelsInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "aggregatedPostMetrics",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "AggregatedPostMetricsInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "post",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "PostInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "posts",
+      "args": [
+        {
+          "name": "after",
+          "type": {
+            "kind": "SCALAR",
+            "name": "String",
+            "ofType": null
+          }
+        },
+        {
+          "name": "first",
+          "type": {
+            "kind": "SCALAR",
+            "name": "Int",
+            "ofType": null
+          }
+        },
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "PostsInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "postTemplate",
+      "args": [
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "PostTemplateInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "postTemplates",
+      "args": [
+        {
+          "name": "after",
+          "type": {
+            "kind": "SCALAR",
+            "name": "String",
+            "ofType": null
+          }
+        },
+        {
+          "name": "first",
+          "type": {
+            "kind": "SCALAR",
+            "name": "Int",
+            "ofType": null
+          }
+        },
+        {
+          "name": "input",
+          "type": {
+            "kind": "NON_NULL",
+            "name": null,
+            "ofType": {
+              "kind": "INPUT_OBJECT",
+              "name": "PostTemplatesInput",
+              "ofType": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "name": "Service",
+      "kind": "ENUM",
+      "enum": [
+        "bluesky",
+        "facebook",
+        "googlebusiness",
+        "instagram",
+        "linkedin",
+        "mastodon",
+        "pinterest",
+        "startPage",
+        "substack",
+        "threads",
+        "tiktok",
+        "twitter",
+        "whatsapp",
+        "youtube"
+      ]
+    },
+    {
+      "name": "AssetInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "document:{\"INPUT_OBJECT\",\"DocumentAssetInput\",}",
+        "image:{\"INPUT_OBJECT\",\"ImageAssetInput\",}",
+        "video:{\"INPUT_OBJECT\",\"VideoAssetInput\",}"
+      ]
+    },
+    {
+      "name": "ImageMetadataInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "altText:{\"NON_NULL\",,{\"SCALAR\",\"String\",}}",
+        "animatedThumbnail:{\"SCALAR\",\"String\",}",
+        "userTags:{\"LIST\",,{\"NON_NULL\",,{\"INPUT_OBJECT\",\"UserTagInput\",}}}"
+      ]
+    },
+    {
+      "name": "ImageDimensionsInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "height:{\"NON_NULL\",,{\"SCALAR\",\"Int\",}}",
+        "width:{\"NON_NULL\",,{\"SCALAR\",\"Int\",}}"
+      ]
+    },
+    {
+      "name": "ImageAssetInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "metadata:{\"INPUT_OBJECT\",\"ImageMetadataInput\",}",
+        "thumbnailUrl:{\"SCALAR\",\"String\",}",
+        "url:{\"NON_NULL\",,{\"SCALAR\",\"String\",}}"
+      ]
+    },
+    {
+      "name": "VideoMetadataInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "thumbnailOffset:{\"SCALAR\",\"Int\",}",
+        "title:{\"SCALAR\",\"String\",}"
+      ]
+    },
+    {
+      "name": "VideoAssetInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "metadata:{\"INPUT_OBJECT\",\"VideoMetadataInput\",}",
+        "thumbnailUrl:{\"SCALAR\",\"String\",}",
+        "url:{\"NON_NULL\",,{\"SCALAR\",\"String\",}}"
+      ]
+    },
+    {
+      "name": "PostingGoalStatus",
+      "kind": "ENUM",
+      "enum": [
+        "AtRisk",
+        "Hit",
+        "OnTrack"
+      ]
+    },
+    {
+      "name": "DailyPostingLimitsInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "channelIds:{\"NON_NULL\",,{\"LIST\",,{\"NON_NULL\",,{\"SCALAR\",\"ChannelId\"}}}}",
+        "date:{\"SCALAR\",\"DateTime\",}"
+      ]
+    },
+    {
+      "name": "PostType",
+      "kind": "ENUM",
+      "enum": [
+        "carousel",
+        "event",
+        "ghost_post",
+        "offer",
+        "post",
+        "reel",
+        "short",
+        "story",
+        "thread",
+        "whats_new"
+      ]
+    },
+    {
+      "name": "PostMetricType",
+      "kind": "ENUM",
+      "enum": [
+        "averageTimeWatched",
+        "clicks",
+        "comments",
+        "engagementRate",
+        "follows",
+        "freeSubscriptions",
+        "impressions",
+        "likes",
+        "paidSubscriptions",
+        "postCount",
+        "quotes",
+        "reach",
+        "reactions",
+        "reposts",
+        "saves",
+        "shares",
+        "totalTimeWatched",
+        "viewers",
+        "views"
+      ]
+    },
+    {
+      "name": "PostMetricUnit",
+      "kind": "ENUM",
+      "enum": [
+        "count",
+        "percentage"
+      ]
+    },
+    {
+      "name": "AssetType",
+      "kind": "ENUM",
+      "enum": [
+        "document",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "name": "PostApprovalChange",
+      "kind": "ENUM",
+      "enum": [
+        "request",
+        "revert"
+      ]
+    },
+    {
+      "name": "ShareMode",
+      "kind": "ENUM",
+      "enum": [
+        "addToQueue",
+        "customScheduled",
+        "shareNext",
+        "shareNow"
+      ]
+    },
+    {
+      "name": "PostStatus",
+      "kind": "ENUM",
+      "enum": [
+        "draft",
+        "error",
+        "needs_approval",
+        "scheduled",
+        "sending",
+        "sent"
+      ]
+    },
+    {
+      "name": "PostTypeGoogleBusiness",
+      "kind": "ENUM",
+      "enum": [
+        "event",
+        "offer",
+        "whats_new"
+      ]
+    },
+    {
+      "name": "PostTypeFacebook",
+      "kind": "ENUM",
+      "enum": [
+        "post",
+        "reel",
+        "story"
+      ]
+    },
+    {
+      "name": "PostVia",
+      "kind": "ENUM",
+      "enum": [
+        "api",
+        "buffer",
+        "network"
+      ]
+    },
+    {
+      "name": "PostAction",
+      "kind": "ENUM",
+      "enum": [
+        "addPostNote",
+        "addPostToQueue",
+        "approvePost",
+        "cancelPostRecurrence",
+        "copyPostLink",
+        "createPostRecurrence",
+        "deletePost",
+        "duplicatePost",
+        "editPostRecurrence",
+        "movePostToDraft",
+        "publishPostNext",
+        "publishPostNow",
+        "rejectPost",
+        "removePostScheduledTime",
+        "requestPostApproval",
+        "revertPostApprovalRequest",
+        "sharePostLink",
+        "updatePost",
+        "updatePostSchedule",
+        "updatePostTags",
+        "updateShopGridLink",
+        "viewPost"
+      ]
+    },
+    {
+      "name": "PostPublishingError",
+      "kind": "OBJECT"
+    },
+    {
+      "name": "SchedulingType",
+      "kind": "ENUM",
+      "enum": [
+        "automatic",
+        "notification"
+      ]
+    },
+    {
+      "name": "Post",
+      "kind": "OBJECT",
+      "fields": [
+        "id",
+        "allowedActions",
+        "assets",
+        "author",
+        "channel",
+        "channelId",
+        "channelService",
+        "contentItemId",
+        "dueAt",
+        "error",
+        "externalLink",
+        "ideaId",
+        "isCustomScheduled",
+        "metadata",
+        "metrics",
+        "metricsUpdatedAt",
+        "notes",
+        "notificationStatus",
+        "schedulingType",
+        "sentAt",
+        "sharedNow",
+        "shareMode",
+        "status",
+        "tags",
+        "text",
+        "via",
+        "createdAt",
+        "updatedAt"
+      ]
+    },
+    {
+      "name": "InstagramGeolocationInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "id:{\"SCALAR\",\"String\",}",
+        "text:{\"SCALAR\",\"String\",}"
+      ]
+    },
+    {
+      "name": "InstagramStickerFieldsInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "music:{\"SCALAR\",\"String\",}",
+        "other:{\"SCALAR\",\"String\",}",
+        "products:{\"SCALAR\",\"String\",}",
+        "text:{\"SCALAR\",\"String\",}",
+        "topics:{\"SCALAR\",\"String\",}"
+      ]
+    },
+    {
+      "name": "InstagramPostMetadataInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "firstComment:{\"SCALAR\",\"String\",}",
+        "geolocation:{\"INPUT_OBJECT\",\"InstagramGeolocationInput\",}",
+        "isAiGenerated:{\"SCALAR\",\"Boolean\",}",
+        "link:{\"SCALAR\",\"String\",}",
+        "shouldShareToFeed:{\"NON_NULL\",,{\"SCALAR\",\"Boolean\",}}",
+        "stickerFields:{\"INPUT_OBJECT\",\"InstagramStickerFieldsInput\",}",
+        "type:{\"NON_NULL\",,{\"ENUM\",\"PostType\",}}"
+      ]
+    },
+    {
+      "name": "FacebookPostMetadataInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "annotations:{\"LIST\",,{\"NON_NULL\",,{\"INPUT_OBJECT\",\"AnnotationInputFacebook\",}}}",
+        "firstComment:{\"SCALAR\",\"String\",}",
+        "linkAttachment:{\"INPUT_OBJECT\",\"LinkAttachmentInput\",}",
+        "type:{\"NON_NULL\",,{\"ENUM\",\"PostTypeFacebook\",}}"
+      ]
+    },
+    {
+      "name": "TikTokPostMetadataInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "isAiGenerated:{\"SCALAR\",\"Boolean\",}",
+        "title:{\"SCALAR\",\"String\",}"
+      ]
+    },
+    {
+      "name": "PostInputMetaData",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "bluesky:{\"INPUT_OBJECT\",\"BlueskyPostMetadataInput\",}",
+        "facebook:{\"INPUT_OBJECT\",\"FacebookPostMetadataInput\",}",
+        "google:{\"INPUT_OBJECT\",\"GoogleBusinessPostMetadataInput\",}",
+        "instagram:{\"INPUT_OBJECT\",\"InstagramPostMetadataInput\",}",
+        "linkedin:{\"INPUT_OBJECT\",\"LinkedInPostMetadataInput\",}",
+        "mastodon:{\"INPUT_OBJECT\",\"MastodonPostMetadataInput\",}",
+        "pinterest:{\"INPUT_OBJECT\",\"PinterestPostMetadataInput\",}",
+        "substack:{\"INPUT_OBJECT\",\"SubstackPostMetadataInput\",}",
+        "threads:{\"INPUT_OBJECT\",\"ThreadsPostMetadataInput\",}",
+        "tiktok:{\"INPUT_OBJECT\",\"TikTokPostMetadataInput\",}",
+        "twitter:{\"INPUT_OBJECT\",\"TwitterPostMetadataInput\",}",
+        "youtube:{\"INPUT_OBJECT\",\"YoutubePostMetadataInput\",}"
+      ]
+    },
+    {
+      "name": "PostsFiltersInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "channelIds:{\"LIST\",,{\"NON_NULL\",,{\"SCALAR\",\"ChannelId\",}}}",
+        "dueAt:{\"INPUT_OBJECT\",\"DateTimeComparator\",}",
+        "dueAtPresence:{\"ENUM\",\"DateTimePresence\",}",
+        "postTypes:{\"LIST\",,{\"NON_NULL\",,{\"ENUM\",\"PostType\",}}}",
+        "status:{\"LIST\",,{\"NON_NULL\",,{\"ENUM\",\"PostStatus\",}}}",
+        "tags:{\"INPUT_OBJECT\",\"TagComparator\",}",
+        "createdAt:{\"INPUT_OBJECT\",\"DateTimeComparator\",}"
+      ]
+    },
+    {
+      "name": "PostSortableKey",
+      "kind": "ENUM",
+      "enum": [
+        "dueAt",
+        "createdAt"
+      ]
+    },
+    {
+      "name": "PostSortInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "direction:{\"NON_NULL\",,{\"ENUM\",\"SortDirection\",}}",
+        "field:{\"NON_NULL\",,{\"ENUM\",\"PostSortableKey\",}}"
+      ]
+    },
+    {
+      "name": "PostsInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "filter:{\"INPUT_OBJECT\",\"PostsFiltersInput\",}",
+        "organizationId:{\"NON_NULL\",,{\"SCALAR\",\"OrganizationId\",}}",
+        "sort:{\"LIST\",,{\"NON_NULL\",,{\"INPUT_OBJECT\",\"PostSortInput\",}}}"
+      ]
+    },
+    {
+      "name": "PostInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "id:{\"NON_NULL\",,{\"SCALAR\",\"PostId\",}}"
+      ]
+    },
+    {
+      "name": "PostChannelNotFoundError",
+      "kind": "OBJECT"
+    },
+    {
+      "name": "PostInvalidInputError",
+      "kind": "OBJECT"
+    },
+    {
+      "name": "PostLimitReachedError",
+      "kind": "OBJECT"
+    },
+    {
+      "name": "PostNotDeletableError",
+      "kind": "OBJECT"
+    },
+    {
+      "name": "InstagramAudioType",
+      "kind": "ENUM",
+      "enum": [
+        "music",
+        "originalSound"
+      ]
+    },
+    {
+      "name": "InstagramAudioInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "audioId:{\"NON_NULL\",,{\"SCALAR\",\"String\",}}",
+        "channelId:{\"NON_NULL\",,{\"SCALAR\",\"ChannelId\",}}"
+      ]
+    },
+    {
+      "name": "InstagramAudioCatalogInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "channelId:{\"NON_NULL\",,{\"SCALAR\",\"ChannelId\",}}"
+      ]
+    },
+    {
+      "name": "PostTemplateInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "id:{\"NON_NULL\",,{\"SCALAR\",\"PostTemplateId\",}}"
+      ]
+    },
+    {
+      "name": "PostTemplatesInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "filter:{\"INPUT_OBJECT\",\"PostTemplatesFilterInput\",}",
+        "organizationId:{\"NON_NULL\",,{\"SCALAR\",\"OrganizationId\",}}"
+      ]
+    },
+    {
+      "name": "PostTemplatesFilterInput",
+      "kind": "INPUT_OBJECT",
+      "input": [
+        "visibility:{\"ENUM\",\"PostTemplateVisibility\",}"
+      ]
+    },
+    {
+      "name": "PostTemplateVisibility",
+      "kind": "ENUM",
+      "enum": [
+        "internal",
+        "private",
+        "public"
+      ]
+    }
+  ]
+}

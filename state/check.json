@@ -1,12 +1,12 @@
 {
-  "at": "2026-10-28T10:35:27.216Z",
+  "at": "2026-10-28T14:47:12.356Z",
   "tokenPresent": true,
   "me": {
     "user_id": "17841467603931873",
     "username": "bibleacademyapp",
     "account_type": "MEDIA_CREATOR",
-    "followers_count": 0,
-    "media_count": 0,
+    "followers_count": 1,
+    "media_count": 1,
     "id": "28822464907413109"
   },
   "limit": {
@@ -16,7 +16,7 @@
           "quota_total": 100,
           "quota_duration": 86400
         },
-        "quota_usage": 0
+        "quota_usage": 1
       }
     ]
   }
