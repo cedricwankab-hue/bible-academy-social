@@ -103,8 +103,8 @@ const items = fs.readdirSync(path.join(ROOT, 'queue')).filter((f) => f.endsWith(
   .flatMap((f) => (JSON.parse(fs.readFileSync(path.join(ROOT, 'queue', f), 'utf8')).items || []).map((x) => ({ ...x, file: f })));
 
 const fresh = (x, early = 0) => Date.parse(x.at) - early <= NOW && NOW - Date.parse(x.at) < 6 * 3600e3;
-// Instagram n'a pas de programmation : GitHub lance les passages avec du retard, donc on prend ce qui tombe dans les 25 prochaines minutes et on attend l'heure exacte.
-const pick = (x) => !state.published[x.id] && (ONLY ? x.id === ONLY : fresh(x, x.platform === 'ig' ? 25 * 60e3 : 75 * 60e3));
+// Instagram n'a pas de programmation : GitHub lance les passages avec du retard, donc on prend ce qui tombe dans les 65 prochaines minutes (Buffer : 5 h à l'avance) et on attend l'heure exacte.
+const pick = (x) => !state.published[x.id] && (ONLY ? x.id === ONLY : fresh(x, x.platform === 'ig' ? 65 * 60e3 : 5 * 3600e3));
 const dueIG = items.filter((x) => x.platform === 'ig' && pick(x)).sort((a, b) => Date.parse(a.at) - Date.parse(b.at));
 const dueBuf = items.filter((x) => (x.platform === 'tt' || x.platform === 'fb') && pick(x));
 log(`${items.length} éléments en file ; à traiter : ${dueIG.length} Instagram, ${dueBuf.length} TikTok/Facebook${DRY ? ' (essai, rien n’est publié)' : ''}`);
