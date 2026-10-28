@@ -1,0 +1,37 @@
+name: Publier
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      only_id:
+        description: "Publier tout de suite un seul élément (id de la file d'attente)"
+        required: false
+      dry_run:
+        description: "Essai sans publier (1 = oui)"
+        required: false
+        default: '0'
+permissions:
+  contents: write
+concurrency: { group: publish, cancel-in-progress: false }
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Publier ce qui est dû
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ vars.IG_USER_ID }}
+          ONLY_ID: ${{ inputs.only_id }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: node scripts/publish.mjs
+      - name: Enregistrer le journal
+        run: |
+          git config user.name "bible-academy-bot"
+          git config user.email "bot@bibleacademyapp.com"
+          git add state/published.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Journal de publication" && git pull --rebase -q && git push -q)
