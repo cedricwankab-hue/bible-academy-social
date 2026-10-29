@@ -62,6 +62,9 @@ async function publishIG(item) {
 
 // ——— TikTok et Facebook : on confie chaque publication à Buffer ~1 h avant son heure, Buffer la publie à l'heure exacte ———
 const SERVICE = { tt: 'tiktok', fb: 'facebook' };
+const CONFIG = fs.existsSync(path.join(ROOT, 'config.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8')) : {};
+// TikTok en mode « notification » : Cédric reçoit un rappel Buffer et ajoute lui-même un son TikTok tendance avant de publier
+const scheduling = (item) => (item.platform === 'tt' && CONFIG.tiktokMode === 'notification' ? 'notification' : 'automatic');
 let chans;
 async function publishBuffer(item) {
   chans ??= (await channels()).channels;
@@ -77,10 +80,10 @@ async function publishBuffer(item) {
   const dueAt = new Date(Math.max(Date.parse(item.at), Date.now() + 3 * 60e3)).toISOString();
   const d = await gql(`mutation($input: CreatePostInput!) { createPost(input: $input) {
       __typename ... on PostActionSuccess { post { id status dueAt } } ... on MutationError { message } } }`,
-    { input: { channelId: ch.id, text: item.caption, schedulingType: 'automatic', mode: 'customScheduled', dueAt, assets, ...(metadata ? { metadata } : {}) } });
+    { input: { channelId: ch.id, text: item.caption, schedulingType: scheduling(item), mode: 'customScheduled', dueAt, assets, ...(metadata ? { metadata } : {}) } });
   const r = d.createPost;
   if (!r.post) throw new Error('Buffer refuse (' + r.__typename + ') : ' + (r.message || JSON.stringify(r)));
-  return { via: 'buffer', bufferId: r.post.id, status: 'scheduled', dueAt: r.post.dueAt || dueAt, permalink: null };
+  return { via: 'buffer', bufferId: r.post.id, status: 'scheduled', mode: scheduling(item), dueAt: r.post.dueAt || dueAt, permalink: null };
 }
 /** Met à jour les publications confiées à Buffer : envoyée (lien) ou erreur. */
 async function syncBuffer() {
