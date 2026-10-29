@@ -38,4 +38,5 @@ jobs:
           git config user.email "bot@bibleacademyapp.com"
           git add state/published.json 2>/dev/null || true
           git add state/stats.json 2>/dev/null || true
+          git add state/insights.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "Journal de publication" && git pull --rebase -q && git push -q)

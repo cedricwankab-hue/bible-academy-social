@@ -152,3 +152,29 @@ if (TOKEN && !DRY) {
       fs.writeFileSync(sp, JSON.stringify({ ...old, ig: { followers: me.followers_count, posts: me.media_count, at: new Date().toISOString() } }, null, 2) + '\n');
   } catch (e) { log('statistiques Instagram', e.message.slice(0, 200)); }
 }
+
+// Résultats par publication (vues, portée, enregistrements, partages…) toutes les ~6 h : state/insights.json.
+// La tâche du soir s'en sert pour refaire plus de ce qui marche (formats, accroches, heures).
+if (!DRY) {
+  const ip = path.join(ROOT, 'state/insights.json');
+  const prev = fs.existsSync(ip) ? JSON.parse(fs.readFileSync(ip, 'utf8')) : { posts: {} };
+  if (!prev.at || Date.now() - Date.parse(prev.at) > 6 * 3600e3) {
+    const out = { at: new Date().toISOString(), posts: prev.posts || {} };
+    const recent = Object.entries(state.published).filter(([id, v]) => !id.startsWith('test') && Date.now() - Date.parse(v.at || v.planned || 0) < 14 * 864e5);
+    for (const [id, v] of recent) {
+      try {
+        if (v.platform === 'ig' && v.mediaId && TOKEN) {
+          const metrics = v.kind === 'reel' ? 'views,reach,saved,shares,likes,comments,total_interactions' : 'views,reach,saved,shares,likes,comments,total_interactions';
+          const r = await ig('GET', `/${v.mediaId}/insights`, { metric: metrics });
+          out.posts[id] = { platform: 'ig', kind: v.kind, at: v.at, ...Object.fromEntries((r.data || []).map((m) => [m.name, m.values?.[0]?.value ?? m.total_value?.value ?? null])) };
+        } else if (v.via === 'buffer' && v.bufferId && BUFFER_KEY && v.status === 'sent') {
+          const d = await gql('query($id: PostId!) { post(input: { id: $id }) { metrics { type value } } }', { id: v.bufferId });
+          const m = d.post?.metrics || [];
+          out.posts[id] = { platform: v.platform, kind: v.kind, at: v.at, ...Object.fromEntries(m.map((x) => [x.type, x.value])) };
+        }
+      } catch (e) { out.posts[id] = { ...(out.posts[id] || {}), platform: v.platform, error: e.message.slice(0, 160) }; }
+    }
+    fs.writeFileSync(ip, JSON.stringify(out, null, 2) + '\n');
+    log('résultats mis à jour :', Object.keys(out.posts).length, 'publications');
+  }
+}
