@@ -199,6 +199,16 @@
       "status": "scheduled",
       "dueAt": "2026-10-29T16:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-29-naaman-2-kings-5-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae35586827b14653870d660",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T19:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
