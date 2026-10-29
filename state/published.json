@@ -209,6 +209,24 @@
       "status": "scheduled",
       "dueAt": "2026-10-29T19:15:00.000Z",
       "permalink": null
+    },
+    "2026-10-29-countdown-jerubbaal-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T16:00:49.436Z",
+      "planned": "2026-10-29T16:00:00.000Z",
+      "mediaId": "18072305828772845",
+      "permalink": "https://www.instagram.com/reel/DfFYtm5EWFg/"
+    },
+    "2026-10-29-naaman-2-kings-5-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae36db225e7fa4a8db716bb",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T19:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
