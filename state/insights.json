@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-29T12:11:42.438Z",
+  "at": "2026-10-29T19:00:57.374Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -8,7 +8,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 138,
       "shares": 0,
       "clicks": 0
     },
@@ -16,14 +16,14 @@
       "platform": "tt",
       "kind": "video",
       "at": "2026-10-28T18:02:07.648Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 200,
+      "views": 1,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.58,
+      "averageTimeWatched": 2.92
     },
     "2026-10-28-countdown-jedidiah-ig": {
       "platform": "ig",
@@ -52,14 +52,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-10-28T19:32:08.371Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 200,
+      "views": 1,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 1.22,
+      "averageTimeWatched": 6.68
     },
     "2026-10-28-5-hidden-details-ig": {
       "platform": "ig",
@@ -94,8 +94,8 @@
       "views": 0,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.03,
+      "averageTimeWatched": 1.07
     },
     "2026-10-28-guess-who-nicodemus-tt": {
       "platform": "tt",
@@ -107,8 +107,8 @@
       "views": 0,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.07,
+      "averageTimeWatched": 1.58
     },
     "2026-10-28-guess-who-nicodemus-fb": {
       "platform": "fb",
@@ -117,7 +117,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 178,
       "shares": 0,
       "clicks": 0
     },
@@ -137,8 +137,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-29T01:00:34.774Z",
-      "views": 8,
-      "reach": 7,
+      "views": 10,
+      "reach": 8,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -149,6 +149,78 @@
       "platform": "ig",
       "kind": "carousel",
       "at": "2026-10-29T12:00:47.150Z",
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-10-29-jeremiah-29-11-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-10-29T12:15:36.604Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-29-jeremiah-29-11-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-10-29T12:32:11.177Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-29-countdown-jerubbaal-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-29T16:15:48.240Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-29-countdown-jerubbaal-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-29T16:32:12.081Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-29-countdown-jerubbaal-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T16:00:49.436Z",
+      "views": 1,
+      "reach": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-10-29-naaman-2-kings-5-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T19:00:54.621Z",
       "views": 0,
       "reach": 0,
       "saved": 0,

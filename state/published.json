@@ -229,6 +229,34 @@
       "status": "scheduled",
       "dueAt": "2026-10-29T19:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-29-naaman-2-kings-5-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T19:00:54.621Z",
+      "planned": "2026-10-29T19:00:00.000Z",
+      "mediaId": "18100196297432622",
+      "permalink": "https://www.instagram.com/p/DfFtYJlmnIQ/"
+    },
+    "2026-10-29-winter-arc-faith-rules-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae397e7c764435342402b9a",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T22:45:00.000Z",
+      "permalink": null
+    },
+    "2026-10-29-winter-arc-faith-rules-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae397e8a929d1f77543d665",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T23:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
