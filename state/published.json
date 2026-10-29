@@ -208,9 +208,10 @@
       "planned": "2026-10-29T19:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae35586827b14653870d660",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T19:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097057537534302",
+      "at": "2026-10-29T19:16:00.003Z"
     },
     "2026-10-29-countdown-jerubbaal-ig": {
       "platform": "ig",
@@ -226,9 +227,10 @@
       "planned": "2026-10-29T19:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae36db225e7fa4a8db716bb",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T19:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702174360492199200",
+      "at": "2026-10-29T19:31:59.663Z"
     },
     "2026-10-29-naaman-2-kings-5-ig": {
       "platform": "ig",
