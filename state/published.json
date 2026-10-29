@@ -169,6 +169,24 @@
       "status": "scheduled",
       "dueAt": "2026-10-29T12:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-29-jeremiah-29-11-context-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T12:00:47.150Z",
+      "planned": "2026-10-29T12:00:00.000Z",
+      "mediaId": "18097723049677597",
+      "permalink": "https://www.instagram.com/p/DfE9TEbkWaa/"
+    },
+    "2026-10-29-countdown-jerubbaal-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-29T16:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae33570d747cf479b1fa340",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T16:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
