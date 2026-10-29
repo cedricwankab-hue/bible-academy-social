@@ -149,6 +149,26 @@
       "planned": "2026-10-29T01:00:00.000Z",
       "mediaId": "17946834735355481",
       "permalink": "https://www.instagram.com/reel/DfDxtznjkPk/"
+    },
+    "2026-10-29-jeremiah-29-11-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2fba3f66393dd569537ca",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T12:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-29-jeremiah-29-11-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2fba435657f219b347695",
+      "status": "scheduled",
+      "dueAt": "2026-10-29T12:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
