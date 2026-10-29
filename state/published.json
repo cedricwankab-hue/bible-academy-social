@@ -186,9 +186,10 @@
       "planned": "2026-10-29T16:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae33570d747cf479b1fa340",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T16:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/4768300143495686/",
+      "at": "2026-10-29T16:15:48.240Z"
     },
     "2026-10-29-countdown-jerubbaal-tt": {
       "platform": "tt",
