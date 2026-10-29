@@ -246,9 +246,10 @@
       "planned": "2026-10-29T22:45:00.000Z",
       "via": "buffer",
       "bufferId": "6ae397e7c764435342402b9a",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T22:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097158223534302",
+      "at": "2026-10-29T22:45:31.689Z"
     },
     "2026-10-29-winter-arc-faith-rules-tt": {
       "platform": "tt",
