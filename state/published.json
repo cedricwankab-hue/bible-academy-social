@@ -197,9 +197,10 @@
       "planned": "2026-10-29T16:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae337fd21087506333b9f52",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T16:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702128265044954400",
+      "at": "2026-10-29T16:32:12.081Z"
     },
     "2026-10-29-naaman-2-kings-5-fb": {
       "platform": "fb",
