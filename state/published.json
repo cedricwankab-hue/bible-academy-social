@@ -279,6 +279,14 @@
       "status": "scheduled",
       "dueAt": "2026-10-30T01:15:00.000Z",
       "permalink": null
+    },
+    "2026-10-29-winter-arc-faith-rules-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T22:30:41.329Z",
+      "planned": "2026-10-29T22:30:00.000Z",
+      "mediaId": "18097379681661169",
+      "permalink": "https://www.instagram.com/p/DfGFZwNiepO/"
     }
   },
   "errors": [
