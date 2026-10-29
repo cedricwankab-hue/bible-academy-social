@@ -257,9 +257,10 @@
       "planned": "2026-10-29T23:00:00.000Z",
       "via": "buffer",
       "bufferId": "6ae397e8a929d1f77543d665",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-29T23:00:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702228496386460960",
+      "at": "2026-10-29T23:01:36.741Z"
     },
     "2026-10-29-guess-who-tabitha-tt": {
       "platform": "tt",
