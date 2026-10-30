@@ -353,6 +353,28 @@
       "mode": "automatic",
       "dueAt": "2026-10-30T16:15:00.000Z",
       "permalink": null
+    },
+    "2026-10-30-discipline-is-worship-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-30T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4ac321c3539c1f4df1ef8",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T19:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-30-discipline-is-worship-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-30T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4ac33df85d8ab2f3d0529",
+      "status": "scheduled",
+      "mode": "notification",
+      "dueAt": "2026-10-30T19:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
