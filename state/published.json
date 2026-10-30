@@ -385,6 +385,28 @@
       "planned": "2026-10-30T16:00:00.000Z",
       "mediaId": "18109692386235896",
       "permalink": "https://www.instagram.com/reel/DfH9glVjXfM/"
+    },
+    "2026-10-30-countdown-judah-sells-joseph-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-30T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4e95498505e7f522c3026",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T23:00:00.000Z",
+      "permalink": null
+    },
+    "2026-10-30-countdown-judah-sells-joseph-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-30T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4e95598505e7f522c3075",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T22:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -402,6 +424,11 @@
       "id": "2026-10-30-countdown-gadara-swine-tt",
       "at": "2026-10-30T17:18:09.635Z",
       "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    {
+      "id": "2026-10-30-discipline-is-worship-ig",
+      "at": "2026-10-30T19:00:35.923Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A9n_Zu1K"
     }
   ]
 }
