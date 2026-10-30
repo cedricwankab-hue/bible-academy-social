@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-30T01:12:34.750Z",
+  "at": "2026-10-30T07:14:12.866Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -293,13 +293,37 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T01:00:36.219Z",
-      "views": 0,
-      "reach": 0,
+      "views": 3,
+      "reach": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0
+    },
+    "2026-10-29-guess-who-tabitha-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-30T01:32:03.373Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-29-guess-who-tabitha-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-30T01:15:26.763Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
     }
   }
 }
