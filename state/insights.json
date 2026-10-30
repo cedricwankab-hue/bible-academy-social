@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-30T07:14:12.866Z",
+  "at": "2026-10-30T13:43:02.106Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -8,7 +8,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 138,
+      "impressions": 142,
       "shares": 0,
       "clicks": 0
     },
@@ -21,7 +21,7 @@
       "engagementRate": 200,
       "views": 1,
       "shares": 0,
-      "reach": 0,
+      "reach": 1,
       "totalTimeWatched": 0.58,
       "averageTimeWatched": 2.92
     },
@@ -57,7 +57,7 @@
       "engagementRate": 200,
       "views": 1,
       "shares": 0,
-      "reach": 0,
+      "reach": 1,
       "totalTimeWatched": 1.22,
       "averageTimeWatched": 6.68
     },
@@ -107,8 +107,8 @@
       "views": 0,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.07,
-      "averageTimeWatched": 1.58
+      "totalTimeWatched": 0.08,
+      "averageTimeWatched": 1.27
     },
     "2026-10-28-guess-who-nicodemus-fb": {
       "platform": "fb",
@@ -117,7 +117,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 178,
+      "impressions": 185,
       "shares": 0,
       "clicks": 0
     },
@@ -164,7 +164,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 1,
       "shares": 0,
       "clicks": 0
     },
@@ -178,17 +178,17 @@
       "views": 0,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 4.1,
+      "averageTimeWatched": 123.07
     },
     "2026-10-29-countdown-jerubbaal-fb": {
       "platform": "fb",
       "kind": "reel",
       "at": "2026-10-29T16:15:48.240Z",
-      "reactions": 0,
+      "reactions": 1,
       "comments": 0,
-      "engagementRate": 0,
-      "impressions": 0,
+      "engagementRate": 0.59,
+      "impressions": 170,
       "shares": 0,
       "clicks": 0
     },
@@ -202,15 +202,15 @@
       "views": 0,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.22,
+      "averageTimeWatched": 1.37
     },
     "2026-10-29-countdown-jerubbaal-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-29T16:00:49.436Z",
-      "views": 1,
-      "reach": 1,
+      "views": 3,
+      "reach": 2,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -244,14 +244,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-10-29T19:31:59.663Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 0.42,
+      "views": 472,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 77.25,
+      "averageTimeWatched": 9.54
     },
     "2026-10-29-winter-arc-faith-rules-fb": {
       "platform": "fb",
@@ -268,14 +268,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-10-29T23:01:36.741Z",
-      "reactions": 0,
+      "reactions": 4,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 1.89,
+      "views": 212,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 20.7,
+      "averageTimeWatched": 5.57
     },
     "2026-10-29-winter-arc-faith-rules-ig": {
       "platform": "ig",
@@ -293,8 +293,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T01:00:36.219Z",
-      "views": 3,
-      "reach": 3,
+      "views": 4,
+      "reach": 4,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -305,14 +305,14 @@
       "platform": "tt",
       "kind": "video",
       "at": "2026-10-30T01:32:03.373Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 1.18,
+      "views": 170,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 3.7,
+      "averageTimeWatched": 1.29
     },
     "2026-10-29-guess-who-tabitha-fb": {
       "platform": "fb",
@@ -321,9 +321,32 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
+      "impressions": 201,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-10-30T12:15:21.949Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
       "clicks": 0
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-30T12:00:48.562Z",
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
     }
   }
 }
