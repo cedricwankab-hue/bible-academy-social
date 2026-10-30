@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-30T13:43:02.106Z",
+  "at": "2026-10-30T19:43:53.005Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -342,6 +342,40 @@
       "at": "2026-10-30T12:00:48.562Z",
       "views": 0,
       "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-10-30-countdown-gadara-swine-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-30T16:15:39.057Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-30-discipline-is-worship-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-10-30T19:16:03.905Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-30-countdown-gadara-swine-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T16:00:36.325Z",
+      "views": 45,
+      "reach": 41,
       "saved": 0,
       "shares": 0,
       "likes": 0,
