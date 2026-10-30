@@ -306,10 +306,11 @@
       "planned": "2026-10-30T12:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae45212fce1c9356fcfac09",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-30T12:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097526509534302",
+      "at": "2026-10-30T12:15:21.949Z"
     },
     "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt": {
       "platform": "tt",
@@ -317,10 +318,11 @@
       "planned": "2026-10-30T12:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae45212d518fcaf80a5e1b9",
-      "status": "scheduled",
+      "status": "error",
       "mode": "notification",
       "dueAt": "2026-10-30T12:30:00.000Z",
-      "permalink": null
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
     },
     "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
       "platform": "ig",
@@ -329,6 +331,28 @@
       "planned": "2026-10-30T12:00:00.000Z",
       "mediaId": "17953146906339639",
       "permalink": "https://www.instagram.com/p/DfHiGC2m725/"
+    },
+    "2026-10-30-countdown-gadara-swine-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-30T16:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae49061e560b6bf642ac265",
+      "status": "scheduled",
+      "mode": "notification",
+      "dueAt": "2026-10-30T16:30:00.000Z",
+      "permalink": null
+    },
+    "2026-10-30-countdown-gadara-swine-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-30T16:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae49062abdb62a0e37d224f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T16:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -336,6 +360,11 @@
       "id": "test-quiz-tt",
       "at": "2026-10-28T14:48:05.780Z",
       "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    },
+    {
+      "id": "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt",
+      "at": "2026-10-30T12:41:06.617Z",
+      "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
     }
   ]
 }
