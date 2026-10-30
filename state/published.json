@@ -486,6 +486,11 @@
       "id": "2026-10-30-discipline-is-worship-ig",
       "at": "2026-10-30T21:50:29.683Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A_eoXhjl"
+    },
+    {
+      "id": "2026-10-30-discipline-is-worship-ig",
+      "at": "2026-10-30T22:32:31.898Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AWy1Oc8L"
     }
   ]
 }
