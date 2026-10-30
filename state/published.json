@@ -321,6 +321,14 @@
       "mode": "notification",
       "dueAt": "2026-10-30T12:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-30T12:00:48.562Z",
+      "planned": "2026-10-30T12:00:00.000Z",
+      "mediaId": "17953146906339639",
+      "permalink": "https://www.instagram.com/p/DfHiGC2m725/"
     }
   },
   "errors": [
