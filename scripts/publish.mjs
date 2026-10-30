@@ -64,7 +64,12 @@ async function publishIG(item) {
 const SERVICE = { tt: 'tiktok', fb: 'facebook' };
 const CONFIG = fs.existsSync(path.join(ROOT, 'config.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8')) : {};
 // TikTok en mode « notification » : Cédric reçoit un rappel Buffer et ajoute lui-même un son TikTok tendance avant de publier
-const scheduling = (item) => (item.platform === 'tt' && CONFIG.tiktokMode === 'notification' ? 'notification' : 'automatic');
+const night = (iso) => {
+  const n = CONFIG.tiktokAutoAtNight; if (!n) return false;
+  const hm = new Intl.DateTimeFormat('fr-FR', { timeZone: n.tz || 'Europe/Paris', hour: '2-digit', minute: '2-digit', hour12: false }).format(new Date(iso));
+  return n.from > n.to ? (hm >= n.from || hm < n.to) : (hm >= n.from && hm < n.to);
+};
+const scheduling = (item) => (item.platform === 'tt' && CONFIG.tiktokMode === 'notification' && !night(item.at) ? 'notification' : 'automatic');
 let chans;
 async function publishBuffer(item) {
   chans ??= (await channels()).channels;
