@@ -431,6 +431,14 @@
       "mode": "automatic",
       "dueAt": "2026-10-31T01:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-30-countdown-judah-sells-joseph-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T22:30:37.161Z",
+      "planned": "2026-10-30T22:30:00.000Z",
+      "mediaId": "18106159712359983",
+      "permalink": "https://www.instagram.com/reel/DfIqI8rDSOW/"
     }
   },
   "errors": [
@@ -473,6 +481,11 @@
       "id": "2026-10-30-discipline-is-worship-ig",
       "at": "2026-10-30T21:11:20.291Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZbgsjgm"
+    },
+    {
+      "id": "2026-10-30-discipline-is-worship-ig",
+      "at": "2026-10-30T21:50:29.683Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A_eoXhjl"
     }
   ]
 }
