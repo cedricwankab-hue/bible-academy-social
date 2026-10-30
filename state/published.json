@@ -268,9 +268,10 @@
       "planned": "2026-10-30T01:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae3af8abe52b9bcba505f2b",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-30T01:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702267139054456097",
+      "at": "2026-10-30T01:32:03.373Z"
     },
     "2026-10-29-guess-who-tabitha-fb": {
       "platform": "fb",
@@ -278,9 +279,10 @@
       "planned": "2026-10-30T01:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae3af8aa5c9bd5a5a9a7d9c",
-      "status": "scheduled",
+      "status": "sent",
       "dueAt": "2026-10-30T01:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1665056048359360/",
+      "at": "2026-10-30T01:15:26.763Z"
     },
     "2026-10-29-winter-arc-faith-rules-ig": {
       "platform": "ig",
