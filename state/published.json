@@ -299,6 +299,28 @@
       "planned": "2026-10-30T01:00:00.000Z",
       "mediaId": "18342173140258459",
       "permalink": "https://www.instagram.com/reel/DfGWgnplNFh/"
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-30T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae45212fce1c9356fcfac09",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T12:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-30T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae45212d518fcaf80a5e1b9",
+      "status": "scheduled",
+      "mode": "notification",
+      "dueAt": "2026-10-30T12:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
