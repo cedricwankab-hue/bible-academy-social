@@ -338,10 +338,11 @@
       "planned": "2026-10-30T16:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae49061e560b6bf642ac265",
-      "status": "scheduled",
+      "status": "error",
       "mode": "notification",
       "dueAt": "2026-10-30T16:30:00.000Z",
-      "permalink": null
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
     },
     "2026-10-30-countdown-gadara-swine-fb": {
       "platform": "fb",
@@ -395,6 +396,11 @@
     {
       "id": "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt",
       "at": "2026-10-30T12:41:06.617Z",
+      "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    {
+      "id": "2026-10-30-countdown-gadara-swine-tt",
+      "at": "2026-10-30T17:18:09.635Z",
       "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
     }
   ]
