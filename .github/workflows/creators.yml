@@ -1,0 +1,25 @@
+name: Créateurs à suivre (Telegram)
+on:
+  schedule:
+    - cron: '30 8 * * *'   # 9 h 30 à Paris en hiver (GitHub lance souvent avec du retard : arrivée vers 10 h)
+  push:
+    paths: ['creators/pool.json', 'creators/trigger']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: creators, cancel-in-progress: false }
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/creators.mjs
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - run: |
+          git config user.name "bible-academy-bot"; git config user.email "bot@bibleacademyapp.com"
+          git add creators/sent.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Créateurs envoyés" && git pull --rebase -q && git push -q)
