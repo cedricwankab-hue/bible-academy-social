@@ -451,6 +451,28 @@
       "planned": "2026-10-31T01:00:00.000Z",
       "mediaId": "18103823984040712",
       "permalink": "https://www.instagram.com/reel/DfI7UGWgiPO/"
+    },
+    "2026-10-31-saul-endor-1-samuel-28-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-31T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae59a93a11457434990cf34",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T12:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-31-saul-endor-1-samuel-28-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae59a94406ab8a018a56bf1",
+      "status": "scheduled",
+      "mode": "notification",
+      "dueAt": "2026-10-31T12:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
