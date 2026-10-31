@@ -506,10 +506,11 @@
       "planned": "2026-10-31T16:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae5e14cb84259308bd7fa07",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-31T16:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1436047545350048/",
+      "at": "2026-10-31T16:15:35.509Z"
     },
     "2026-10-31-countdown-lazarus-four-days-tt": {
       "platform": "tt",
@@ -517,10 +518,11 @@
       "planned": "2026-10-31T16:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae5e14d1891472093d20385",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-31T16:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702870257182051616",
+      "at": "2026-10-31T16:31:32.241Z"
     },
     "2026-10-31-november-reset-faith-edition-fb": {
       "platform": "fb",
@@ -551,6 +553,17 @@
       "planned": "2026-10-31T16:00:00.000Z",
       "mediaId": "18023033360940842",
       "permalink": "https://www.instagram.com/reel/DfKiTYWAAmK/"
+    },
+    "2026-10-31-repost-discipline-is-worship-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T21:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae61bea37c1acd2a0bd3fd9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T21:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -658,6 +671,11 @@
       "id": "2026-10-31-saul-endor-1-samuel-28-ig",
       "at": "2026-10-31T16:05:58.647Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AxH2_ctO"
+    },
+    {
+      "id": "2026-10-31-saul-endor-1-samuel-28-ig",
+      "at": "2026-10-31T16:48:41.438Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZJLeMVx"
     }
   ]
 }
