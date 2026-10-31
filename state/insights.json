@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-31T14:50:52.850Z",
+  "at": "2026-10-31T21:17:13.180Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -374,8 +374,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T16:00:36.325Z",
-      "views": 46,
-      "reach": 42,
+      "views": 47,
+      "reach": 43,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -434,8 +434,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T22:30:37.161Z",
-      "views": 31,
-      "reach": 30,
+      "views": 32,
+      "reach": 31,
       "saved": 0,
       "shares": 0,
       "likes": 1,
@@ -490,6 +490,66 @@
       "reach": 0,
       "totalTimeWatched": 0,
       "averageTimeWatched": 0
+    },
+    "2026-10-31-countdown-lazarus-four-days-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-31T16:15:35.509Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-31-countdown-lazarus-four-days-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-31T16:31:32.241Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-31-november-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-10-31T19:15:40.911Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-31-november-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-10-31T19:39:51.414Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-31-countdown-lazarus-four-days-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T16:00:36.624Z",
+      "views": 7,
+      "reach": 6,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
     }
   }
 }
