@@ -1,6 +1,6 @@
 {
-  "_note": "tiktokMode : « auto » = Buffer publie seul sur TikTok ; « notification » = Buffer envoie un rappel sur le téléphone de Cédric à l'heure prévue, il ouvre TikTok, choisit un son chrétien tendance dans TikTok et publie (seule façon d'utiliser les sons de TikTok). Facebook et Instagram restent automatiques. tiktokAutoAtNight : entre ces heures (heure de Paris), TikTok reste automatique car Cédric dort.",
-  "tiktokMode": "notification",
+  "_note": "tiktokMode : « auto » = Buffer publie seul sur TikTok (choix de Cédric le 31/10 : 100 % automatique, musique worship intégrée aux vidéos) ; « notification » = rappel sur le téléphone pour ajouter un son TikTok à la main. tiktokAutoAtNight ne sert qu'en mode notification.",
+  "tiktokMode": "auto",
   "tiktokAutoAtNight": {
     "tz": "Europe/Paris",
     "from": "23:00",
