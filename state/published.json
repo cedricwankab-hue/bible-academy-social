@@ -418,10 +418,11 @@
       "planned": "2026-10-31T01:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae4fc62fc1ac02b6edb7da8",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-31T01:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1464265428997212/",
+      "at": "2026-10-31T01:15:30.541Z"
     },
     "2026-10-30-guess-who-zacchaeus-tt": {
       "platform": "tt",
@@ -429,10 +430,11 @@
       "planned": "2026-10-31T01:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae507f918914720939a252b",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-31T01:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702638194122116384",
+      "at": "2026-10-31T01:32:00.759Z"
     },
     "2026-10-30-countdown-judah-sells-joseph-ig": {
       "platform": "ig",

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-30T19:43:53.005Z",
+  "at": "2026-10-31T01:50:14.313Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -376,6 +376,78 @@
       "at": "2026-10-30T16:00:36.325Z",
       "views": 45,
       "reach": 41,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-10-30-countdown-judah-sells-joseph-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-30T23:01:08.928Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-30-countdown-judah-sells-joseph-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-30T22:45:24.786Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-30-guess-who-zacchaeus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-10-31T01:15:30.541Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-30-guess-who-zacchaeus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-31T01:32:00.759Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-10-30-countdown-judah-sells-joseph-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T22:30:37.161Z",
+      "views": 22,
+      "reach": 19,
+      "saved": 0,
+      "shares": 0,
+      "likes": 1,
+      "comments": 0,
+      "total_interactions": 1
+    },
+    "2026-10-30-guess-who-zacchaeus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T01:00:45.405Z",
+      "views": 0,
+      "reach": 0,
       "saved": 0,
       "shares": 0,
       "likes": 0,
