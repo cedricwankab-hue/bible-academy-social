@@ -484,6 +484,17 @@
       "mode": "automatic",
       "dueAt": "2026-10-31T10:30:00.000Z",
       "permalink": null
+    },
+    "2026-10-31-repost-countdown-gadara-swine-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-31T14:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae5bb46b84259308bcc5bfe",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T14:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
