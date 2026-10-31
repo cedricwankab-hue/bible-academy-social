@@ -494,10 +494,11 @@
       "planned": "2026-10-31T14:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae5bb46b84259308bcc5bfe",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-10-31T14:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702839336177306912",
+      "at": "2026-10-31T14:31:34.677Z"
     },
     "2026-10-31-countdown-lazarus-four-days-fb": {
       "platform": "fb",
@@ -519,6 +520,28 @@
       "status": "scheduled",
       "mode": "automatic",
       "dueAt": "2026-10-31T16:30:00.000Z",
+      "permalink": null
+    },
+    "2026-10-31-november-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-31T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6004b1ee172cd6da8a670",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T19:15:00.000Z",
+      "permalink": null
+    },
+    "2026-10-31-november-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6004cf0984eef3314ba46",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T19:30:00.000Z",
       "permalink": null
     }
   },
@@ -612,6 +635,11 @@
       "id": "2026-10-31-saul-endor-1-samuel-28-ig",
       "at": "2026-10-31T14:13:13.884Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Adt7sdtv"
+    },
+    {
+      "id": "2026-10-31-saul-endor-1-samuel-28-ig",
+      "at": "2026-10-31T14:50:50.938Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AtQT_D1V"
     }
   ]
 }

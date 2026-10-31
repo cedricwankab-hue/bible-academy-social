@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-31T08:26:45.530Z",
+  "at": "2026-10-31T14:50:52.850Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -117,7 +117,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 185,
+      "impressions": 186,
       "shares": 0,
       "clicks": 0
     },
@@ -187,8 +187,8 @@
       "at": "2026-10-29T16:15:48.240Z",
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 0.59,
-      "impressions": 170,
+      "engagementRate": 0.58,
+      "impressions": 172,
       "shares": 0,
       "clicks": 0
     },
@@ -203,7 +203,7 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0.22,
-      "averageTimeWatched": 1.37
+      "averageTimeWatched": 1.26
     },
     "2026-10-29-countdown-jerubbaal-ig": {
       "platform": "ig",
@@ -246,12 +246,12 @@
       "at": "2026-10-29T19:31:59.663Z",
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 0.42,
-      "views": 472,
+      "engagementRate": 0.34,
+      "views": 594,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 77.25,
-      "averageTimeWatched": 9.54
+      "reach": 204,
+      "totalTimeWatched": 81.77,
+      "averageTimeWatched": 7.99
     },
     "2026-10-29-winter-arc-faith-rules-fb": {
       "platform": "fb",
@@ -268,14 +268,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-10-29T23:01:36.741Z",
-      "reactions": 4,
+      "reactions": 7,
       "comments": 0,
-      "engagementRate": 1.89,
-      "views": 212,
+      "engagementRate": 1.84,
+      "views": 381,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 20.7,
-      "averageTimeWatched": 5.57
+      "reach": 49,
+      "totalTimeWatched": 37.5,
+      "averageTimeWatched": 5.68
     },
     "2026-10-29-winter-arc-faith-rules-ig": {
       "platform": "ig",
@@ -307,12 +307,12 @@
       "at": "2026-10-30T01:32:03.373Z",
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 1.18,
-      "views": 170,
+      "engagementRate": 1.17,
+      "views": 171,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 3.7,
-      "averageTimeWatched": 1.29
+      "totalTimeWatched": 3.85,
+      "averageTimeWatched": 1.32
     },
     "2026-10-29-guess-who-tabitha-fb": {
       "platform": "fb",
@@ -321,7 +321,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 201,
+      "impressions": 204,
       "shares": 0,
       "clicks": 0
     },
@@ -355,7 +355,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 142,
       "shares": 0,
       "clicks": 0
     },
@@ -374,8 +374,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T16:00:36.325Z",
-      "views": 45,
-      "reach": 41,
+      "views": 46,
+      "reach": 42,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -386,14 +386,14 @@
       "platform": "tt",
       "kind": "video",
       "at": "2026-10-30T23:01:08.928Z",
-      "reactions": 0,
+      "reactions": 1,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 0.76,
+      "views": 131,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 2.17,
+      "averageTimeWatched": 0.98
     },
     "2026-10-30-countdown-judah-sells-joseph-fb": {
       "platform": "fb",
@@ -402,7 +402,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 206,
       "shares": 0,
       "clicks": 0
     },
@@ -413,7 +413,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 26,
       "shares": 0,
       "clicks": 0
     },
@@ -424,18 +424,18 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 140,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 3.63,
+      "averageTimeWatched": 1.65
     },
     "2026-10-30-countdown-judah-sells-joseph-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-30T22:30:37.161Z",
-      "views": 27,
-      "reach": 26,
+      "views": 31,
+      "reach": 30,
       "saved": 0,
       "shares": 0,
       "likes": 1,
@@ -446,13 +446,50 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-31T01:00:45.405Z",
-      "views": 8,
-      "reach": 8,
+      "views": 11,
+      "reach": 11,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0
+    },
+    "2026-10-31-saul-endor-1-samuel-28-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-10-31T12:15:44.079Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-10-31-repost-bible-quiz-2-cana-jonah-balaam-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-10-31T10:32:12.502Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 57,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 4.67,
+      "averageTimeWatched": 6.83
+    },
+    "2026-10-31-repost-countdown-gadara-swine-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-10-31T14:31:34.677Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
     }
   }
 }
