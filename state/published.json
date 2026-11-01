@@ -623,6 +623,28 @@
       "planned": "2026-11-01T01:00:00.000Z",
       "mediaId": "18078462821755293",
       "permalink": "https://www.instagram.com/reel/DfLgGsRiMtM/"
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-01T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6fb4f21c807e9d5abd2fc",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T13:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-01T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6fb4f37c1acd2a0f50b6d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T13:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
