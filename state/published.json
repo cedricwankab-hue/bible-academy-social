@@ -737,14 +737,31 @@
       "mode": "automatic",
       "dueAt": "2026-11-02T00:00:00.000Z",
       "permalink": null
+    },
+    "2026-11-01-guess-who-lydia-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-02T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7b377d016796999f19b1c",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T02:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-01-guess-who-lydia-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-02T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7b378779ee9f13cb8e2cd",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T02:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-10-30-discipline-is-worship-ig",
-      "at": "2026-10-30T19:43:52.491Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AzGdvxKl"
-    },
     {
       "id": "2026-10-30-discipline-is-worship-tt",
       "at": "2026-10-30T19:43:52.761Z",
@@ -989,6 +1006,11 @@
       "id": "2026-11-01-sunday-reset-lock-in-ig",
       "at": "2026-11-01T21:08:08.131Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AfQfqusj"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-01T21:47:34.847Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AdrZ04MY"
     }
   ]
 }
