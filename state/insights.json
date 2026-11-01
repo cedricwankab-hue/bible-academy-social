@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-01T17:00:47.098Z",
+  "at": "2026-11-01T23:30:41.703Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -247,7 +247,7 @@
       "reactions": 2,
       "comments": 0,
       "engagementRate": 0.34,
-      "views": 594,
+      "views": 595,
       "shares": 0,
       "reach": 547,
       "totalTimeWatched": 81.77,
@@ -270,12 +270,12 @@
       "at": "2026-10-29T23:01:36.741Z",
       "reactions": 7,
       "comments": 0,
-      "engagementRate": 1.84,
-      "views": 381,
+      "engagementRate": 1.83,
+      "views": 382,
       "shares": 0,
       "reach": 338,
-      "totalTimeWatched": 37.5,
-      "averageTimeWatched": 5.68
+      "totalTimeWatched": 37.52,
+      "averageTimeWatched": 5.67
     },
     "2026-10-29-winter-arc-faith-rules-ig": {
       "platform": "ig",
@@ -388,8 +388,8 @@
       "at": "2026-10-30T23:01:08.928Z",
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 0.45,
-      "views": 224,
+      "engagementRate": 0.44,
+      "views": 225,
       "shares": 0,
       "reach": 38,
       "totalTimeWatched": 3.53,
@@ -424,11 +424,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 247,
+      "views": 248,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 6.45,
-      "averageTimeWatched": 1.51
+      "totalTimeWatched": 6.53,
+      "averageTimeWatched": 1.52
     },
     "2026-10-30-countdown-judah-sells-joseph-ig": {
       "platform": "ig",
@@ -471,12 +471,12 @@
       "at": "2026-10-31T10:32:12.502Z",
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 0.89,
-      "views": 224,
+      "engagementRate": 0.88,
+      "views": 227,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 52.87,
-      "averageTimeWatched": 13.44
+      "totalTimeWatched": 52.97,
+      "averageTimeWatched": 13.19
     },
     "2026-10-31-repost-countdown-gadara-swine-tt": {
       "platform": "tt",
@@ -488,7 +488,7 @@
       "views": 244,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 5.02,
+      "totalTimeWatched": 5.03,
       "averageTimeWatched": 1.22
     },
     "2026-10-31-countdown-lazarus-four-days-fb": {
@@ -509,11 +509,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 34,
+      "views": 43,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.63,
-      "averageTimeWatched": 1.07
+      "totalTimeWatched": 0.82,
+      "averageTimeWatched": 1.05
     },
     "2026-10-31-november-reset-faith-edition-fb": {
       "platform": "fb",
@@ -533,11 +533,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 1,
+      "views": 2,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.05,
-      "averageTimeWatched": 3.26
+      "totalTimeWatched": 0.1,
+      "averageTimeWatched": 3.15
     },
     "2026-10-31-countdown-lazarus-four-days-ig": {
       "platform": "ig",
@@ -558,11 +558,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 2,
+      "views": 4,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.12,
-      "averageTimeWatched": 3.62
+      "totalTimeWatched": 0.22,
+      "averageTimeWatched": 2.78
     },
     "2026-10-31-esther-character-7-slides-fb": {
       "platform": "fb",
@@ -582,11 +582,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 2,
+      "views": 3,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.03,
-      "averageTimeWatched": 1.39
+      "totalTimeWatched": 0.07,
+      "averageTimeWatched": 1.36
     },
     "2026-10-31-guess-who-rahab-fb": {
       "platform": "fb",
@@ -606,11 +606,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 1,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.05,
+      "averageTimeWatched": 1.25
     },
     "2026-10-31-guess-who-rahab-ig": {
       "platform": "ig",
@@ -642,11 +642,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 2,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.05,
+      "averageTimeWatched": 0.93
     },
     "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
       "platform": "tt",
@@ -655,23 +655,71 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 3,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.08,
+      "averageTimeWatched": 1.09
     },
     "2026-11-01-countdown-borrowed-axe-head-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-01T17:00:46.541Z",
-      "views": 0,
-      "reach": 0,
+      "views": 67,
+      "reach": 62,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0
+    },
+    "2026-11-01-countdown-borrowed-axe-head-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-11-01T17:31:37.013Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 2,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0.02,
+      "averageTimeWatched": 0.74
+    },
+    "2026-11-01-countdown-borrowed-axe-head-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-01T17:15:31.634Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-01-sunday-reset-lock-in-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-11-01T20:15:32.686Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-01-sunday-reset-lock-in-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-11-01T20:32:10.000Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
     }
   }
 }

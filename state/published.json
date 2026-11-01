@@ -763,16 +763,6 @@
   },
   "errors": [
     {
-      "id": "2026-10-30-discipline-is-worship-tt",
-      "at": "2026-10-30T19:43:52.761Z",
-      "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-    },
-    {
-      "id": "2026-10-30-discipline-is-worship-ig",
-      "at": "2026-10-30T20:21:53.588Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AsIcx2t2"
-    },
-    {
       "id": "2026-10-30-discipline-is-worship-ig",
       "at": "2026-10-30T21:11:20.291Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZbgsjgm"
@@ -1011,6 +1001,16 @@
       "id": "2026-11-01-sunday-reset-lock-in-ig",
       "at": "2026-11-01T21:47:34.847Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AdrZ04MY"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-01T22:29:35.436Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ARtIk55T"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-01T23:30:41.239Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A68JLAzG"
     }
   ]
 }
