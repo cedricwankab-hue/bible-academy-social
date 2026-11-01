@@ -713,14 +713,31 @@
       "planned": "2026-11-01T17:00:00.000Z",
       "mediaId": "17917800780537853",
       "permalink": "https://www.instagram.com/reel/DfNN928ilT_/"
+    },
+    "2026-11-01-hidden-details-2-sunday-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-01T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae79a75b7d22b897a0d1fcb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-01-hidden-details-2-sunday-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-02T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae79a765604f9d85b85952c",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T00:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt",
-      "at": "2026-10-30T12:41:06.617Z",
-      "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-    },
     {
       "id": "2026-10-30-countdown-gadara-swine-tt",
       "at": "2026-10-30T17:18:09.635Z",
@@ -965,6 +982,11 @@
       "id": "2026-11-01-elijah-broom-tree-1-kings-19-ig",
       "at": "2026-11-01T18:18:37.922Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ATD9aib3"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-01T20:00:52.601Z",
+      "error": "POST /17841467603931873/media_publish → 500 {\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AtvzrcbtsL8FTSGaFJfAKQc\"}"
     }
   ]
 }
