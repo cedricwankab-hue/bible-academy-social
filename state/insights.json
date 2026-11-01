@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-01T10:11:44.072Z",
+  "at": "2026-11-01T17:00:47.098Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -188,7 +188,7 @@
       "reactions": 1,
       "comments": 0,
       "engagementRate": 0.58,
-      "impressions": 172,
+      "impressions": 173,
       "shares": 0,
       "clicks": 0
     },
@@ -249,7 +249,7 @@
       "engagementRate": 0.34,
       "views": 594,
       "shares": 0,
-      "reach": 204,
+      "reach": 547,
       "totalTimeWatched": 81.77,
       "averageTimeWatched": 7.99
     },
@@ -273,7 +273,7 @@
       "engagementRate": 1.84,
       "views": 381,
       "shares": 0,
-      "reach": 49,
+      "reach": 338,
       "totalTimeWatched": 37.5,
       "averageTimeWatched": 5.68
     },
@@ -307,10 +307,10 @@
       "at": "2026-10-30T01:32:03.373Z",
       "reactions": 2,
       "comments": 0,
-      "engagementRate": 1.17,
-      "views": 171,
+      "engagementRate": 1.16,
+      "views": 172,
       "shares": 0,
-      "reach": 0,
+      "reach": 161,
       "totalTimeWatched": 3.85,
       "averageTimeWatched": 1.32
     },
@@ -388,12 +388,12 @@
       "at": "2026-10-30T23:01:08.928Z",
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 0.76,
-      "views": 131,
+      "engagementRate": 0.45,
+      "views": 224,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 2.17,
-      "averageTimeWatched": 0.98
+      "reach": 38,
+      "totalTimeWatched": 3.53,
+      "averageTimeWatched": 0.92
     },
     "2026-10-30-countdown-judah-sells-joseph-fb": {
       "platform": "fb",
@@ -402,7 +402,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 206,
+      "impressions": 208,
       "shares": 0,
       "clicks": 0
     },
@@ -424,11 +424,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 140,
+      "views": 247,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 3.63,
-      "averageTimeWatched": 1.65
+      "totalTimeWatched": 6.45,
+      "averageTimeWatched": 1.51
     },
     "2026-10-30-countdown-judah-sells-joseph-ig": {
       "platform": "ig",
@@ -469,14 +469,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-10-31T10:32:12.502Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 57,
+      "engagementRate": 0.89,
+      "views": 224,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 4.67,
-      "averageTimeWatched": 6.83
+      "totalTimeWatched": 52.87,
+      "averageTimeWatched": 13.44
     },
     "2026-10-31-repost-countdown-gadara-swine-tt": {
       "platform": "tt",
@@ -485,20 +485,20 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 244,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 5.02,
+      "averageTimeWatched": 1.22
     },
     "2026-10-31-countdown-lazarus-four-days-fb": {
       "platform": "fb",
       "kind": "reel",
       "at": "2026-10-31T16:15:35.509Z",
-      "reactions": 0,
+      "reactions": 1,
       "comments": 0,
-      "engagementRate": 0,
-      "impressions": 0,
+      "engagementRate": 0.5,
+      "impressions": 202,
       "shares": 0,
       "clicks": 0
     },
@@ -509,11 +509,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 34,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.63,
+      "averageTimeWatched": 1.07
     },
     "2026-10-31-november-reset-faith-edition-fb": {
       "platform": "fb",
@@ -522,7 +522,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 1,
       "shares": 0,
       "clicks": 0
     },
@@ -533,18 +533,18 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 1,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.05,
+      "averageTimeWatched": 3.26
     },
     "2026-10-31-countdown-lazarus-four-days-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-10-31T16:00:36.624Z",
-      "views": 12,
-      "reach": 11,
+      "views": 16,
+      "reach": 14,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -558,11 +558,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 2,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.12,
+      "averageTimeWatched": 3.62
     },
     "2026-10-31-esther-character-7-slides-fb": {
       "platform": "fb",
@@ -582,20 +582,20 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 2,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.03,
+      "averageTimeWatched": 1.39
     },
     "2026-10-31-guess-who-rahab-fb": {
       "platform": "fb",
       "kind": "reel",
       "at": "2026-11-01T01:15:28.952Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "impressions": 0,
+      "engagementRate": 1.55,
+      "impressions": 129,
       "shares": 0,
       "clicks": 0
     },
@@ -616,8 +616,57 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-01T01:00:33.459Z",
-      "views": 14,
-      "reach": 12,
+      "views": 17,
+      "reach": 15,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-11-01T13:15:29.664Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-11-01T13:31:54.433Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-11-01T15:02:07.596Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-01-countdown-borrowed-axe-head-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-01T17:00:46.541Z",
+      "views": 0,
+      "reach": 0,
       "saved": 0,
       "shares": 0,
       "likes": 0,
