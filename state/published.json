@@ -690,10 +690,11 @@
       "planned": "2026-11-01T20:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae75ee6fa39ab5d4d81bebf",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-01T20:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122099374569534302",
+      "at": "2026-11-01T20:15:32.686Z"
     },
     "2026-11-01-sunday-reset-lock-in-tt": {
       "platform": "tt",
@@ -738,11 +739,6 @@
     }
   },
   "errors": [
-    {
-      "id": "2026-10-30-countdown-gadara-swine-tt",
-      "at": "2026-10-30T17:18:09.635Z",
-      "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-    },
     {
       "id": "2026-10-30-discipline-is-worship-ig",
       "at": "2026-10-30T19:00:35.923Z",
@@ -987,6 +983,11 @@
       "id": "2026-11-01-sunday-reset-lock-in-ig",
       "at": "2026-11-01T20:00:52.601Z",
       "error": "POST /17841467603931873/media_publish → 500 {\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AtvzrcbtsL8FTSGaFJfAKQc\"}"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-01T20:28:08.006Z",
+      "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AJpiqu59sxKNbYIaGhkUSdY\"}"
     }
   ]
 }
