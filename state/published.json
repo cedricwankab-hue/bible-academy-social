@@ -717,11 +717,6 @@
   },
   "errors": [
     {
-      "id": "test-quiz-tt",
-      "at": "2026-10-28T14:48:05.780Z",
-      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
-    },
-    {
       "id": "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt",
       "at": "2026-10-30T12:41:06.617Z",
       "error": "Buffer : Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
@@ -965,6 +960,11 @@
       "id": "2026-11-01-elijah-broom-tree-1-kings-19-ig",
       "at": "2026-11-01T17:45:14.540Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Al9m6tou"
+    },
+    {
+      "id": "2026-11-01-elijah-broom-tree-1-kings-19-ig",
+      "at": "2026-11-01T18:18:37.922Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ATD9aib3"
     }
   ]
 }
