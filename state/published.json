@@ -645,6 +645,17 @@
       "mode": "automatic",
       "dueAt": "2026-11-01T13:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-01T15:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7105f21c807e9d5b12fd7",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T15:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
