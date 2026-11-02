@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-01T23:30:41.703Z",
+  "at": "2026-11-02T05:42:15.691Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -665,8 +665,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-01T17:00:46.541Z",
-      "views": 67,
-      "reach": 62,
+      "views": 75,
+      "reach": 67,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -720,6 +720,66 @@
       "reach": 0,
       "totalTimeWatched": 0,
       "averageTimeWatched": 0
+    },
+    "2026-11-01-hidden-details-2-sunday-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-11-01T23:45:31.039Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-01-hidden-details-2-sunday-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-11-02T00:01:51.356Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-01-guess-who-lydia-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-02T02:15:25.778Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-01-guess-who-lydia-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-11-02T02:31:56.030Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-01-guess-who-lydia-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-02T02:00:57.337Z",
+      "views": 6,
+      "reach": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
     }
   }
 }
