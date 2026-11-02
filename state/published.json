@@ -839,14 +839,17 @@
       "mode": "automatic",
       "dueAt": "2026-11-02T20:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-02-countdown-widow-pot-of-oil-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-02T17:00:37.005Z",
+      "planned": "2026-11-02T17:00:00.000Z",
+      "mediaId": "18195933835396654",
+      "permalink": "https://www.instagram.com/reel/DfPywk9iZ_b/"
     }
   },
   "errors": [
-    {
-      "id": "2026-10-31-saul-endor-1-samuel-28-ig",
-      "at": "2026-10-31T16:48:41.438Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZJLeMVx"
-    },
     {
       "id": "2026-10-31-saul-endor-1-samuel-28-ig",
       "at": "2026-10-31T17:27:19.180Z",
@@ -1091,6 +1094,11 @@
       "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
       "at": "2026-11-02T15:53:31.304Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQ7ZHRsm"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T16:56:28.348Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUwbOSyN"
     }
   ]
 }
