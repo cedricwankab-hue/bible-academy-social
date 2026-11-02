@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '30 8 * * *'   # 9 h 30 à Paris en hiver (GitHub lance souvent avec du retard : arrivée vers 10 h)
   push:
-    paths: ['creators/pool.json', 'creators/trigger']
+    paths: ['creators/pool.json', 'creators/ig-pool.json', 'creators/trigger']
   workflow_dispatch:
 permissions:
   contents: write
@@ -21,5 +21,5 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       - run: |
           git config user.name "bible-academy-bot"; git config user.email "bot@bibleacademyapp.com"
-          git add creators/sent.json 2>/dev/null || true
+          git add creators/sent.json 2>/dev/null || true; git add creators/ig-sent.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "Créateurs envoyés" && git pull --rebase -q && git push -q)
