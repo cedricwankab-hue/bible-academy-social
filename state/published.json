@@ -860,14 +860,20 @@
       "mode": "automatic",
       "dueAt": "2026-11-02T23:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-02-mephibosheth-2-samuel-9-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-03T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8ebf8ff93b610bb96cb6e",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T00:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-10-31-november-reset-faith-edition-ig",
-      "at": "2026-10-31T19:24:36.227Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Abr0aSHB"
-    },
     {
       "id": "2026-10-31-november-reset-faith-edition-ig",
       "at": "2026-10-31T20:00:28.945Z",
@@ -1112,6 +1118,11 @@
       "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
       "at": "2026-11-02T18:49:20.997Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AYOYTcqJ"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T20:00:55.561Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvtgP_24"
     }
   ]
 }
