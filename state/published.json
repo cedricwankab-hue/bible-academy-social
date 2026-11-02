@@ -802,10 +802,11 @@
       "planned": "2026-11-02T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae88981386d2d7c133e1a59",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-02T17:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703628039439060256",
+      "at": "2026-11-02T17:33:18.216Z"
     },
     "2026-11-02-countdown-widow-pot-of-oil-fb": {
       "platform": "fb",
@@ -813,10 +814,11 @@
       "planned": "2026-11-02T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae88982386d2d7c133e1bf4",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-02T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/2027529724603582/",
+      "at": "2026-11-02T17:15:47.554Z"
     },
     "2026-11-02-5am-club-faith-edition-fb": {
       "platform": "fb",
@@ -850,11 +852,6 @@
     }
   },
   "errors": [
-    {
-      "id": "2026-10-31-saul-endor-1-samuel-28-ig",
-      "at": "2026-10-31T17:27:19.180Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A6nlbld2"
-    },
     {
       "id": "2026-10-31-november-reset-faith-edition-ig",
       "at": "2026-10-31T19:00:40.731Z",
@@ -1099,6 +1096,11 @@
       "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
       "at": "2026-11-02T16:56:28.348Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUwbOSyN"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T17:51:43.998Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKbXFjT3"
     }
   ]
 }
