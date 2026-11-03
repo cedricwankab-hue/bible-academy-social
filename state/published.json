@@ -929,6 +929,36 @@
       "mode": "automatic",
       "dueAt": "2026-11-03T13:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-03-countdown-elijah-ravens-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-03T13:00:37.434Z",
+      "planned": "2026-11-03T13:00:00.000Z",
+      "mediaId": "18133337233805416",
+      "permalink": "https://www.instagram.com/reel/DfR8Fh2gQCZ/"
+    },
+    "2026-11-03-guess-who-caleb-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-03T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae9daf82d879310e0cc2707",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-03-guess-who-caleb-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-03T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae9daf9beaa26e1a09063f9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T17:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
