@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-03T02:30:54.696Z",
+  "at": "2026-11-03T08:40:54.891Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -904,13 +904,26 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-03T02:00:48.177Z",
-      "views": 0,
-      "reach": 0,
+      "views": 11,
+      "reach": 10,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0
+    },
+    "2026-11-02-guess-who-barnabas-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "at": "2026-11-03T02:31:58.554Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
     }
   }
 }
