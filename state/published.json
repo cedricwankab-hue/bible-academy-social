@@ -858,10 +858,11 @@
       "planned": "2026-11-02T23:45:00.000Z",
       "via": "buffer",
       "bufferId": "6ae8db31c25538a9f8ce0ad3",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-02T23:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122100377865534302",
+      "at": "2026-11-02T23:45:29.863Z"
     },
     "2026-11-02-mephibosheth-2-samuel-9-tt": {
       "platform": "tt",
@@ -869,10 +870,11 @@
       "planned": "2026-11-03T00:00:00.000Z",
       "via": "buffer",
       "bufferId": "6ae8ebf8ff93b610bb96cb6e",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-03T00:00:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703728343681682720",
+      "at": "2026-11-03T00:01:51.415Z"
     },
     "2026-11-02-guess-who-barnabas-fb": {
       "platform": "fb",
@@ -898,16 +900,6 @@
     }
   },
   "errors": [
-    {
-      "id": "2026-10-31-november-reset-faith-edition-ig",
-      "at": "2026-10-31T22:46:16.777Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ATgUCV6h"
-    },
-    {
-      "id": "2026-10-31-esther-character-7-slides-ig",
-      "at": "2026-10-31T22:47:22.258Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZisA5Hu"
-    },
     {
       "id": "2026-10-31-november-reset-faith-edition-ig",
       "at": "2026-10-31T23:28:59.370Z",
@@ -1147,6 +1139,16 @@
       "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
       "at": "2026-11-02T23:30:50.748Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"APZmE0fE"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-03T00:16:36.644Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AJBZxSNP"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T00:17:16.277Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A-LMy3qU"
     }
   ]
 }
