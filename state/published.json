@@ -961,6 +961,28 @@
       "mode": "automatic",
       "dueAt": "2026-11-03T17:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-03-dopamine-detox-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-03T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea00e8b75704f9ac5ed700",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-03-dopamine-detox-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-03T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea00e9eeb55128686ec53a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T20:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
