@@ -912,11 +912,6 @@
   "errors": [
     {
       "id": "2026-10-31-esther-character-7-slides-ig",
-      "at": "2026-11-01T03:15:25.033Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AkrvAHAS"
-    },
-    {
-      "id": "2026-10-31-esther-character-7-slides-ig",
       "at": "2026-11-01T03:28:24.734Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"APcsz6Hd"
     },
@@ -1159,6 +1154,11 @@
       "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
       "at": "2026-11-03T04:28:54.250Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADGB-LgD"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T05:25:08.799Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AK1R7oKB"
     }
   ]
 }
