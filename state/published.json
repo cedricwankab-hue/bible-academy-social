@@ -914,10 +914,11 @@
       "planned": "2026-11-03T13:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae99e15c54a95d99b1f49f2",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-03T13:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703937334005271841",
+      "at": "2026-11-03T13:33:28.676Z"
     },
     "2026-11-03-countdown-elijah-ravens-fb": {
       "platform": "fb",
@@ -925,10 +926,11 @@
       "planned": "2026-11-03T13:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae99e15c54a95d99b1f4a2e",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-03T13:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1670780748049633/",
+      "at": "2026-11-03T13:15:38.630Z"
     },
     "2026-11-03-countdown-elijah-ravens-ig": {
       "platform": "ig",
