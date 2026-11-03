@@ -946,10 +946,11 @@
       "planned": "2026-11-03T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6ae9daf82d879310e0cc2707",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-03T17:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703999011220426016",
+      "at": "2026-11-03T17:31:40.390Z"
     },
     "2026-11-03-guess-who-caleb-fb": {
       "platform": "fb",
@@ -957,10 +958,11 @@
       "planned": "2026-11-03T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6ae9daf9beaa26e1a09063f9",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-03T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1674068090976301/",
+      "at": "2026-11-03T17:15:36.589Z"
     },
     "2026-11-03-dopamine-detox-faith-edition-fb": {
       "platform": "fb",
