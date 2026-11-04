@@ -1069,10 +1069,11 @@
       "planned": "2026-11-04T13:15:00.000Z",
       "via": "buffer",
       "bufferId": "6aeaf2bde478396c27590551",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T13:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1165761852961516/",
+      "at": "2026-11-04T13:15:46.365Z"
     },
     "2026-11-04-countdown-saul-lost-donkeys-ig": {
       "platform": "ig",
@@ -1081,6 +1082,28 @@
       "planned": "2026-11-04T13:00:00.000Z",
       "mediaId": "18060179849798447",
       "permalink": "https://www.instagram.com/reel/DfUg4aMDZFK/"
+    },
+    "2026-11-04-guess-who-ananias-damascus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-04T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb3075e8225dc18de22444",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-04-guess-who-ananias-damascus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-04T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb3076380a83ae5308361d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T17:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
