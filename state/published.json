@@ -1161,14 +1161,31 @@
       "mode": "automatic",
       "dueAt": "2026-11-05T00:00:00.000Z",
       "permalink": null
+    },
+    "2026-11-04-countdown-aaron-rod-almonds-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-05T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeba465dce07267a19419e2",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-04-countdown-aaron-rod-almonds-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-05T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeba4660baebf13ccc192eb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T02:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-01-sunday-reset-lock-in-ig",
-      "at": "2026-11-01T23:45:05.512Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A2XQbTeM"
-    },
     {
       "id": "2026-11-01-hidden-details-2-sunday-ig",
       "at": "2026-11-01T23:45:54.100Z",
@@ -1413,6 +1430,11 @@
       "id": "2026-11-04-10pm-reset-faith-edition-ig",
       "at": "2026-11-04T20:34:39.772Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ABgAfP6c"
+    },
+    {
+      "id": "2026-11-04-10pm-reset-faith-edition-ig",
+      "at": "2026-11-04T21:32:21.054Z",
+      "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
     }
   ]
 }
