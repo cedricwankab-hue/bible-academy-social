@@ -1058,10 +1058,11 @@
       "planned": "2026-11-04T13:30:00.000Z",
       "via": "buffer",
       "bufferId": "6aeaf2bcc63bd995bd28fb4e",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T13:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704308336069512481",
+      "at": "2026-11-04T13:32:14.583Z"
     },
     "2026-11-04-countdown-saul-lost-donkeys-fb": {
       "platform": "fb",
