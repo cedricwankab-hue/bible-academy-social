@@ -1137,14 +1137,31 @@
       "planned": "2026-11-04T17:00:00.000Z",
       "mediaId": "18572621887075841",
       "permalink": "https://www.instagram.com/reel/DfU8WUmnHip/"
+    },
+    "2026-11-04-philippians-4-13-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-04T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb8ef58aec178794a3a326",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-04-philippians-4-13-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-05T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb8ef5a101dc5e7730b3bd",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T00:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-01-sunday-reset-lock-in-ig",
-      "at": "2026-11-01T22:29:35.436Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ARtIk55T"
-    },
     {
       "id": "2026-11-01-hidden-details-2-sunday-ig",
       "at": "2026-11-01T23:30:41.239Z",
@@ -1389,6 +1406,11 @@
       "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
       "at": "2026-11-04T05:30:42.556Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aq-cLPtc"
+    },
+    {
+      "id": "2026-11-04-10pm-reset-faith-edition-ig",
+      "at": "2026-11-04T20:00:52.397Z",
+      "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AZd44RdCqi9KXWx4tlfDJAU\"}"
     }
   ]
 }
