@@ -1105,6 +1105,28 @@
       "mode": "automatic",
       "dueAt": "2026-11-04T17:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-04-10pm-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-04T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb5090c7c81a1788945449",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-04-10pm-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-04T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb50913792c9d846bf3d4a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T20:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
