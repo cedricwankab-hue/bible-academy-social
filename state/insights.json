@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-04T17:00:38.396Z",
+  "at": "2026-11-04T23:31:34.289Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1092,7 +1092,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "averageTimeWatched": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-countdown-saul-lost-donkeys-fb": {
       "platform": "fb",
@@ -1103,7 +1104,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-countdown-saul-lost-donkeys-ig": {
       "platform": "ig",
@@ -1121,13 +1123,29 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-04T17:00:37.615Z",
-      "views": 0,
-      "reach": 0,
+      "views": 11,
+      "reach": 5,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
+    },
+    "2026-11-04-guess-who-ananias-damascus-tt": {
+      "platform": "tt",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+    },
+    "2026-11-04-guess-who-ananias-damascus-fb": {
+      "platform": "fb",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+    },
+    "2026-11-04-10pm-reset-faith-edition-fb": {
+      "platform": "fb",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+    },
+    "2026-11-04-10pm-reset-faith-edition-tt": {
+      "platform": "tt",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     }
   }
 }
