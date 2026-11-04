@@ -1026,10 +1026,11 @@
       "planned": "2026-11-04T02:15:00.000Z",
       "via": "buffer",
       "bufferId": "6aea4f7984e334d814e210ac",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T02:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1861656658194697/",
+      "at": "2026-11-04T02:15:21.463Z"
     },
     "2026-11-03-countdown-huldah-prophetess-tt": {
       "platform": "tt",
@@ -1037,10 +1038,11 @@
       "planned": "2026-11-04T02:30:00.000Z",
       "via": "buffer",
       "bufferId": "6aea5d3b0a183b1b74319420",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T02:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704137764433857824",
+      "at": "2026-11-04T02:31:55.653Z"
     },
     "2026-11-03-countdown-huldah-prophetess-ig": {
       "platform": "ig",
@@ -1052,11 +1054,6 @@
     }
   },
   "errors": [
-    {
-      "id": "2026-11-01-sunday-reset-lock-in-ig",
-      "at": "2026-11-01T20:00:52.601Z",
-      "error": "POST /17841467603931873/media_publish → 500 {\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"type\":\"OAuthException\",\"is_transient\":true,\"code\":2,\"fbtrace_id\":\"AtvzrcbtsL8FTSGaFJfAKQc\"}"
-    },
     {
       "id": "2026-11-01-sunday-reset-lock-in-ig",
       "at": "2026-11-01T20:28:08.006Z",
@@ -1301,6 +1298,11 @@
       "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
       "at": "2026-11-04T01:53:57.282Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AklH6nH7"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T02:42:59.509Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aora1Kjq"
     }
   ]
 }
