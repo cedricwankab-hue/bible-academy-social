@@ -1090,10 +1090,11 @@
       "planned": "2026-11-04T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6aeb3075e8225dc18de22444",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T17:30:00.000Z",
-      "permalink": null
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704370205127871776",
+      "at": "2026-11-04T17:32:05.057Z"
     },
     "2026-11-04-guess-who-ananias-damascus-fb": {
       "platform": "fb",
@@ -1101,10 +1102,11 @@
       "planned": "2026-11-04T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6aeb3076380a83ae5308361d",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-04T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1574312724448526/",
+      "at": "2026-11-04T17:15:43.105Z"
     },
     "2026-11-04-10pm-reset-faith-edition-fb": {
       "platform": "fb",
