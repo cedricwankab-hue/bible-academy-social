@@ -55,9 +55,24 @@ async function publishIG(item) {
     creation = (await ig('POST', `/${IG_USER}/media`, { image_url: item.media[0], caption: item.caption })).id;
   } else throw new Error('type inconnu : ' + item.kind);
   await waitReady(creation, item.kind);
-  const pub = await ig('POST', `/${IG_USER}/media_publish`, { creation_id: creation });
+  let pub;
+  try { pub = await ig('POST', `/${IG_USER}/media_publish`, { creation_id: creation }); }
+  catch (e) {
+    // Instagram répond parfois « action is blocked » alors que le post est bien sorti : on vérifie avant de conclure à un échec
+    await sleep(20000);
+    const found = await findPublished(item);
+    if (found) { log('publié malgré l’erreur Instagram :', item.id); return { ...found, note: 'publié malgré une erreur Instagram' }; }
+    throw e;
+  }
   const info = await ig('GET', `/${pub.id}`, { fields: 'permalink,timestamp' }).catch(() => ({}));
   return { mediaId: pub.id, permalink: info.permalink || null };
+}
+// cherche parmi les derniers posts du compte un post avec la même légende (début), publié dans les dernières 8 h
+async function findPublished(item) {
+  const head = (s) => String(s || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+  const r = await ig('GET', `/${IG_USER}/media`, { fields: 'id,caption,permalink,timestamp', limit: '25' }).catch(() => ({ data: [] }));
+  const m = (r.data || []).find((x) => head(x.caption) === head(item.caption) && Date.now() - Date.parse(x.timestamp) < 8 * 3600e3);
+  return m ? { mediaId: m.id, permalink: m.permalink || null } : null;
 }
 
 // ——— TikTok et Facebook : on confie chaque publication à Buffer ~1 h avant son heure, Buffer la publie à l'heure exacte ———
@@ -125,7 +140,15 @@ const fail = (item, e) => {
   state.errors = state.errors.slice(-50);
   changed = true;
 };
-for (const item of dueIG.slice(0, 3)) {          // au plus 3 par passage
+// pause Instagram : après un « action is blocked », on ne publie plus rien sur Instagram pendant 48 h (le compte doit refroidir)
+const igPaused = state.igPauseUntil && Date.parse(state.igPauseUntil) > NOW && !ONLY;
+if (igPaused && dueIG.length) log('Instagram en pause jusqu’au', state.igPauseUntil, ':', dueIG.length, 'publication(s) reportée(s)');
+for (const item of igPaused ? [] : dueIG.slice(0, 3)) {          // au plus 3 par passage
+  // déjà tenté et en échec : on vérifie d'abord qu'il n'est pas déjà en ligne (jamais de doublon)
+  if (!DRY && state.errors.some((e) => e.id === item.id)) {
+    const found = await findPublished(item).catch(() => null);
+    if (found) { state.published[item.id] = { platform: 'ig', kind: item.kind, at: new Date().toISOString(), planned: item.at, ...found, note: 'retrouvé en ligne' }; changed = true; log('déjà en ligne :', item.id); continue; }
+  }
   try {
     const wait = Date.parse(item.at) - Date.now();
     if (!ONLY && wait > 0) { log('attente de l’heure prévue :', item.id, Math.round(wait / 1000), 's'); if (!DRY) await sleep(wait); }
@@ -134,7 +157,10 @@ for (const item of dueIG.slice(0, 3)) {          // au plus 3 par passage
     state.published[item.id] = { platform: 'ig', kind: item.kind, at: new Date().toISOString(), planned: item.at, ...res };
     log('✓', item.id, res.permalink || res.mediaId);
     changed = true;
-  } catch (e) { fail(item, e); }
+  } catch (e) {
+    fail(item, e);
+    if (/action is blocked|2207051/.test(e.message)) { state.igPauseUntil = new Date(Date.now() + 48 * 3600e3).toISOString(); log('Instagram bloque les publications : pause de 48 h'); break; }
+  }
 }
 if (BUFFER_KEY) {
   for (const item of dueBuf.slice(0, 6)) {
