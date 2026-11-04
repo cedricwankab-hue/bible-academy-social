@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-04T03:30:45.065Z",
+  "at": "2026-11-04T09:54:37.371Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -644,7 +644,7 @@
       "engagementRate": 0,
       "views": 5,
       "shares": 0,
-      "reach": 2,
+      "reach": 3,
       "totalTimeWatched": 0.1,
       "averageTimeWatched": 1.12
     },
@@ -655,11 +655,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 8,
+      "views": 10,
       "shares": 0,
-      "reach": 2,
-      "totalTimeWatched": 0.22,
-      "averageTimeWatched": 1.36
+      "reach": 5,
+      "totalTimeWatched": 4.13,
+      "averageTimeWatched": 20.67
     },
     "2026-11-01-countdown-borrowed-axe-head-ig": {
       "platform": "ig",
@@ -717,7 +717,7 @@
       "engagementRate": 0,
       "views": 7,
       "shares": 0,
-      "reach": 2,
+      "reach": 7,
       "totalTimeWatched": 1.1,
       "averageTimeWatched": 5.57
     },
@@ -741,7 +741,7 @@
       "engagementRate": 0,
       "views": 2,
       "shares": 0,
-      "reach": 0,
+      "reach": 1,
       "totalTimeWatched": 0.07,
       "averageTimeWatched": 1.2
     },
@@ -765,7 +765,7 @@
       "engagementRate": 0,
       "views": 3,
       "shares": 0,
-      "reach": 0,
+      "reach": 3,
       "totalTimeWatched": 0.25,
       "averageTimeWatched": 3.05
     },
@@ -798,12 +798,12 @@
       "at": "2026-11-02T13:33:50.470Z",
       "reactions": 1,
       "comments": 0,
-      "engagementRate": 2.78,
-      "views": 36,
+      "engagementRate": 1.89,
+      "views": 53,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 4.47,
-      "averageTimeWatched": 7.27
+      "reach": 22,
+      "totalTimeWatched": 4.95,
+      "averageTimeWatched": 5.4
     },
     "2026-11-02-countdown-widow-pot-of-oil-tt": {
       "platform": "tt",
@@ -812,11 +812,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 68,
+      "views": 108,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 2.17,
-      "averageTimeWatched": 1.95
+      "reach": 44,
+      "totalTimeWatched": 2.7,
+      "averageTimeWatched": 1.48
     },
     "2026-11-02-countdown-widow-pot-of-oil-fb": {
       "platform": "fb",
@@ -856,14 +856,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-11-02T20:32:06.267Z",
-      "reactions": 3,
+      "reactions": 4,
       "comments": 0,
-      "engagementRate": 2.16,
-      "views": 139,
+      "engagementRate": 1.62,
+      "views": 247,
       "shares": 0,
-      "reach": 0,
-      "totalTimeWatched": 5.63,
-      "averageTimeWatched": 2.45
+      "reach": 79,
+      "totalTimeWatched": 11.15,
+      "averageTimeWatched": 2.72
     },
     "2026-11-02-mephibosheth-2-samuel-9-fb": {
       "platform": "fb",
@@ -880,14 +880,14 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-11-03T00:01:51.415Z",
-      "reactions": 0,
+      "reactions": 1,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 45,
+      "engagementRate": 0.51,
+      "views": 196,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 4.75,
-      "averageTimeWatched": 6.21
+      "totalTimeWatched": 10.88,
+      "averageTimeWatched": 3.2
     },
     "2026-11-02-guess-who-barnabas-fb": {
       "platform": "fb",
@@ -896,7 +896,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 181,
+      "impressions": 214,
       "shares": 0,
       "clicks": 0
     },
@@ -919,11 +919,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 21,
+      "views": 105,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0.92,
-      "averageTimeWatched": 2.76
+      "totalTimeWatched": 2.5,
+      "averageTimeWatched": 1.38
     },
     "2026-11-03-countdown-elijah-ravens-tt": {
       "platform": "tt",
@@ -932,11 +932,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 65,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 1.27,
+      "averageTimeWatched": 1.13
     },
     "2026-11-03-countdown-elijah-ravens-fb": {
       "platform": "fb",
@@ -945,7 +945,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 206,
       "shares": 0,
       "clicks": 0
     },
@@ -968,11 +968,11 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 50,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 2.12,
+      "averageTimeWatched": 2.44
     },
     "2026-11-03-guess-who-caleb-fb": {
       "platform": "fb",
@@ -981,7 +981,7 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "impressions": 0,
+      "impressions": 206,
       "shares": 0,
       "clicks": 0
     },
@@ -1000,21 +1000,21 @@
       "platform": "tt",
       "kind": "photo",
       "at": "2026-11-03T20:31:56.788Z",
-      "reactions": 0,
+      "reactions": 6,
       "comments": 0,
-      "engagementRate": 0,
-      "views": 0,
+      "engagementRate": 2.94,
+      "views": 204,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 13.92,
+      "averageTimeWatched": 4.09
     },
     "2026-11-03-guess-who-caleb-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-03T17:00:35.438Z",
-      "views": 14,
-      "reach": 14,
+      "views": 21,
+      "reach": 21,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1039,20 +1039,20 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 72,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 1.8,
+      "averageTimeWatched": 1.49
     },
     "2026-11-03-countdown-huldah-prophetess-fb": {
       "platform": "fb",
       "kind": "reel",
       "at": "2026-11-04T02:15:21.463Z",
-      "reactions": 0,
+      "reactions": 2,
       "comments": 0,
-      "engagementRate": 0,
-      "impressions": 0,
+      "engagementRate": 1.55,
+      "impressions": 129,
       "shares": 0,
       "clicks": 0
     },
@@ -1063,18 +1063,18 @@
       "reactions": 0,
       "comments": 0,
       "engagementRate": 0,
-      "views": 0,
+      "views": 6,
       "shares": 0,
       "reach": 0,
-      "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "totalTimeWatched": 0.25,
+      "averageTimeWatched": 3.75
     },
     "2026-11-03-countdown-huldah-prophetess-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-04T02:00:36.917Z",
-      "views": 2,
-      "reach": 2,
+      "views": 6,
+      "reach": 5,
       "saved": 0,
       "shares": 0,
       "likes": 0,
