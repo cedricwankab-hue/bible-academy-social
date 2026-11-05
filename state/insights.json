@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-05T06:32:37.380Z",
+  "at": "2026-11-05T12:57:40.202Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -10,7 +10,8 @@
       "engagementRate": 0,
       "impressions": 142,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-countdown-jedidiah-tt": {
       "platform": "tt",
@@ -23,7 +24,8 @@
       "shares": 0,
       "reach": 1,
       "totalTimeWatched": 0.58,
-      "averageTimeWatched": 2.92
+      "averageTimeWatched": 2.92,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-countdown-jedidiah-ig": {
       "platform": "ig",
@@ -46,7 +48,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-5-hidden-details-tt": {
       "platform": "tt",
@@ -59,7 +62,8 @@
       "shares": 0,
       "reach": 1,
       "totalTimeWatched": 1.22,
-      "averageTimeWatched": 6.68
+      "averageTimeWatched": 6.68,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-5-hidden-details-ig": {
       "platform": "ig",
@@ -82,7 +86,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-abigail-1-samuel-25-tt": {
       "platform": "tt",
@@ -95,7 +100,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0.03,
-      "averageTimeWatched": 1.07
+      "averageTimeWatched": 1.07,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-guess-who-nicodemus-tt": {
       "platform": "tt",
@@ -108,7 +114,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0.08,
-      "averageTimeWatched": 1.27
+      "averageTimeWatched": 1.27,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-guess-who-nicodemus-fb": {
       "platform": "fb",
@@ -119,7 +126,8 @@
       "engagementRate": 0,
       "impressions": 186,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-28-abigail-1-samuel-25-ig": {
       "platform": "ig",
@@ -166,7 +174,8 @@
       "engagementRate": 0,
       "impressions": 1,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-jeremiah-29-11-context-tt": {
       "platform": "tt",
@@ -179,7 +188,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 4.1,
-      "averageTimeWatched": 123.07
+      "averageTimeWatched": 123.07,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-countdown-jerubbaal-fb": {
       "platform": "fb",
@@ -190,7 +200,8 @@
       "engagementRate": 0.58,
       "impressions": 173,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-countdown-jerubbaal-tt": {
       "platform": "tt",
@@ -203,7 +214,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0.22,
-      "averageTimeWatched": 1.26
+      "averageTimeWatched": 1.26,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-countdown-jerubbaal-ig": {
       "platform": "ig",
@@ -238,7 +250,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-naaman-2-kings-5-tt": {
       "platform": "tt",
@@ -251,7 +264,8 @@
       "shares": 0,
       "reach": 547,
       "totalTimeWatched": 81.78,
-      "averageTimeWatched": 7.97
+      "averageTimeWatched": 7.97,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-winter-arc-faith-rules-fb": {
       "platform": "fb",
@@ -262,7 +276,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-winter-arc-faith-rules-tt": {
       "platform": "tt",
@@ -275,7 +290,8 @@
       "shares": 0,
       "reach": 339,
       "totalTimeWatched": 37.55,
-      "averageTimeWatched": 5.65
+      "averageTimeWatched": 5.65,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-winter-arc-faith-rules-ig": {
       "platform": "ig",
@@ -312,7 +328,8 @@
       "shares": 0,
       "reach": 161,
       "totalTimeWatched": 3.85,
-      "averageTimeWatched": 1.32
+      "averageTimeWatched": 1.32,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-29-guess-who-tabitha-fb": {
       "platform": "fb",
@@ -323,7 +340,8 @@
       "engagementRate": 0,
       "impressions": 204,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-bible-quiz-2-cana-jonah-balaam-fb": {
       "platform": "fb",
@@ -334,7 +352,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
       "platform": "ig",
@@ -357,7 +376,8 @@
       "engagementRate": 0,
       "impressions": 145,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-discipline-is-worship-fb": {
       "platform": "fb",
@@ -368,7 +388,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-countdown-gadara-swine-ig": {
       "platform": "ig",
@@ -393,7 +414,8 @@
       "shares": 0,
       "reach": 198,
       "totalTimeWatched": 3.55,
-      "averageTimeWatched": 0.93
+      "averageTimeWatched": 0.93,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-countdown-judah-sells-joseph-fb": {
       "platform": "fb",
@@ -404,7 +426,8 @@
       "engagementRate": 0,
       "impressions": 208,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-guess-who-zacchaeus-fb": {
       "platform": "fb",
@@ -415,7 +438,8 @@
       "engagementRate": 0,
       "impressions": 28,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-guess-who-zacchaeus-tt": {
       "platform": "tt",
@@ -428,7 +452,8 @@
       "shares": 0,
       "reach": 227,
       "totalTimeWatched": 6.53,
-      "averageTimeWatched": 1.52
+      "averageTimeWatched": 1.52,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-30-countdown-judah-sells-joseph-ig": {
       "platform": "ig",
@@ -463,7 +488,8 @@
       "engagementRate": 0,
       "impressions": 3,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-repost-bible-quiz-2-cana-jonah-balaam-tt": {
       "platform": "tt",
@@ -476,7 +502,8 @@
       "shares": 0,
       "reach": 207,
       "totalTimeWatched": 52.97,
-      "averageTimeWatched": 13.14
+      "averageTimeWatched": 13.14,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-repost-countdown-gadara-swine-tt": {
       "platform": "tt",
@@ -489,7 +516,8 @@
       "shares": 0,
       "reach": 231,
       "totalTimeWatched": 5.03,
-      "averageTimeWatched": 1.22
+      "averageTimeWatched": 1.22,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-countdown-lazarus-four-days-fb": {
       "platform": "fb",
@@ -500,7 +528,8 @@
       "engagementRate": 0.49,
       "impressions": 203,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-countdown-lazarus-four-days-tt": {
       "platform": "tt",
@@ -513,7 +542,8 @@
       "shares": 0,
       "reach": 38,
       "totalTimeWatched": 0.82,
-      "averageTimeWatched": 1.05
+      "averageTimeWatched": 1.05,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-november-reset-faith-edition-fb": {
       "platform": "fb",
@@ -524,7 +554,8 @@
       "engagementRate": 0,
       "impressions": 2,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-november-reset-faith-edition-tt": {
       "platform": "tt",
@@ -537,7 +568,8 @@
       "shares": 0,
       "reach": 2,
       "totalTimeWatched": 0.12,
-      "averageTimeWatched": 2.33
+      "averageTimeWatched": 2.33,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-countdown-lazarus-four-days-ig": {
       "platform": "ig",
@@ -562,7 +594,8 @@
       "shares": 0,
       "reach": 4,
       "totalTimeWatched": 0.27,
-      "averageTimeWatched": 2.69
+      "averageTimeWatched": 2.69,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-esther-character-7-slides-fb": {
       "platform": "fb",
@@ -573,7 +606,8 @@
       "engagementRate": 0,
       "impressions": 1,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-esther-character-7-slides-tt": {
       "platform": "tt",
@@ -586,7 +620,8 @@
       "shares": 0,
       "reach": 3,
       "totalTimeWatched": 0.07,
-      "averageTimeWatched": 1.2
+      "averageTimeWatched": 1.2,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-guess-who-rahab-fb": {
       "platform": "fb",
@@ -597,7 +632,8 @@
       "engagementRate": 1,
       "impressions": 200,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-guess-who-rahab-tt": {
       "platform": "tt",
@@ -610,7 +646,8 @@
       "shares": 0,
       "reach": 1,
       "totalTimeWatched": 0.05,
-      "averageTimeWatched": 1.25
+      "averageTimeWatched": 1.25,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-10-31-guess-who-rahab-ig": {
       "platform": "ig",
@@ -633,7 +670,8 @@
       "engagementRate": 0,
       "impressions": 1,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-elijah-broom-tree-1-kings-19-tt": {
       "platform": "tt",
@@ -646,7 +684,8 @@
       "shares": 0,
       "reach": 3,
       "totalTimeWatched": 0.1,
-      "averageTimeWatched": 1.12
+      "averageTimeWatched": 1.12,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
       "platform": "tt",
@@ -659,7 +698,8 @@
       "shares": 0,
       "reach": 5,
       "totalTimeWatched": 4.13,
-      "averageTimeWatched": 20.67
+      "averageTimeWatched": 20.67,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-countdown-borrowed-axe-head-ig": {
       "platform": "ig",
@@ -684,7 +724,8 @@
       "shares": 0,
       "reach": 2,
       "totalTimeWatched": 0.03,
-      "averageTimeWatched": 0.94
+      "averageTimeWatched": 0.94,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-countdown-borrowed-axe-head-fb": {
       "platform": "fb",
@@ -695,7 +736,8 @@
       "engagementRate": 0,
       "impressions": 207,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-sunday-reset-lock-in-fb": {
       "platform": "fb",
@@ -706,7 +748,8 @@
       "engagementRate": 0,
       "impressions": 5,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-sunday-reset-lock-in-tt": {
       "platform": "tt",
@@ -719,7 +762,8 @@
       "shares": 0,
       "reach": 7,
       "totalTimeWatched": 1.1,
-      "averageTimeWatched": 5.57
+      "averageTimeWatched": 5.57,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-hidden-details-2-sunday-fb": {
       "platform": "fb",
@@ -730,7 +774,8 @@
       "engagementRate": 0,
       "impressions": 6,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-hidden-details-2-sunday-tt": {
       "platform": "tt",
@@ -743,7 +788,8 @@
       "shares": 0,
       "reach": 1,
       "totalTimeWatched": 0.07,
-      "averageTimeWatched": 1.2
+      "averageTimeWatched": 1.2,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-guess-who-lydia-fb": {
       "platform": "fb",
@@ -754,7 +800,8 @@
       "engagementRate": 0.43,
       "impressions": 230,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-guess-who-lydia-tt": {
       "platform": "tt",
@@ -767,7 +814,8 @@
       "shares": 0,
       "reach": 3,
       "totalTimeWatched": 0.25,
-      "averageTimeWatched": 3.05
+      "averageTimeWatched": 3.05,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-01-guess-who-lydia-ig": {
       "platform": "ig",
@@ -790,7 +838,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-tt": {
       "platform": "tt",
@@ -803,7 +852,8 @@
       "shares": 0,
       "reach": 22,
       "totalTimeWatched": 4.95,
-      "averageTimeWatched": 5.4
+      "averageTimeWatched": 5.4,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-countdown-widow-pot-of-oil-tt": {
       "platform": "tt",
@@ -816,7 +866,8 @@
       "shares": 0,
       "reach": 44,
       "totalTimeWatched": 2.7,
-      "averageTimeWatched": 1.48
+      "averageTimeWatched": 1.48,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-countdown-widow-pot-of-oil-fb": {
       "platform": "fb",
@@ -827,7 +878,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-countdown-widow-pot-of-oil-ig": {
       "platform": "ig",
@@ -850,7 +902,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-5am-club-faith-edition-tt": {
       "platform": "tt",
@@ -863,7 +916,8 @@
       "shares": 0,
       "reach": 79,
       "totalTimeWatched": 11.15,
-      "averageTimeWatched": 2.72
+      "averageTimeWatched": 2.72,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-mephibosheth-2-samuel-9-fb": {
       "platform": "fb",
@@ -874,7 +928,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-mephibosheth-2-samuel-9-tt": {
       "platform": "tt",
@@ -887,7 +942,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 10.88,
-      "averageTimeWatched": 3.2
+      "averageTimeWatched": 3.2,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-guess-who-barnabas-fb": {
       "platform": "fb",
@@ -898,7 +954,8 @@
       "engagementRate": 0,
       "impressions": 214,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-02-guess-who-barnabas-ig": {
       "platform": "ig",
@@ -923,7 +980,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 2.5,
-      "averageTimeWatched": 1.38
+      "averageTimeWatched": 1.38,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-elijah-ravens-tt": {
       "platform": "tt",
@@ -936,7 +994,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 1.27,
-      "averageTimeWatched": 1.13
+      "averageTimeWatched": 1.13,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-elijah-ravens-fb": {
       "platform": "fb",
@@ -947,7 +1006,8 @@
       "engagementRate": 0,
       "impressions": 206,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-elijah-ravens-ig": {
       "platform": "ig",
@@ -972,7 +1032,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 2.12,
-      "averageTimeWatched": 2.44
+      "averageTimeWatched": 2.44,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-guess-who-caleb-fb": {
       "platform": "fb",
@@ -983,7 +1044,8 @@
       "engagementRate": 0,
       "impressions": 206,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-dopamine-detox-faith-edition-fb": {
       "platform": "fb",
@@ -994,7 +1056,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-dopamine-detox-faith-edition-tt": {
       "platform": "tt",
@@ -1007,7 +1070,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 13.92,
-      "averageTimeWatched": 4.09
+      "averageTimeWatched": 4.09,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-guess-who-caleb-ig": {
       "platform": "ig",
@@ -1030,7 +1094,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-elisha-dothan-2-kings-6-tt": {
       "platform": "tt",
@@ -1043,7 +1108,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 1.8,
-      "averageTimeWatched": 1.49
+      "averageTimeWatched": 1.49,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-huldah-prophetess-fb": {
       "platform": "fb",
@@ -1054,7 +1120,8 @@
       "engagementRate": 1.55,
       "impressions": 129,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-huldah-prophetess-tt": {
       "platform": "tt",
@@ -1067,7 +1134,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0.25,
-      "averageTimeWatched": 3.75
+      "averageTimeWatched": 3.75,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-03-countdown-huldah-prophetess-ig": {
       "platform": "ig",
@@ -1092,7 +1160,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "averageTimeWatched": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-countdown-saul-lost-donkeys-fb": {
       "platform": "fb",
@@ -1103,7 +1172,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-countdown-saul-lost-donkeys-ig": {
       "platform": "ig",
@@ -1140,7 +1210,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "averageTimeWatched": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-guess-who-ananias-damascus-fb": {
       "platform": "fb",
@@ -1151,7 +1222,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-10pm-reset-faith-edition-fb": {
       "platform": "fb",
@@ -1162,7 +1234,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-10pm-reset-faith-edition-tt": {
       "platform": "tt",
@@ -1175,7 +1248,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "averageTimeWatched": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-philippians-4-13-context-fb": {
       "platform": "fb",
@@ -1186,7 +1260,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-philippians-4-13-context-tt": {
       "platform": "tt",
@@ -1199,7 +1274,8 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0
+      "averageTimeWatched": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     },
     "2026-11-04-countdown-aaron-rod-almonds-fb": {
       "platform": "fb",
@@ -1210,7 +1286,8 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0
+      "clicks": 0,
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
     }
   }
 }
