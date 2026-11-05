@@ -1170,10 +1170,11 @@
       "planned": "2026-11-05T02:30:00.000Z",
       "via": "buffer",
       "bufferId": "6aeba465dce07267a19419e2",
-      "status": "scheduled",
+      "status": "error",
       "mode": "automatic",
       "dueAt": "2026-11-05T02:30:00.000Z",
-      "permalink": null
+      "permalink": null,
+      "error": "The media for this post hit some delays while processing. Please retry the post or reach out to support at hello@buffer.com so we can help."
     },
     "2026-11-04-countdown-aaron-rod-almonds-fb": {
       "platform": "fb",
@@ -1438,6 +1439,11 @@
       "id": "2026-11-04-10pm-reset-faith-edition-ig",
       "at": "2026-11-04T21:32:21.054Z",
       "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
+    },
+    {
+      "id": "2026-11-04-countdown-aaron-rod-almonds-tt",
+      "at": "2026-11-05T04:27:15.544Z",
+      "error": "Buffer : The media for this post hit some delays while processing. Please retry the post or reach out to support at hello@buffer.com so we can help."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z"
