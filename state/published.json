@@ -1,1441 +1,1443 @@
 {
- "published": {
-  "test-quiz-1": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-28T10:46:06.758Z",
-   "planned": "2026-10-28T10:44:12.204Z",
-   "mediaId": "18116072975326878",
-   "permalink": "https://www.instagram.com/p/DfCP9R1lohb/"
-  },
-  "test-quiz-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-28T14:48:52.347Z",
-   "via": "buffer",
-   "bufferId": "6ae20b25fe2b5b085762745c",
-   "status": "sent",
-   "dueAt": "2026-10-28T14:51:04.803Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122096071485534302",
-   "at": "2026-10-28T14:51:29.071Z"
-  },
-  "test-quiz-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-28T14:48:44.678Z",
-   "via": "buffer",
-   "bufferId": "6ae20b5800f35d308c81477b",
-   "status": "sent",
-   "dueAt": "2026-10-28T14:51:56.237Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7701731595056696608",
-   "at": "2026-10-28T14:54:05.308Z"
-  },
-  "2026-10-28-countdown-jedidiah-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-28T17:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae223eba557fadd21683f35",
-   "status": "sent",
-   "dueAt": "2026-10-28T17:45:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1130370609440791/",
-   "at": "2026-10-28T17:45:23.822Z"
-  },
-  "2026-10-28-countdown-jedidiah-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-28T18:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae230e44f060961b744858c",
-   "status": "sent",
-   "dueAt": "2026-10-28T18:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7701780148747554080",
-   "at": "2026-10-28T18:02:07.648Z"
-  },
-  "2026-10-28-countdown-jedidiah-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-28T18:16:37.864Z",
-   "planned": "2026-10-28T17:30:00.000Z",
-   "mediaId": "18152770624531384",
-   "permalink": "https://www.instagram.com/reel/DfDDfD6ijX3/"
-  },
-  "2026-10-28-5-hidden-details-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-28T19:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae23c06946bf74c57ee8834",
-   "status": "sent",
-   "dueAt": "2026-10-28T19:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122096341557534302",
-   "at": "2026-10-28T19:15:29.028Z"
-  },
-  "2026-10-28-5-hidden-details-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-28T19:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae23c06946bf74c57ee8867",
-   "status": "sent",
-   "dueAt": "2026-10-28T19:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7701803285723827489",
-   "at": "2026-10-28T19:32:08.371Z"
-  },
-  "2026-10-28-5-hidden-details-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-28T19:18:24.628Z",
-   "planned": "2026-10-28T19:00:00.000Z",
-   "mediaId": "18151291936515177",
-   "permalink": "https://www.instagram.com/p/DfDKlh9CZEg/"
-  },
-  "2026-10-28-abigail-1-samuel-25-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-28T22:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae24a818841a32106b1cc72",
-   "status": "sent",
-   "dueAt": "2026-10-28T22:45:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122096439855534302",
-   "at": "2026-10-28T22:45:31.665Z"
-  },
-  "2026-10-28-abigail-1-samuel-25-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-28T23:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae24a8200ee4c4cb9eaf972",
-   "status": "sent",
-   "dueAt": "2026-10-28T23:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7701857522843454752",
-   "at": "2026-10-28T23:03:16.855Z"
-  },
-  "2026-10-28-guess-who-nicodemus-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-29T01:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae2619561a8363a4948c553",
-   "status": "sent",
-   "dueAt": "2026-10-29T01:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7701895999723146528",
-   "at": "2026-10-29T01:31:56.409Z"
-  },
-  "2026-10-28-guess-who-nicodemus-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-29T01:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae2619561a8363a4948c580",
-   "status": "sent",
-   "dueAt": "2026-10-29T01:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1479349057488609/",
-   "at": "2026-10-29T01:15:32.724Z"
-  },
-  "2026-10-28-abigail-1-samuel-25-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-28T22:30:46.335Z",
-   "planned": "2026-10-28T22:30:00.000Z",
-   "mediaId": "18052938686813397",
-   "permalink": "https://www.instagram.com/p/DfDgmkIidJU/"
-  },
-  "2026-10-28-guess-who-nicodemus-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-29T01:00:34.774Z",
-   "planned": "2026-10-29T01:00:00.000Z",
-   "mediaId": "17946834735355481",
-   "permalink": "https://www.instagram.com/reel/DfDxtznjkPk/"
-  },
-  "2026-10-29-jeremiah-29-11-context-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-29T12:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae2fba3f66393dd569537ca",
-   "status": "sent",
-   "dueAt": "2026-10-29T12:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122096834007534302",
-   "at": "2026-10-29T12:15:36.604Z"
-  },
-  "2026-10-29-jeremiah-29-11-context-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-29T12:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae2fba435657f219b347695",
-   "status": "sent",
-   "dueAt": "2026-10-29T12:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702066279410093345",
-   "at": "2026-10-29T12:32:11.177Z"
-  },
-  "2026-10-29-jeremiah-29-11-context-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-29T12:00:47.150Z",
-   "planned": "2026-10-29T12:00:00.000Z",
-   "mediaId": "18097723049677597",
-   "permalink": "https://www.instagram.com/p/DfE9TEbkWaa/"
-  },
-  "2026-10-29-countdown-jerubbaal-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-29T16:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae33570d747cf479b1fa340",
-   "status": "sent",
-   "dueAt": "2026-10-29T16:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/4768300143495686/",
-   "at": "2026-10-29T16:15:48.240Z"
-  },
-  "2026-10-29-countdown-jerubbaal-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-29T16:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae337fd21087506333b9f52",
-   "status": "sent",
-   "dueAt": "2026-10-29T16:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702128265044954400",
-   "at": "2026-10-29T16:32:12.081Z"
-  },
-  "2026-10-29-naaman-2-kings-5-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-29T19:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae35586827b14653870d660",
-   "status": "sent",
-   "dueAt": "2026-10-29T19:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122097057537534302",
-   "at": "2026-10-29T19:16:00.003Z"
-  },
-  "2026-10-29-countdown-jerubbaal-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-29T16:00:49.436Z",
-   "planned": "2026-10-29T16:00:00.000Z",
-   "mediaId": "18072305828772845",
-   "permalink": "https://www.instagram.com/reel/DfFYtm5EWFg/"
-  },
-  "2026-10-29-naaman-2-kings-5-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-29T19:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae36db225e7fa4a8db716bb",
-   "status": "sent",
-   "dueAt": "2026-10-29T19:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702174360492199200",
-   "at": "2026-10-29T19:31:59.663Z"
-  },
-  "2026-10-29-naaman-2-kings-5-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-29T19:00:54.621Z",
-   "planned": "2026-10-29T19:00:00.000Z",
-   "mediaId": "18100196297432622",
-   "permalink": "https://www.instagram.com/p/DfFtYJlmnIQ/"
-  },
-  "2026-10-29-winter-arc-faith-rules-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-29T22:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae397e7c764435342402b9a",
-   "status": "sent",
-   "dueAt": "2026-10-29T22:45:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122097158223534302",
-   "at": "2026-10-29T22:45:31.689Z"
-  },
-  "2026-10-29-winter-arc-faith-rules-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-29T23:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae397e8a929d1f77543d665",
-   "status": "sent",
-   "dueAt": "2026-10-29T23:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702228496386460960",
-   "at": "2026-10-29T23:01:36.741Z"
-  },
-  "2026-10-29-guess-who-tabitha-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-30T01:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae3af8abe52b9bcba505f2b",
-   "status": "sent",
-   "dueAt": "2026-10-30T01:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702267139054456097",
-   "at": "2026-10-30T01:32:03.373Z"
-  },
-  "2026-10-29-guess-who-tabitha-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-30T01:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae3af8aa5c9bd5a5a9a7d9c",
-   "status": "sent",
-   "dueAt": "2026-10-30T01:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1665056048359360/",
-   "at": "2026-10-30T01:15:26.763Z"
-  },
-  "2026-10-29-winter-arc-faith-rules-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-29T22:30:41.329Z",
-   "planned": "2026-10-29T22:30:00.000Z",
-   "mediaId": "18097379681661169",
-   "permalink": "https://www.instagram.com/p/DfGFZwNiepO/"
-  },
-  "2026-10-29-guess-who-tabitha-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-30T01:00:36.219Z",
-   "planned": "2026-10-30T01:00:00.000Z",
-   "mediaId": "18342173140258459",
-   "permalink": "https://www.instagram.com/reel/DfGWgnplNFh/"
-  },
-  "2026-10-30-bible-quiz-2-cana-jonah-balaam-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-30T12:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae45212fce1c9356fcfac09",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-30T12:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122097526509534302",
-   "at": "2026-10-30T12:15:21.949Z"
-  },
-  "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-30T12:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae45212d518fcaf80a5e1b9",
-   "status": "error",
-   "mode": "notification",
-   "dueAt": "2026-10-30T12:30:00.000Z",
-   "permalink": null,
-   "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-  },
-  "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
-   "platform": "ig",
-   "kind": "carousel",
-   "at": "2026-10-30T12:00:48.562Z",
-   "planned": "2026-10-30T12:00:00.000Z",
-   "mediaId": "17953146906339639",
-   "permalink": "https://www.instagram.com/p/DfHiGC2m725/"
-  },
-  "2026-10-30-countdown-gadara-swine-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-30T16:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae49061e560b6bf642ac265",
-   "status": "error",
-   "mode": "notification",
-   "dueAt": "2026-10-30T16:30:00.000Z",
-   "permalink": null,
-   "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-  },
-  "2026-10-30-countdown-gadara-swine-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-30T16:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae49062abdb62a0e37d224f",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-30T16:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/3621364601361279/",
-   "at": "2026-10-30T16:15:39.057Z"
-  },
-  "2026-10-30-discipline-is-worship-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-30T19:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae4ac321c3539c1f4df1ef8",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-30T19:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122097788859534302",
-   "at": "2026-10-30T19:16:03.905Z"
-  },
-  "2026-10-30-discipline-is-worship-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-30T19:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae4ac33df85d8ab2f3d0529",
-   "status": "error",
-   "mode": "notification",
-   "dueAt": "2026-10-30T19:30:00.000Z",
-   "permalink": null,
-   "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-  },
-  "2026-10-30-countdown-gadara-swine-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-30T16:00:36.325Z",
-   "planned": "2026-10-30T16:00:00.000Z",
-   "mediaId": "18109692386235896",
-   "permalink": "https://www.instagram.com/reel/DfH9glVjXfM/"
-  },
-  "2026-10-30-countdown-judah-sells-joseph-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-30T23:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae4e95498505e7f522c3026",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-30T23:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702599634132143393",
-   "at": "2026-10-30T23:01:08.928Z"
-  },
-  "2026-10-30-countdown-judah-sells-joseph-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-30T22:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae4e95598505e7f522c3075",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-30T22:45:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1655894005914372/",
-   "at": "2026-10-30T22:45:24.786Z"
-  },
-  "2026-10-30-guess-who-zacchaeus-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-31T01:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae4fc62fc1ac02b6edb7da8",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T01:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1464265428997212/",
-   "at": "2026-10-31T01:15:30.541Z"
-  },
-  "2026-10-30-guess-who-zacchaeus-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-31T01:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae507f918914720939a252b",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T01:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702638194122116384",
-   "at": "2026-10-31T01:32:00.759Z"
-  },
-  "2026-10-30-countdown-judah-sells-joseph-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-30T22:30:37.161Z",
-   "planned": "2026-10-30T22:30:00.000Z",
-   "mediaId": "18106159712359983",
-   "permalink": "https://www.instagram.com/reel/DfIqI8rDSOW/"
-  },
-  "2026-10-30-guess-who-zacchaeus-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-31T01:00:45.405Z",
-   "planned": "2026-10-31T01:00:00.000Z",
-   "mediaId": "18103823984040712",
-   "permalink": "https://www.instagram.com/reel/DfI7UGWgiPO/"
-  },
-  "2026-10-31-saul-endor-1-samuel-28-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-31T12:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae59a93a11457434990cf34",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T12:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122098238097534302",
-   "at": "2026-10-31T12:15:44.079Z"
-  },
-  "2026-10-31-saul-endor-1-samuel-28-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-31T12:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae59a94406ab8a018a56bf1",
-   "status": "error",
-   "mode": "notification",
-   "dueAt": "2026-10-31T12:30:00.000Z",
-   "permalink": null,
-   "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
-  },
-  "2026-10-31-repost-bible-quiz-2-cana-jonah-balaam-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-31T10:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae59ad7a11457434990dd52",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T10:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702777333215792416",
-   "at": "2026-10-31T10:32:12.502Z"
-  },
-  "2026-10-31-repost-countdown-gadara-swine-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-31T14:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae5bb46b84259308bcc5bfe",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T14:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702839336177306912",
-   "at": "2026-10-31T14:31:34.677Z"
-  },
-  "2026-10-31-countdown-lazarus-four-days-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-10-31T16:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae5e14cb84259308bd7fa07",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T16:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1436047545350048/",
-   "at": "2026-10-31T16:15:35.509Z"
-  },
-  "2026-10-31-countdown-lazarus-four-days-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-10-31T16:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae5e14d1891472093d20385",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T16:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702870257182051616",
-   "at": "2026-10-31T16:31:32.241Z"
-  },
-  "2026-10-31-november-reset-faith-edition-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-31T19:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae6004b1ee172cd6da8a670",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T19:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122098487235534302",
-   "at": "2026-10-31T19:15:40.911Z"
-  },
-  "2026-10-31-november-reset-faith-edition-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-31T19:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae6004cf0984eef3314ba46",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T19:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702916490898443552",
-   "at": "2026-10-31T19:39:51.414Z"
-  },
-  "2026-10-31-countdown-lazarus-four-days-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-10-31T16:00:36.624Z",
-   "planned": "2026-10-31T16:00:00.000Z",
-   "mediaId": "18023033360940842",
-   "permalink": "https://www.instagram.com/reel/DfKiTYWAAmK/"
-  },
-  "2026-10-31-repost-discipline-is-worship-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-31T21:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae61bea37c1acd2a0bd3fd9",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T21:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702947478349319457",
-   "at": "2026-10-31T21:50:11.708Z"
-  },
-  "2026-10-31-esther-character-7-slides-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-10-31T22:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae63ad9cf3a3112f3bb37a7",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T22:45:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122098591203534302",
-   "at": "2026-10-31T22:45:30.031Z"
-  },
-  "2026-10-31-esther-character-7-slides-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-10-31T23:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae63ada1ee172cd6dba3a39",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-10-31T23:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7702970643704220960",
-   "at": "2026-10-31T23:02:05.958Z"
-  },
-  "2026-10-31-guess-who-rahab-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-01T01:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae650df21c807e9d583c2ff",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T01:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1684583076559050/",
-   "at": "2026-11-01T01:15:28.952Z"
-  },
-  "2026-10-31-guess-who-rahab-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-01T01:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae650e0cf3a3112f3c14dd7",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T01:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703009303321480480",
-   "at": "2026-11-01T01:31:55.898Z"
-  },
-  "2026-10-31-guess-who-rahab-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-01T01:00:33.459Z",
-   "planned": "2026-11-01T01:00:00.000Z",
-   "mediaId": "18078462821755293",
-   "permalink": "https://www.instagram.com/reel/DfLgGsRiMtM/"
-  },
-  "2026-11-01-elijah-broom-tree-1-kings-19-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-01T13:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae6fb4f21c807e9d5abd2fc",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T13:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122099067687534302",
-   "at": "2026-11-01T13:15:29.664Z"
-  },
-  "2026-11-01-elijah-broom-tree-1-kings-19-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-01T13:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae6fb4f37c1acd2a0f50b6d",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T13:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703194809879547168",
-   "at": "2026-11-01T13:31:54.433Z"
-  },
-  "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-01T15:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae7105f21c807e9d5b12fd7",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T15:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703218179887140128",
-   "at": "2026-11-01T15:02:07.596Z"
-  },
-  "2026-11-01-countdown-borrowed-axe-head-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-01T17:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae742e7ab019b9087602bb6",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T17:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703256809091419424",
-   "at": "2026-11-01T17:31:37.013Z"
-  },
-  "2026-11-01-countdown-borrowed-axe-head-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-01T17:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae742e7cf3a3112f3fd466d",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T17:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1624860446050871/",
-   "at": "2026-11-01T17:15:31.634Z"
-  },
-  "2026-11-01-sunday-reset-lock-in-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-01T20:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae75ee6fa39ab5d4d81bebf",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T20:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122099374569534302",
-   "at": "2026-11-01T20:15:32.686Z"
-  },
-  "2026-11-01-sunday-reset-lock-in-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-01T20:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae75ee6fa39ab5d4d81bf0a",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T20:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703303105491848480",
-   "at": "2026-11-01T20:32:10.000Z"
-  },
-  "2026-11-01-countdown-borrowed-axe-head-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-01T17:00:46.541Z",
-   "planned": "2026-11-01T17:00:00.000Z",
-   "mediaId": "17917800780537853",
-   "permalink": "https://www.instagram.com/reel/DfNN928ilT_/"
-  },
-  "2026-11-01-hidden-details-2-sunday-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-01T23:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae79a75b7d22b897a0d1fcb",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-01T23:45:00.000Z",
-   "permalink": "https://facebook.com/1371033522765154_122099467371534302",
-   "at": "2026-11-01T23:45:31.039Z"
-  },
-  "2026-11-01-hidden-details-2-sunday-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-02T00:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae79a765604f9d85b85952c",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T00:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703357164072602912",
-   "at": "2026-11-02T00:01:51.356Z"
-  },
-  "2026-11-01-guess-who-lydia-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-02T02:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae7b377d016796999f19b1c",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T02:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/3106684219672740/",
-   "at": "2026-11-02T02:15:25.778Z"
-  },
-  "2026-11-01-guess-who-lydia-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-02T02:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae7b378779ee9f13cb8e2cd",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T02:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703395763228806432",
-   "at": "2026-11-02T02:31:56.030Z"
-  },
-  "2026-11-01-guess-who-lydia-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-02T02:00:57.337Z",
-   "planned": "2026-11-02T02:00:00.000Z",
-   "mediaId": "18196782613392888",
-   "permalink": "https://www.instagram.com/reel/DfOLzI2iXVo/"
-  },
-  "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-02T13:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8481f7817c41d1a51d043",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T13:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122099942391534302",
-   "at": "2026-11-02T13:15:51.796Z"
-  },
-  "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-02T13:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae85917dd7a4869734ee84c",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T13:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703566414254230816",
-   "at": "2026-11-02T13:33:50.470Z"
-  },
-  "2026-11-02-countdown-widow-pot-of-oil-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-02T17:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae88981386d2d7c133e1a59",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T17:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703628039439060256",
-   "at": "2026-11-02T17:33:18.216Z"
-  },
-  "2026-11-02-countdown-widow-pot-of-oil-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-02T17:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae88982386d2d7c133e1bf4",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T17:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/2027529724603582/",
-   "at": "2026-11-02T17:15:47.554Z"
-  },
-  "2026-11-02-5am-club-faith-edition-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-02T20:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8b1fc04fa73faa2316b68",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T20:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122100247047534302",
-   "at": "2026-11-02T20:15:26.739Z"
-  },
-  "2026-11-02-5am-club-faith-edition-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-02T20:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8b1fc2810e4a79d36c051",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T20:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703674186685877536",
-   "at": "2026-11-02T20:32:06.267Z"
-  },
-  "2026-11-02-countdown-widow-pot-of-oil-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-02T17:00:37.005Z",
-   "planned": "2026-11-02T17:00:00.000Z",
-   "mediaId": "18195933835396654",
-   "permalink": "https://www.instagram.com/reel/DfPywk9iZ_b/"
-  },
-  "2026-11-02-mephibosheth-2-samuel-9-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-02T23:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8db31c25538a9f8ce0ad3",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-02T23:45:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122100377865534302",
-   "at": "2026-11-02T23:45:29.863Z"
-  },
-  "2026-11-02-mephibosheth-2-samuel-9-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-03T00:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8ebf8ff93b610bb96cb6e",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T00:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703728343681682720",
-   "at": "2026-11-03T00:01:51.415Z"
-  },
-  "2026-11-02-guess-who-barnabas-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-03T02:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae8ffed8d258062778c528e",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T02:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1458875722880070/",
-   "at": "2026-11-03T02:15:23.221Z"
-  },
-  "2026-11-02-guess-who-barnabas-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-03T02:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae90aee90c1e19b034a353d",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T02:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703766883358493985",
-   "at": "2026-11-03T02:31:58.554Z"
-  },
-  "2026-11-02-guess-who-barnabas-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-03T02:00:48.177Z",
-   "planned": "2026-11-03T02:00:00.000Z",
-   "mediaId": "18065894786546628",
-   "permalink": "https://www.instagram.com/reel/DfQwkJbghEm/"
-  },
-  "2026-11-03-countdown-elijah-ravens-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-03T13:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae99e15c54a95d99b1f49f2",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T13:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703937334005271841",
-   "at": "2026-11-03T13:33:28.676Z"
-  },
-  "2026-11-03-countdown-elijah-ravens-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-03T13:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae99e15c54a95d99b1f4a2e",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T13:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1670780748049633/",
-   "at": "2026-11-03T13:15:38.630Z"
-  },
-  "2026-11-03-countdown-elijah-ravens-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-03T13:00:37.434Z",
-   "planned": "2026-11-03T13:00:00.000Z",
-   "mediaId": "18133337233805416",
-   "permalink": "https://www.instagram.com/reel/DfR8Fh2gQCZ/"
-  },
-  "2026-11-03-guess-who-caleb-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-03T17:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae9daf82d879310e0cc2707",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T17:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7703999011220426016",
-   "at": "2026-11-03T17:31:40.390Z"
-  },
-  "2026-11-03-guess-who-caleb-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-03T17:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6ae9daf9beaa26e1a09063f9",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T17:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1674068090976301/",
-   "at": "2026-11-03T17:15:36.589Z"
-  },
-  "2026-11-03-dopamine-detox-faith-edition-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-03T20:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea00e8b75704f9ac5ed700",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T20:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122101250331534302",
-   "at": "2026-11-03T20:15:41.861Z"
-  },
-  "2026-11-03-dopamine-detox-faith-edition-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-03T20:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea00e9eeb55128686ec53a",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T20:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704045238347664672",
-   "at": "2026-11-03T20:31:56.788Z"
-  },
-  "2026-11-03-guess-who-caleb-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-03T17:00:35.438Z",
-   "planned": "2026-11-03T17:00:00.000Z",
-   "mediaId": "18016620842989192",
-   "permalink": "https://www.instagram.com/reel/DfSXjWojUbB/"
-  },
-  "2026-11-03-elisha-dothan-2-kings-6-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-03T23:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea3d7252391758e2e71a5a",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-03T23:45:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122101358919534302",
-   "at": "2026-11-03T23:45:28.810Z"
-  },
-  "2026-11-03-elisha-dothan-2-kings-6-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-04T00:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea3d725fa3d509fa3dbec6",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T00:00:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704099442919492897",
-   "at": "2026-11-04T00:02:38.450Z"
-  },
-  "2026-11-03-countdown-huldah-prophetess-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-04T02:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea4f7984e334d814e210ac",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T02:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1861656658194697/",
-   "at": "2026-11-04T02:15:21.463Z"
-  },
-  "2026-11-03-countdown-huldah-prophetess-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-04T02:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aea5d3b0a183b1b74319420",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T02:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704137764433857824",
-   "at": "2026-11-04T02:31:55.653Z"
-  },
-  "2026-11-03-countdown-huldah-prophetess-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-04T02:00:36.917Z",
-   "planned": "2026-11-04T02:00:00.000Z",
-   "mediaId": "18370251259301178",
-   "permalink": "https://www.instagram.com/reel/DfTVWfhj5SL/"
-  },
-  "2026-11-04-countdown-saul-lost-donkeys-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-04T13:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeaf2bcc63bd995bd28fb4e",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T13:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704308336069512481",
-   "at": "2026-11-04T13:32:14.583Z"
-  },
-  "2026-11-04-countdown-saul-lost-donkeys-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-04T13:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeaf2bde478396c27590551",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T13:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1165761852961516/",
-   "at": "2026-11-04T13:15:46.365Z"
-  },
-  "2026-11-04-countdown-saul-lost-donkeys-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-04T13:00:24.678Z",
-   "planned": "2026-11-04T13:00:00.000Z",
-   "mediaId": "18060179849798447",
-   "permalink": "https://www.instagram.com/reel/DfUg4aMDZFK/"
-  },
-  "2026-11-04-guess-who-ananias-damascus-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-04T17:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb3075e8225dc18de22444",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T17:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704370205127871776",
-   "at": "2026-11-04T17:32:05.057Z"
-  },
-  "2026-11-04-guess-who-ananias-damascus-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-04T17:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb3076380a83ae5308361d",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T17:15:00.000Z",
-   "permalink": "https://www.facebook.com/reel/1574312724448526/",
-   "at": "2026-11-04T17:15:43.105Z"
-  },
-  "2026-11-04-10pm-reset-faith-edition-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-04T20:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb5090c7c81a1788945449",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T20:15:00.000Z",
-   "permalink": "https://www.facebook.com/122096063433534302/posts/122102153721534302",
-   "at": "2026-11-04T20:15:42.885Z"
-  },
-  "2026-11-04-10pm-reset-faith-edition-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-04T20:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb50913792c9d846bf3d4a",
-   "status": "sent",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T20:30:00.000Z",
-   "permalink": "https://tiktok.com/@bibleacademy4/video/7704416370200497441",
-   "at": "2026-11-04T20:32:12.414Z"
-  },
-  "2026-11-04-guess-who-ananias-damascus-ig": {
-   "platform": "ig",
-   "kind": "reel",
-   "at": "2026-11-04T17:00:37.615Z",
-   "planned": "2026-11-04T17:00:00.000Z",
-   "mediaId": "18572621887075841",
-   "permalink": "https://www.instagram.com/reel/DfU8WUmnHip/"
-  },
-  "2026-11-04-philippians-4-13-context-fb": {
-   "platform": "fb",
-   "kind": "carousel",
-   "planned": "2026-11-04T23:45:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb8ef58aec178794a3a326",
-   "status": "scheduled",
-   "mode": "automatic",
-   "dueAt": "2026-11-04T23:45:00.000Z",
-   "permalink": null
-  },
-  "2026-11-04-philippians-4-13-context-tt": {
-   "platform": "tt",
-   "kind": "photo",
-   "planned": "2026-11-05T00:00:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeb8ef5a101dc5e7730b3bd",
-   "status": "scheduled",
-   "mode": "automatic",
-   "dueAt": "2026-11-05T00:00:00.000Z",
-   "permalink": null
-  },
-  "2026-11-04-countdown-aaron-rod-almonds-tt": {
-   "platform": "tt",
-   "kind": "video",
-   "planned": "2026-11-05T02:30:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeba465dce07267a19419e2",
-   "status": "scheduled",
-   "mode": "automatic",
-   "dueAt": "2026-11-05T02:30:00.000Z",
-   "permalink": null
-  },
-  "2026-11-04-countdown-aaron-rod-almonds-fb": {
-   "platform": "fb",
-   "kind": "reel",
-   "planned": "2026-11-05T02:15:00.000Z",
-   "via": "buffer",
-   "bufferId": "6aeba4660baebf13ccc192eb",
-   "status": "scheduled",
-   "mode": "automatic",
-   "dueAt": "2026-11-05T02:15:00.000Z",
-   "permalink": null
-  }
- },
- "errors": [
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-01T23:45:54.100Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADxkhF1V"
-  },
-  {
-   "id": "2026-11-01-sunday-reset-lock-in-ig",
-   "at": "2026-11-02T00:18:21.660Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AzK6Irbs"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T00:18:58.086Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AdN_VvEe"
-  },
-  {
-   "id": "2026-11-01-sunday-reset-lock-in-ig",
-   "at": "2026-11-02T01:41:17.440Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AGIxRBa6"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T01:42:00.222Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQNWzvL4"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T02:32:59.556Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AYvWVEqb"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T03:35:08.775Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A2q4mTCv"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T04:25:36.396Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUc_zuaF"
-  },
-  {
-   "id": "2026-11-01-hidden-details-2-sunday-ig",
-   "at": "2026-11-02T04:41:39.638Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AidUZ4Hn"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T13:00:48.245Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AXRvp2VD"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T13:53:09.936Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AcEnvs-t"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T14:56:18.712Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AAzGrL_A"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T15:53:31.304Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQ7ZHRsm"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T16:56:28.348Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUwbOSyN"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T17:51:43.998Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKbXFjT3"
-  },
-  {
-   "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
-   "at": "2026-11-02T18:49:20.997Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AYOYTcqJ"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-02T20:00:55.561Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvtgP_24"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-02T20:39:43.634Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AyTrltRm"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-02T21:26:05.165Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AhoTPHvJ"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-02T22:13:00.478Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFOUwjwm"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-02T22:55:21.755Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Asucsva_"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-02T23:30:50.748Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"APZmE0fE"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-03T00:16:36.644Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AJBZxSNP"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T00:17:16.277Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A-LMy3qU"
-  },
-  {
-   "id": "2026-11-02-5am-club-faith-edition-ig",
-   "at": "2026-11-03T01:37:54.759Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AGAu45I1"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T01:38:40.177Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ar_eoQ8j"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T02:30:54.006Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADWcT9aI"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T03:26:13.268Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvT2vmyG"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T04:23:50.820Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKtHWO8f"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T04:28:54.250Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADGB-LgD"
-  },
-  {
-   "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
-   "at": "2026-11-03T05:25:08.799Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AK1R7oKB"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T20:00:49.256Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AP_tXTr8"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T20:23:03.318Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"An-fijsc"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T21:17:44.300Z",
-   "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T22:16:26.856Z",
-   "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A1dxjcKrUnY116wVDltsRiU\"}"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T23:02:50.062Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Auk_yz8X"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-03T23:30:54.186Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AOngsJkv"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-03T23:49:46.686Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AAzsGL0J"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-03T23:50:27.918Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AggwfyGc"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-04T00:48:07.879Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A5LEohXA"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T00:49:02.666Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ArnMIvfH"
-  },
-  {
-   "id": "2026-11-03-dopamine-detox-faith-edition-ig",
-   "at": "2026-11-04T01:53:05.619Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A6L6O1_4"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T01:53:57.282Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AklH6nH7"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T02:42:59.509Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aora1Kjq"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T03:30:44.957Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ah0z83xp"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T04:30:11.787Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AhtzhTYn"
-  },
-  {
-   "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
-   "at": "2026-11-04T05:30:42.556Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aq-cLPtc"
-  },
-  {
-   "id": "2026-11-04-10pm-reset-faith-edition-ig",
-   "at": "2026-11-04T20:00:52.397Z",
-   "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AZd44RdCqi9KXWx4tlfDJAU\"}"
-  },
-  {
-   "id": "2026-11-04-10pm-reset-faith-edition-ig",
-   "at": "2026-11-04T20:34:39.772Z",
-   "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ABgAfP6c"
-  },
-  {
-   "id": "2026-11-04-10pm-reset-faith-edition-ig",
-   "at": "2026-11-04T21:32:21.054Z",
-   "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
-  }
- ],
- "igPauseUntil": "2026-11-06T22:29:55.000Z"
+  "published": {
+    "test-quiz-1": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T10:46:06.758Z",
+      "planned": "2026-10-28T10:44:12.204Z",
+      "mediaId": "18116072975326878",
+      "permalink": "https://www.instagram.com/p/DfCP9R1lohb/"
+    },
+    "test-quiz-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T14:48:52.347Z",
+      "via": "buffer",
+      "bufferId": "6ae20b25fe2b5b085762745c",
+      "status": "sent",
+      "dueAt": "2026-10-28T14:51:04.803Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096071485534302",
+      "at": "2026-10-28T14:51:29.071Z"
+    },
+    "test-quiz-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T14:48:44.678Z",
+      "via": "buffer",
+      "bufferId": "6ae20b5800f35d308c81477b",
+      "status": "sent",
+      "dueAt": "2026-10-28T14:51:56.237Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701731595056696608",
+      "at": "2026-10-28T14:54:05.308Z"
+    },
+    "2026-10-28-countdown-jedidiah-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-28T17:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae223eba557fadd21683f35",
+      "status": "sent",
+      "dueAt": "2026-10-28T17:45:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1130370609440791/",
+      "at": "2026-10-28T17:45:23.822Z"
+    },
+    "2026-10-28-countdown-jedidiah-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-28T18:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae230e44f060961b744858c",
+      "status": "sent",
+      "dueAt": "2026-10-28T18:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701780148747554080",
+      "at": "2026-10-28T18:02:07.648Z"
+    },
+    "2026-10-28-countdown-jedidiah-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-28T18:16:37.864Z",
+      "planned": "2026-10-28T17:30:00.000Z",
+      "mediaId": "18152770624531384",
+      "permalink": "https://www.instagram.com/reel/DfDDfD6ijX3/"
+    },
+    "2026-10-28-5-hidden-details-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae23c06946bf74c57ee8834",
+      "status": "sent",
+      "dueAt": "2026-10-28T19:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096341557534302",
+      "at": "2026-10-28T19:15:29.028Z"
+    },
+    "2026-10-28-5-hidden-details-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae23c06946bf74c57ee8867",
+      "status": "sent",
+      "dueAt": "2026-10-28T19:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701803285723827489",
+      "at": "2026-10-28T19:32:08.371Z"
+    },
+    "2026-10-28-5-hidden-details-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T19:18:24.628Z",
+      "planned": "2026-10-28T19:00:00.000Z",
+      "mediaId": "18151291936515177",
+      "permalink": "https://www.instagram.com/p/DfDKlh9CZEg/"
+    },
+    "2026-10-28-abigail-1-samuel-25-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-28T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae24a818841a32106b1cc72",
+      "status": "sent",
+      "dueAt": "2026-10-28T22:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096439855534302",
+      "at": "2026-10-28T22:45:31.665Z"
+    },
+    "2026-10-28-abigail-1-samuel-25-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-28T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae24a8200ee4c4cb9eaf972",
+      "status": "sent",
+      "dueAt": "2026-10-28T23:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701857522843454752",
+      "at": "2026-10-28T23:03:16.855Z"
+    },
+    "2026-10-28-guess-who-nicodemus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-29T01:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2619561a8363a4948c553",
+      "status": "sent",
+      "dueAt": "2026-10-29T01:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7701895999723146528",
+      "at": "2026-10-29T01:31:56.409Z"
+    },
+    "2026-10-28-guess-who-nicodemus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-29T01:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2619561a8363a4948c580",
+      "status": "sent",
+      "dueAt": "2026-10-29T01:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1479349057488609/",
+      "at": "2026-10-29T01:15:32.724Z"
+    },
+    "2026-10-28-abigail-1-samuel-25-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-28T22:30:46.335Z",
+      "planned": "2026-10-28T22:30:00.000Z",
+      "mediaId": "18052938686813397",
+      "permalink": "https://www.instagram.com/p/DfDgmkIidJU/"
+    },
+    "2026-10-28-guess-who-nicodemus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T01:00:34.774Z",
+      "planned": "2026-10-29T01:00:00.000Z",
+      "mediaId": "17946834735355481",
+      "permalink": "https://www.instagram.com/reel/DfDxtznjkPk/"
+    },
+    "2026-10-29-jeremiah-29-11-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2fba3f66393dd569537ca",
+      "status": "sent",
+      "dueAt": "2026-10-29T12:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122096834007534302",
+      "at": "2026-10-29T12:15:36.604Z"
+    },
+    "2026-10-29-jeremiah-29-11-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae2fba435657f219b347695",
+      "status": "sent",
+      "dueAt": "2026-10-29T12:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702066279410093345",
+      "at": "2026-10-29T12:32:11.177Z"
+    },
+    "2026-10-29-jeremiah-29-11-context-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T12:00:47.150Z",
+      "planned": "2026-10-29T12:00:00.000Z",
+      "mediaId": "18097723049677597",
+      "permalink": "https://www.instagram.com/p/DfE9TEbkWaa/"
+    },
+    "2026-10-29-countdown-jerubbaal-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-29T16:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae33570d747cf479b1fa340",
+      "status": "sent",
+      "dueAt": "2026-10-29T16:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/4768300143495686/",
+      "at": "2026-10-29T16:15:48.240Z"
+    },
+    "2026-10-29-countdown-jerubbaal-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-29T16:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae337fd21087506333b9f52",
+      "status": "sent",
+      "dueAt": "2026-10-29T16:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702128265044954400",
+      "at": "2026-10-29T16:32:12.081Z"
+    },
+    "2026-10-29-naaman-2-kings-5-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae35586827b14653870d660",
+      "status": "sent",
+      "dueAt": "2026-10-29T19:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097057537534302",
+      "at": "2026-10-29T19:16:00.003Z"
+    },
+    "2026-10-29-countdown-jerubbaal-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-29T16:00:49.436Z",
+      "planned": "2026-10-29T16:00:00.000Z",
+      "mediaId": "18072305828772845",
+      "permalink": "https://www.instagram.com/reel/DfFYtm5EWFg/"
+    },
+    "2026-10-29-naaman-2-kings-5-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae36db225e7fa4a8db716bb",
+      "status": "sent",
+      "dueAt": "2026-10-29T19:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702174360492199200",
+      "at": "2026-10-29T19:31:59.663Z"
+    },
+    "2026-10-29-naaman-2-kings-5-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T19:00:54.621Z",
+      "planned": "2026-10-29T19:00:00.000Z",
+      "mediaId": "18100196297432622",
+      "permalink": "https://www.instagram.com/p/DfFtYJlmnIQ/"
+    },
+    "2026-10-29-winter-arc-faith-rules-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-29T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae397e7c764435342402b9a",
+      "status": "sent",
+      "dueAt": "2026-10-29T22:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097158223534302",
+      "at": "2026-10-29T22:45:31.689Z"
+    },
+    "2026-10-29-winter-arc-faith-rules-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-29T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae397e8a929d1f77543d665",
+      "status": "sent",
+      "dueAt": "2026-10-29T23:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702228496386460960",
+      "at": "2026-10-29T23:01:36.741Z"
+    },
+    "2026-10-29-guess-who-tabitha-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-30T01:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae3af8abe52b9bcba505f2b",
+      "status": "sent",
+      "dueAt": "2026-10-30T01:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702267139054456097",
+      "at": "2026-10-30T01:32:03.373Z"
+    },
+    "2026-10-29-guess-who-tabitha-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-30T01:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae3af8aa5c9bd5a5a9a7d9c",
+      "status": "sent",
+      "dueAt": "2026-10-30T01:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1665056048359360/",
+      "at": "2026-10-30T01:15:26.763Z"
+    },
+    "2026-10-29-winter-arc-faith-rules-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-29T22:30:41.329Z",
+      "planned": "2026-10-29T22:30:00.000Z",
+      "mediaId": "18097379681661169",
+      "permalink": "https://www.instagram.com/p/DfGFZwNiepO/"
+    },
+    "2026-10-29-guess-who-tabitha-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T01:00:36.219Z",
+      "planned": "2026-10-30T01:00:00.000Z",
+      "mediaId": "18342173140258459",
+      "permalink": "https://www.instagram.com/reel/DfGWgnplNFh/"
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-30T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae45212fce1c9356fcfac09",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T12:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097526509534302",
+      "at": "2026-10-30T12:15:21.949Z"
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-30T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae45212d518fcaf80a5e1b9",
+      "status": "error",
+      "mode": "notification",
+      "dueAt": "2026-10-30T12:30:00.000Z",
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    "2026-10-30-bible-quiz-2-cana-jonah-balaam-ig": {
+      "platform": "ig",
+      "kind": "carousel",
+      "at": "2026-10-30T12:00:48.562Z",
+      "planned": "2026-10-30T12:00:00.000Z",
+      "mediaId": "17953146906339639",
+      "permalink": "https://www.instagram.com/p/DfHiGC2m725/"
+    },
+    "2026-10-30-countdown-gadara-swine-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-30T16:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae49061e560b6bf642ac265",
+      "status": "error",
+      "mode": "notification",
+      "dueAt": "2026-10-30T16:30:00.000Z",
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    "2026-10-30-countdown-gadara-swine-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-30T16:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae49062abdb62a0e37d224f",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T16:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/3621364601361279/",
+      "at": "2026-10-30T16:15:39.057Z"
+    },
+    "2026-10-30-discipline-is-worship-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-30T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4ac321c3539c1f4df1ef8",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T19:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122097788859534302",
+      "at": "2026-10-30T19:16:03.905Z"
+    },
+    "2026-10-30-discipline-is-worship-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-30T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4ac33df85d8ab2f3d0529",
+      "status": "error",
+      "mode": "notification",
+      "dueAt": "2026-10-30T19:30:00.000Z",
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    "2026-10-30-countdown-gadara-swine-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T16:00:36.325Z",
+      "planned": "2026-10-30T16:00:00.000Z",
+      "mediaId": "18109692386235896",
+      "permalink": "https://www.instagram.com/reel/DfH9glVjXfM/"
+    },
+    "2026-10-30-countdown-judah-sells-joseph-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-30T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4e95498505e7f522c3026",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T23:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702599634132143393",
+      "at": "2026-10-30T23:01:08.928Z"
+    },
+    "2026-10-30-countdown-judah-sells-joseph-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-30T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4e95598505e7f522c3075",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-30T22:45:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1655894005914372/",
+      "at": "2026-10-30T22:45:24.786Z"
+    },
+    "2026-10-30-guess-who-zacchaeus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-31T01:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae4fc62fc1ac02b6edb7da8",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T01:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1464265428997212/",
+      "at": "2026-10-31T01:15:30.541Z"
+    },
+    "2026-10-30-guess-who-zacchaeus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-31T01:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae507f918914720939a252b",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T01:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702638194122116384",
+      "at": "2026-10-31T01:32:00.759Z"
+    },
+    "2026-10-30-countdown-judah-sells-joseph-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-30T22:30:37.161Z",
+      "planned": "2026-10-30T22:30:00.000Z",
+      "mediaId": "18106159712359983",
+      "permalink": "https://www.instagram.com/reel/DfIqI8rDSOW/"
+    },
+    "2026-10-30-guess-who-zacchaeus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T01:00:45.405Z",
+      "planned": "2026-10-31T01:00:00.000Z",
+      "mediaId": "18103823984040712",
+      "permalink": "https://www.instagram.com/reel/DfI7UGWgiPO/"
+    },
+    "2026-10-31-saul-endor-1-samuel-28-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-31T12:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae59a93a11457434990cf34",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T12:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122098238097534302",
+      "at": "2026-10-31T12:15:44.079Z"
+    },
+    "2026-10-31-saul-endor-1-samuel-28-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T12:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae59a94406ab8a018a56bf1",
+      "status": "error",
+      "mode": "notification",
+      "dueAt": "2026-10-31T12:30:00.000Z",
+      "permalink": null,
+      "error": "Whoops! We are having trouble sending notifications to your mobile device. Please try linking a mobile device to your account!"
+    },
+    "2026-10-31-repost-bible-quiz-2-cana-jonah-balaam-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T10:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae59ad7a11457434990dd52",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T10:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702777333215792416",
+      "at": "2026-10-31T10:32:12.502Z"
+    },
+    "2026-10-31-repost-countdown-gadara-swine-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-31T14:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae5bb46b84259308bcc5bfe",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T14:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702839336177306912",
+      "at": "2026-10-31T14:31:34.677Z"
+    },
+    "2026-10-31-countdown-lazarus-four-days-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-10-31T16:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae5e14cb84259308bd7fa07",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T16:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1436047545350048/",
+      "at": "2026-10-31T16:15:35.509Z"
+    },
+    "2026-10-31-countdown-lazarus-four-days-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-10-31T16:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae5e14d1891472093d20385",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T16:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702870257182051616",
+      "at": "2026-10-31T16:31:32.241Z"
+    },
+    "2026-10-31-november-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-31T19:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6004b1ee172cd6da8a670",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T19:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122098487235534302",
+      "at": "2026-10-31T19:15:40.911Z"
+    },
+    "2026-10-31-november-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T19:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6004cf0984eef3314ba46",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T19:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702916490898443552",
+      "at": "2026-10-31T19:39:51.414Z"
+    },
+    "2026-10-31-countdown-lazarus-four-days-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-10-31T16:00:36.624Z",
+      "planned": "2026-10-31T16:00:00.000Z",
+      "mediaId": "18023033360940842",
+      "permalink": "https://www.instagram.com/reel/DfKiTYWAAmK/"
+    },
+    "2026-10-31-repost-discipline-is-worship-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T21:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae61bea37c1acd2a0bd3fd9",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T21:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702947478349319457",
+      "at": "2026-10-31T21:50:11.708Z"
+    },
+    "2026-10-31-esther-character-7-slides-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-10-31T22:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae63ad9cf3a3112f3bb37a7",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T22:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122098591203534302",
+      "at": "2026-10-31T22:45:30.031Z"
+    },
+    "2026-10-31-esther-character-7-slides-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-10-31T23:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae63ada1ee172cd6dba3a39",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-10-31T23:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7702970643704220960",
+      "at": "2026-10-31T23:02:05.958Z"
+    },
+    "2026-10-31-guess-who-rahab-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-01T01:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae650df21c807e9d583c2ff",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T01:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1684583076559050/",
+      "at": "2026-11-01T01:15:28.952Z"
+    },
+    "2026-10-31-guess-who-rahab-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-01T01:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae650e0cf3a3112f3c14dd7",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T01:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703009303321480480",
+      "at": "2026-11-01T01:31:55.898Z"
+    },
+    "2026-10-31-guess-who-rahab-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-01T01:00:33.459Z",
+      "planned": "2026-11-01T01:00:00.000Z",
+      "mediaId": "18078462821755293",
+      "permalink": "https://www.instagram.com/reel/DfLgGsRiMtM/"
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-01T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6fb4f21c807e9d5abd2fc",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T13:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122099067687534302",
+      "at": "2026-11-01T13:15:29.664Z"
+    },
+    "2026-11-01-elijah-broom-tree-1-kings-19-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-01T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae6fb4f37c1acd2a0f50b6d",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T13:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703194809879547168",
+      "at": "2026-11-01T13:31:54.433Z"
+    },
+    "2026-11-01-repost-saul-endor-1-samuel-28-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-01T15:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7105f21c807e9d5b12fd7",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T15:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703218179887140128",
+      "at": "2026-11-01T15:02:07.596Z"
+    },
+    "2026-11-01-countdown-borrowed-axe-head-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-01T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae742e7ab019b9087602bb6",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T17:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703256809091419424",
+      "at": "2026-11-01T17:31:37.013Z"
+    },
+    "2026-11-01-countdown-borrowed-axe-head-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-01T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae742e7cf3a3112f3fd466d",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T17:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1624860446050871/",
+      "at": "2026-11-01T17:15:31.634Z"
+    },
+    "2026-11-01-sunday-reset-lock-in-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-01T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae75ee6fa39ab5d4d81bebf",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T20:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122099374569534302",
+      "at": "2026-11-01T20:15:32.686Z"
+    },
+    "2026-11-01-sunday-reset-lock-in-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-01T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae75ee6fa39ab5d4d81bf0a",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T20:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703303105491848480",
+      "at": "2026-11-01T20:32:10.000Z"
+    },
+    "2026-11-01-countdown-borrowed-axe-head-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-01T17:00:46.541Z",
+      "planned": "2026-11-01T17:00:00.000Z",
+      "mediaId": "17917800780537853",
+      "permalink": "https://www.instagram.com/reel/DfNN928ilT_/"
+    },
+    "2026-11-01-hidden-details-2-sunday-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-01T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae79a75b7d22b897a0d1fcb",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-01T23:45:00.000Z",
+      "permalink": "https://facebook.com/1371033522765154_122099467371534302",
+      "at": "2026-11-01T23:45:31.039Z"
+    },
+    "2026-11-01-hidden-details-2-sunday-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-02T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae79a765604f9d85b85952c",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T00:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703357164072602912",
+      "at": "2026-11-02T00:01:51.356Z"
+    },
+    "2026-11-01-guess-who-lydia-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-02T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7b377d016796999f19b1c",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T02:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/3106684219672740/",
+      "at": "2026-11-02T02:15:25.778Z"
+    },
+    "2026-11-01-guess-who-lydia-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-02T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae7b378779ee9f13cb8e2cd",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T02:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703395763228806432",
+      "at": "2026-11-02T02:31:56.030Z"
+    },
+    "2026-11-01-guess-who-lydia-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-02T02:00:57.337Z",
+      "planned": "2026-11-02T02:00:00.000Z",
+      "mediaId": "18196782613392888",
+      "permalink": "https://www.instagram.com/reel/DfOLzI2iXVo/"
+    },
+    "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-02T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8481f7817c41d1a51d043",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T13:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122099942391534302",
+      "at": "2026-11-02T13:15:51.796Z"
+    },
+    "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-02T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae85917dd7a4869734ee84c",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T13:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703566414254230816",
+      "at": "2026-11-02T13:33:50.470Z"
+    },
+    "2026-11-02-countdown-widow-pot-of-oil-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-02T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae88981386d2d7c133e1a59",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T17:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703628039439060256",
+      "at": "2026-11-02T17:33:18.216Z"
+    },
+    "2026-11-02-countdown-widow-pot-of-oil-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-02T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae88982386d2d7c133e1bf4",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T17:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/2027529724603582/",
+      "at": "2026-11-02T17:15:47.554Z"
+    },
+    "2026-11-02-5am-club-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-02T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8b1fc04fa73faa2316b68",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T20:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122100247047534302",
+      "at": "2026-11-02T20:15:26.739Z"
+    },
+    "2026-11-02-5am-club-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-02T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8b1fc2810e4a79d36c051",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T20:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703674186685877536",
+      "at": "2026-11-02T20:32:06.267Z"
+    },
+    "2026-11-02-countdown-widow-pot-of-oil-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-02T17:00:37.005Z",
+      "planned": "2026-11-02T17:00:00.000Z",
+      "mediaId": "18195933835396654",
+      "permalink": "https://www.instagram.com/reel/DfPywk9iZ_b/"
+    },
+    "2026-11-02-mephibosheth-2-samuel-9-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-02T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8db31c25538a9f8ce0ad3",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-02T23:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122100377865534302",
+      "at": "2026-11-02T23:45:29.863Z"
+    },
+    "2026-11-02-mephibosheth-2-samuel-9-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-03T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8ebf8ff93b610bb96cb6e",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T00:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703728343681682720",
+      "at": "2026-11-03T00:01:51.415Z"
+    },
+    "2026-11-02-guess-who-barnabas-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-03T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae8ffed8d258062778c528e",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T02:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1458875722880070/",
+      "at": "2026-11-03T02:15:23.221Z"
+    },
+    "2026-11-02-guess-who-barnabas-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-03T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae90aee90c1e19b034a353d",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T02:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703766883358493985",
+      "at": "2026-11-03T02:31:58.554Z"
+    },
+    "2026-11-02-guess-who-barnabas-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-03T02:00:48.177Z",
+      "planned": "2026-11-03T02:00:00.000Z",
+      "mediaId": "18065894786546628",
+      "permalink": "https://www.instagram.com/reel/DfQwkJbghEm/"
+    },
+    "2026-11-03-countdown-elijah-ravens-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-03T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae99e15c54a95d99b1f49f2",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T13:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703937334005271841",
+      "at": "2026-11-03T13:33:28.676Z"
+    },
+    "2026-11-03-countdown-elijah-ravens-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-03T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae99e15c54a95d99b1f4a2e",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T13:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1670780748049633/",
+      "at": "2026-11-03T13:15:38.630Z"
+    },
+    "2026-11-03-countdown-elijah-ravens-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-03T13:00:37.434Z",
+      "planned": "2026-11-03T13:00:00.000Z",
+      "mediaId": "18133337233805416",
+      "permalink": "https://www.instagram.com/reel/DfR8Fh2gQCZ/"
+    },
+    "2026-11-03-guess-who-caleb-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-03T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae9daf82d879310e0cc2707",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T17:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7703999011220426016",
+      "at": "2026-11-03T17:31:40.390Z"
+    },
+    "2026-11-03-guess-who-caleb-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-03T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6ae9daf9beaa26e1a09063f9",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T17:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1674068090976301/",
+      "at": "2026-11-03T17:15:36.589Z"
+    },
+    "2026-11-03-dopamine-detox-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-03T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea00e8b75704f9ac5ed700",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T20:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122101250331534302",
+      "at": "2026-11-03T20:15:41.861Z"
+    },
+    "2026-11-03-dopamine-detox-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-03T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea00e9eeb55128686ec53a",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T20:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704045238347664672",
+      "at": "2026-11-03T20:31:56.788Z"
+    },
+    "2026-11-03-guess-who-caleb-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-03T17:00:35.438Z",
+      "planned": "2026-11-03T17:00:00.000Z",
+      "mediaId": "18016620842989192",
+      "permalink": "https://www.instagram.com/reel/DfSXjWojUbB/"
+    },
+    "2026-11-03-elisha-dothan-2-kings-6-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-03T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea3d7252391758e2e71a5a",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-03T23:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122101358919534302",
+      "at": "2026-11-03T23:45:28.810Z"
+    },
+    "2026-11-03-elisha-dothan-2-kings-6-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-04T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea3d725fa3d509fa3dbec6",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T00:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704099442919492897",
+      "at": "2026-11-04T00:02:38.450Z"
+    },
+    "2026-11-03-countdown-huldah-prophetess-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-04T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea4f7984e334d814e210ac",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T02:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1861656658194697/",
+      "at": "2026-11-04T02:15:21.463Z"
+    },
+    "2026-11-03-countdown-huldah-prophetess-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-04T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aea5d3b0a183b1b74319420",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T02:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704137764433857824",
+      "at": "2026-11-04T02:31:55.653Z"
+    },
+    "2026-11-03-countdown-huldah-prophetess-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-04T02:00:36.917Z",
+      "planned": "2026-11-04T02:00:00.000Z",
+      "mediaId": "18370251259301178",
+      "permalink": "https://www.instagram.com/reel/DfTVWfhj5SL/"
+    },
+    "2026-11-04-countdown-saul-lost-donkeys-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-04T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeaf2bcc63bd995bd28fb4e",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T13:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704308336069512481",
+      "at": "2026-11-04T13:32:14.583Z"
+    },
+    "2026-11-04-countdown-saul-lost-donkeys-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-04T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeaf2bde478396c27590551",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T13:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1165761852961516/",
+      "at": "2026-11-04T13:15:46.365Z"
+    },
+    "2026-11-04-countdown-saul-lost-donkeys-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-04T13:00:24.678Z",
+      "planned": "2026-11-04T13:00:00.000Z",
+      "mediaId": "18060179849798447",
+      "permalink": "https://www.instagram.com/reel/DfUg4aMDZFK/"
+    },
+    "2026-11-04-guess-who-ananias-damascus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-04T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb3075e8225dc18de22444",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T17:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704370205127871776",
+      "at": "2026-11-04T17:32:05.057Z"
+    },
+    "2026-11-04-guess-who-ananias-damascus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-04T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb3076380a83ae5308361d",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T17:15:00.000Z",
+      "permalink": "https://www.facebook.com/reel/1574312724448526/",
+      "at": "2026-11-04T17:15:43.105Z"
+    },
+    "2026-11-04-10pm-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-04T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb5090c7c81a1788945449",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T20:15:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122102153721534302",
+      "at": "2026-11-04T20:15:42.885Z"
+    },
+    "2026-11-04-10pm-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-04T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb50913792c9d846bf3d4a",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T20:30:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704416370200497441",
+      "at": "2026-11-04T20:32:12.414Z"
+    },
+    "2026-11-04-guess-who-ananias-damascus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-04T17:00:37.615Z",
+      "planned": "2026-11-04T17:00:00.000Z",
+      "mediaId": "18572621887075841",
+      "permalink": "https://www.instagram.com/reel/DfU8WUmnHip/"
+    },
+    "2026-11-04-philippians-4-13-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-04T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb8ef58aec178794a3a326",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-04T23:45:00.000Z",
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122102271645534302",
+      "at": "2026-11-04T23:45:27.115Z"
+    },
+    "2026-11-04-philippians-4-13-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-05T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeb8ef5a101dc5e7730b3bd",
+      "status": "sent",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T00:00:00.000Z",
+      "permalink": "https://tiktok.com/@bibleacademy4/video/7704470609434053921",
+      "at": "2026-11-05T00:02:50.469Z"
+    },
+    "2026-11-04-countdown-aaron-rod-almonds-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-05T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeba465dce07267a19419e2",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-04-countdown-aaron-rod-almonds-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-05T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aeba4660baebf13ccc192eb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-05T02:15:00.000Z",
+      "permalink": null
+    }
+  },
+  "errors": [
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-01T23:45:54.100Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADxkhF1V"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-02T00:18:21.660Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AzK6Irbs"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T00:18:58.086Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AdN_VvEe"
+    },
+    {
+      "id": "2026-11-01-sunday-reset-lock-in-ig",
+      "at": "2026-11-02T01:41:17.440Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AGIxRBa6"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T01:42:00.222Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQNWzvL4"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T02:32:59.556Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AYvWVEqb"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T03:35:08.775Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A2q4mTCv"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T04:25:36.396Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUc_zuaF"
+    },
+    {
+      "id": "2026-11-01-hidden-details-2-sunday-ig",
+      "at": "2026-11-02T04:41:39.638Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AidUZ4Hn"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T13:00:48.245Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AXRvp2VD"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T13:53:09.936Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AcEnvs-t"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T14:56:18.712Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AAzGrL_A"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T15:53:31.304Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AQ7ZHRsm"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T16:56:28.348Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUwbOSyN"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T17:51:43.998Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKbXFjT3"
+    },
+    {
+      "id": "2026-11-02-bible-quiz-3-nehemiah-rhoda-bethesda-ig",
+      "at": "2026-11-02T18:49:20.997Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AYOYTcqJ"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T20:00:55.561Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvtgP_24"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T20:39:43.634Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AyTrltRm"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T21:26:05.165Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AhoTPHvJ"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T22:13:00.478Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFOUwjwm"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-02T22:55:21.755Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Asucsva_"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-02T23:30:50.748Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"APZmE0fE"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-03T00:16:36.644Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AJBZxSNP"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T00:17:16.277Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A-LMy3qU"
+    },
+    {
+      "id": "2026-11-02-5am-club-faith-edition-ig",
+      "at": "2026-11-03T01:37:54.759Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AGAu45I1"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T01:38:40.177Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ar_eoQ8j"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T02:30:54.006Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADWcT9aI"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T03:26:13.268Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvT2vmyG"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T04:23:50.820Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKtHWO8f"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T04:28:54.250Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADGB-LgD"
+    },
+    {
+      "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
+      "at": "2026-11-03T05:25:08.799Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AK1R7oKB"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T20:00:49.256Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AP_tXTr8"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T20:23:03.318Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"An-fijsc"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T21:17:44.300Z",
+      "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T22:16:26.856Z",
+      "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A1dxjcKrUnY116wVDltsRiU\"}"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T23:02:50.062Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Auk_yz8X"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-03T23:30:54.186Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AOngsJkv"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-03T23:49:46.686Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AAzsGL0J"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-03T23:50:27.918Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AggwfyGc"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-04T00:48:07.879Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A5LEohXA"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T00:49:02.666Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ArnMIvfH"
+    },
+    {
+      "id": "2026-11-03-dopamine-detox-faith-edition-ig",
+      "at": "2026-11-04T01:53:05.619Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A6L6O1_4"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T01:53:57.282Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AklH6nH7"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T02:42:59.509Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aora1Kjq"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T03:30:44.957Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ah0z83xp"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T04:30:11.787Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AhtzhTYn"
+    },
+    {
+      "id": "2026-11-03-elisha-dothan-2-kings-6-ig",
+      "at": "2026-11-04T05:30:42.556Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aq-cLPtc"
+    },
+    {
+      "id": "2026-11-04-10pm-reset-faith-edition-ig",
+      "at": "2026-11-04T20:00:52.397Z",
+      "error": "POST /17841467603931873/media_publish → 400 {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AZd44RdCqi9KXWx4tlfDJAU\"}"
+    },
+    {
+      "id": "2026-11-04-10pm-reset-faith-edition-ig",
+      "at": "2026-11-04T20:34:39.772Z",
+      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ABgAfP6c"
+    },
+    {
+      "id": "2026-11-04-10pm-reset-faith-edition-ig",
+      "at": "2026-11-04T21:32:21.054Z",
+      "error": "POST /17841467603931873/media → 400 {\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI"
+    }
+  ],
+  "igPauseUntil": "2026-11-06T22:29:55.000Z"
 }
