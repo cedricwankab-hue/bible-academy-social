@@ -1191,31 +1191,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-02-5am-club-faith-edition-ig",
-      "at": "2026-11-02T20:00:55.561Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AvtgP_24"
-    },
-    {
-      "id": "2026-11-02-5am-club-faith-edition-ig",
-      "at": "2026-11-02T20:39:43.634Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AyTrltRm"
-    },
-    {
-      "id": "2026-11-02-5am-club-faith-edition-ig",
-      "at": "2026-11-02T21:26:05.165Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AhoTPHvJ"
-    },
-    {
-      "id": "2026-11-02-5am-club-faith-edition-ig",
-      "at": "2026-11-02T22:13:00.478Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFOUwjwm"
-    },
-    {
-      "id": "2026-11-02-5am-club-faith-edition-ig",
-      "at": "2026-11-02T22:55:21.755Z",
-      "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Asucsva_"
-    },
-    {
       "id": "2026-11-02-mephibosheth-2-samuel-9-ig",
       "at": "2026-11-02T23:30:50.748Z",
       "error": "POST /17841467603931873/media_publish → 403 {\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"APZmE0fE"
@@ -1438,6 +1413,31 @@
     {
       "id": "2026-11-05-repost-countdown-aaron-rod-almonds-tt",
       "at": "2026-11-05T12:57:40.034Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-05-countdown-hannah-eli-drunk-tt",
+      "at": "2026-11-05T14:18:12.147Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-05-countdown-hannah-eli-drunk-fb",
+      "at": "2026-11-05T14:18:12.288Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
+      "at": "2026-11-05T14:18:12.378Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
+      "at": "2026-11-05T14:18:12.465Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-05-repost-countdown-aaron-rod-almonds-tt",
+      "at": "2026-11-05T14:18:12.577Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
     }
   ],
