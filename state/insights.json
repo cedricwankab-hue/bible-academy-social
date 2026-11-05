@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-04T23:31:34.289Z",
+  "at": "2026-11-05T06:32:37.380Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1092,8 +1092,7 @@
       "shares": 0,
       "reach": 0,
       "totalTimeWatched": 0,
-      "averageTimeWatched": 0,
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "averageTimeWatched": 0
     },
     "2026-11-04-countdown-saul-lost-donkeys-fb": {
       "platform": "fb",
@@ -1104,15 +1103,14 @@
       "engagementRate": 0,
       "impressions": 0,
       "shares": 0,
-      "clicks": 0,
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "clicks": 0
     },
     "2026-11-04-countdown-saul-lost-donkeys-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-04T13:00:24.678Z",
-      "views": 2,
-      "reach": 2,
+      "views": 3,
+      "reach": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1133,19 +1131,86 @@
     },
     "2026-11-04-guess-who-ananias-damascus-tt": {
       "platform": "tt",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "kind": "video",
+      "at": "2026-11-04T17:32:05.057Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
     },
     "2026-11-04-guess-who-ananias-damascus-fb": {
       "platform": "fb",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "kind": "reel",
+      "at": "2026-11-04T17:15:43.105Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
     },
     "2026-11-04-10pm-reset-faith-edition-fb": {
       "platform": "fb",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "kind": "carousel",
+      "at": "2026-11-04T20:15:42.885Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
     },
     "2026-11-04-10pm-reset-faith-edition-tt": {
       "platform": "tt",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api"
+      "kind": "photo",
+      "at": "2026-11-04T20:32:12.414Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-04-philippians-4-13-context-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "at": "2026-11-04T23:45:27.115Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
+    },
+    "2026-11-04-philippians-4-13-context-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "at": "2026-11-05T00:02:50.469Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "views": 0,
+      "shares": 0,
+      "reach": 0,
+      "totalTimeWatched": 0,
+      "averageTimeWatched": 0
+    },
+    "2026-11-04-countdown-aaron-rod-almonds-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "at": "2026-11-05T02:15:24.832Z",
+      "reactions": 0,
+      "comments": 0,
+      "engagementRate": 0,
+      "impressions": 0,
+      "shares": 0,
+      "clicks": 0
     }
   }
 }
