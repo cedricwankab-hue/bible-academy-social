@@ -1187,39 +1187,25 @@
       "dueAt": "2026-11-05T02:15:00.000Z",
       "permalink": "https://www.facebook.com/reel/2145616782719132/",
       "at": "2026-11-05T02:15:24.832Z"
+    },
+    "2026-11-06-countdown-ehud-left-handed-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-07T02:13:29.069Z",
+      "planned": "2026-11-06T23:30:00.000Z",
+      "mediaId": "18083261750362439",
+      "permalink": "https://www.instagram.com/reel/DfbFNeWAfHF/"
+    },
+    "2026-11-06-guess-who-deborah-judges-4-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-07T02:14:03.292Z",
+      "planned": "2026-11-07T02:00:00.000Z",
+      "mediaId": "18647963095005589",
+      "permalink": "https://www.instagram.com/reel/DfbFR2XgAn5/"
     }
   },
   "errors": [
-    {
-      "id": "2026-11-05-countdown-hannah-eli-drunk-tt",
-      "at": "2026-11-05T12:57:39.749Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-countdown-hannah-eli-drunk-fb",
-      "at": "2026-11-05T12:57:39.855Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
-      "at": "2026-11-05T12:57:39.917Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
-      "at": "2026-11-05T12:57:39.970Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-repost-countdown-aaron-rod-almonds-tt",
-      "at": "2026-11-05T12:57:40.034Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-countdown-hannah-eli-drunk-tt",
-      "at": "2026-11-05T14:18:12.147Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
     {
       "id": "2026-11-05-countdown-hannah-eli-drunk-fb",
       "at": "2026-11-05T14:18:12.288Z",
@@ -1438,6 +1424,36 @@
     {
       "id": "2026-11-06-countdown-ehud-left-handed-fb",
       "at": "2026-11-06T22:15:40.901Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-winter-arc-train-your-soul-fb",
+      "at": "2026-11-07T02:14:03.454Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-winter-arc-train-your-soul-tt",
+      "at": "2026-11-07T02:14:03.514Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-countdown-ehud-left-handed-tt",
+      "at": "2026-11-07T02:14:03.565Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-countdown-ehud-left-handed-fb",
+      "at": "2026-11-07T02:14:03.619Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-guess-who-deborah-judges-4-tt",
+      "at": "2026-11-07T02:14:03.683Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-06-guess-who-deborah-judges-4-fb",
+      "at": "2026-11-07T02:14:03.733Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
     }
   ],
