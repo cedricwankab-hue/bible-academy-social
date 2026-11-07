@@ -3,7 +3,7 @@
 // Secrets : IG_ACCESS_TOKEN (clé longue durée de @bibleacademyapp), BUFFER_API_KEY (clé personnelle Buffer). Variables : IG_USER_ID, GRAPH_VERSION (défaut v23.0), DRY_RUN=1 pour tester sans publier.
 import fs from 'node:fs';
 import path from 'node:path';
-import { gql, channels, KEY as BUFFER_KEY } from './buffer.mjs';
+import { gql, channels, RL, KEY as BUFFER_KEY } from './buffer.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const V = process.env.GRAPH_VERSION || 'v23.0';
@@ -87,7 +87,7 @@ const night = (iso) => {
 const scheduling = (item) => (item.platform === 'tt' && CONFIG.tiktokMode === 'notification' && !night(item.at) ? 'notification' : 'automatic');
 let chans;
 async function publishBuffer(item) {
-  chans ??= (await channels()).channels;
+  chans ??= CONFIG.bufferChannels?.length ? CONFIG.bufferChannels : (await channels()).channels;
   const ch = chans.find((c) => String(c.service).toLowerCase() === SERVICE[item.platform]);
   if (!ch) throw new Error(`aucune chaîne ${SERVICE[item.platform]} reliée dans Buffer`);
   const video = item.kind === 'reel' || item.kind === 'video';
@@ -105,20 +105,30 @@ async function publishBuffer(item) {
   if (!r.post) throw new Error('Buffer refuse (' + r.__typename + ') : ' + (r.message || JSON.stringify(r)));
   return { via: 'buffer', bufferId: r.post.id, status: 'scheduled', mode: scheduling(item), dueAt: r.post.dueAt || dueAt, permalink: null };
 }
-/** Met à jour les publications confiées à Buffer : envoyée (lien) ou erreur. */
+/** Met à jour les publications confiées à Buffer : envoyée (lien) ou erreur. Économe : on ne regarde un post qu'après son heure
+ *  (+15 min), au plus une fois toutes les 3 h et 3 fois en tout. */
 async function syncBuffer() {
-  const open = Object.entries(state.published).filter(([, v]) => v.via === 'buffer' && v.status === 'scheduled');
+  const open = Object.entries(state.published).filter(([, v]) => v.via === 'buffer' && v.status === 'scheduled'
+    && Date.now() > Date.parse(v.dueAt || v.planned) + 15 * 60e3 && (!v.checkedAt || Date.now() - Date.parse(v.checkedAt) > 3 * 3600e3) && (v.checks || 0) < 3);
   let n = 0;
-  for (const [id, v] of open) {
+  for (const [id, v] of open.slice(0, 8)) {
     try {
+      v.checkedAt = new Date().toISOString(); v.checks = (v.checks || 0) + 1; n++;
       const d = await gql('query($id: PostId!) { post(input: { id: $id }) { id status externalLink sentAt error { message } } }', { id: v.bufferId });
       const p = d.post; if (!p) continue;
       const st = String(p.status).toLowerCase();
-      if (st === 'sent') { Object.assign(v, { status: 'sent', at: p.sentAt || new Date().toISOString(), permalink: p.externalLink || null }); n++; log('✓ envoyé par Buffer', id, p.externalLink || ''); }
-      else if (st === 'error') { v.status = 'error'; v.error = p.error?.message || 'erreur Buffer'; state.errors.push({ id, at: new Date().toISOString(), error: 'Buffer : ' + v.error }); n++; log('✗ Buffer', id, v.error); }
-    } catch (e) { log('suivi Buffer', id, e.message.slice(0, 200)); }
+      if (st === 'sent') { Object.assign(v, { status: 'sent', at: p.sentAt || new Date().toISOString(), permalink: p.externalLink || null }); log('✓ envoyé par Buffer', id, p.externalLink || ''); }
+      else if (st === 'error') { v.status = 'error'; v.error = p.error?.message || 'erreur Buffer'; state.errors.push({ id, at: new Date().toISOString(), error: 'Buffer : ' + v.error }); log('✗ Buffer', id, v.error); }
+    } catch (e) { log('suivi Buffer', id, e.message.slice(0, 200)); if (e.rateLimited) { bufferLimited(e); break; } }
   }
   return n;
+}
+// quota Buffer épuisé : on arrête tout appel Buffer jusqu'à la remise à zéro (en-tête t), sinon 24 h
+function bufferLimited(e) {
+  const w = e.window === '30d' ? RL.month : e.window === '24h' ? RL.day : RL.q15;
+  const sec = (w && w.resetIn) || e.retryAfter || 24 * 3600;
+  state.bufferPauseUntil = new Date(Date.now() + sec * 1000).toISOString();
+  log('Quota Buffer épuisé (' + (e.window || '?') + ') : pause jusqu’au', state.bufferPauseUntil);
 }
 
 // file d'attente : queue/<date>.json → { items: [{ id, platform: ig|tt|fb, kind, at (ISO), media: [urls], cover?, caption }] }
@@ -162,7 +172,9 @@ for (const item of igPaused ? [] : dueIG.slice(0, 3)) {          // au plus 3 pa
     if (/action is blocked|2207051/.test(e.message)) { state.igPauseUntil = new Date(Date.now() + 48 * 3600e3).toISOString(); log('Instagram bloque les publications : pause de 48 h'); break; }
   }
 }
-if (BUFFER_KEY) {
+const bufPaused = state.bufferPauseUntil && Date.parse(state.bufferPauseUntil) > NOW && !ONLY;
+if (bufPaused && dueBuf.length) log('Buffer en pause (quota) jusqu’au', state.bufferPauseUntil, ':', dueBuf.length, 'publication(s) en attente');
+if (BUFFER_KEY && !bufPaused) {
   for (const item of dueBuf.slice(0, 6)) {
     try {
       log('→ Buffer', item.id, item.kind, item.media.length, 'fichier(s)');
@@ -170,9 +182,10 @@ if (BUFFER_KEY) {
       state.published[item.id] = { platform: item.platform, kind: item.kind, planned: item.at, ...res };
       log('✓ confié à Buffer', item.id, res.dueAt || '');
       changed = true;
-    } catch (e) { fail(item, e); }
+    } catch (e) { fail(item, e); if (e.rateLimited) { bufferLimited(e); break; } }
   }
-  if (!DRY && (await syncBuffer())) changed = true;
+  if (!DRY && !(state.bufferPauseUntil && Date.parse(state.bufferPauseUntil) > Date.now()) && (await syncBuffer())) changed = true;
+  if (RL.month) { state.bufferQuota = { ...RL.month, at: new Date().toISOString() }; changed = true; }
 } else if (dueBuf.length) log('BUFFER_API_KEY absent : TikTok et Facebook en attente');
 if (changed && !DRY) fs.writeFileSync(statePath, JSON.stringify(state, null, 2) + '\n');
 
@@ -194,6 +207,7 @@ if (!DRY) {
   const prev = fs.existsSync(ip) ? JSON.parse(fs.readFileSync(ip, 'utf8')) : { posts: {} };
   if (!prev.at || Date.now() - Date.parse(prev.at) > 6 * 3600e3) {
     const out = { at: new Date().toISOString(), posts: prev.posts || {} };
+    let bufMetrics = 0;
     const recent = Object.entries(state.published).filter(([id, v]) => !id.startsWith('test') && Date.now() - Date.parse(v.at || v.planned || 0) < 14 * 864e5);
     for (const [id, v] of recent) {
       try {
@@ -201,14 +215,19 @@ if (!DRY) {
           const metrics = v.kind === 'reel' ? 'views,reach,saved,shares,likes,comments,total_interactions' : 'views,reach,saved,shares,likes,comments,total_interactions';
           const r = await ig('GET', `/${v.mediaId}/insights`, { metric: metrics });
           out.posts[id] = { platform: 'ig', kind: v.kind, at: v.at, ...Object.fromEntries((r.data || []).map((m) => [m.name, m.values?.[0]?.value ?? m.total_value?.value ?? null])) };
-        } else if (v.via === 'buffer' && v.bufferId && BUFFER_KEY && v.status === 'sent') {
+        } else if (v.via === 'buffer' && v.bufferId && BUFFER_KEY && v.status === 'sent' && !v.metricsAt && Date.now() - Date.parse(v.at) > 36 * 3600e3
+          && !(state.bufferPauseUntil && Date.parse(state.bufferPauseUntil) > Date.now()) && (bufMetrics++ < 12)) {
+          // Buffer : une seule lecture par post, 36 h après sa sortie (quota mensuel limité)
+          v.metricsAt = new Date().toISOString(); changed = true;
           const d = await gql('query($id: PostId!) { post(input: { id: $id }) { metrics { type value } } }', { id: v.bufferId });
           const m = d.post?.metrics || [];
           out.posts[id] = { platform: v.platform, kind: v.kind, at: v.at, ...Object.fromEntries(m.map((x) => [x.type, x.value])) };
         }
-      } catch (e) { out.posts[id] = { ...(out.posts[id] || {}), platform: v.platform, error: e.message.slice(0, 160) }; }
+      } catch (e) { out.posts[id] = { ...(out.posts[id] || {}), platform: v.platform, error: e.message.slice(0, 160) }; if (e.rateLimited) bufferLimited(e); }
     }
     fs.writeFileSync(ip, JSON.stringify(out, null, 2) + '\n');
     log('résultats mis à jour :', Object.keys(out.posts).length, 'publications');
+    fs.writeFileSync(statePath, JSON.stringify(state, null, 2) + '\n');
   }
 }
+if (BUFFER_KEY) log('Buffer : ' + RL.calls + ' requête(s) ce passage' + (RL.month ? `, ${RL.month.left}/${RL.month.quota} restantes sur 30 jours (remise à zéro dans ${Math.round(RL.month.resetIn / 86400)} j)` : ''));

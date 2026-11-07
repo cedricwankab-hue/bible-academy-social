@@ -5,5 +5,18 @@
     "tz": "Europe/Paris",
     "from": "23:00",
     "to": "08:00"
-  }
+  },
+  "bufferChannels": [
+    {
+      "id": "6ae209d72f1f5ed648fcd69e",
+      "service": "facebook",
+      "name": "Bible Academy"
+    },
+    {
+      "id": "6ae2088b2f1f5ed648fccae4",
+      "service": "tiktok",
+      "name": "bibleacademy4"
+    }
+  ],
+  "_noteBuffer": "bufferChannels : identifiants des comptes reliés dans Buffer, gardés ici pour ne pas les redemander à chaque passage (quota Buffer gratuit : 1 000 requêtes par compte relié et par 30 jours). À mettre à jour si on relie un nouveau compte (ex. YouTube)."
 }
