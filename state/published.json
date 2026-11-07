@@ -1207,11 +1207,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
-      "at": "2026-11-05T15:25:13.375Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
       "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
       "at": "2026-11-05T15:25:13.458Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
@@ -1455,7 +1450,19 @@
       "id": "2026-11-07-guess-who-ruth-fb",
       "at": "2026-11-07T08:52:24.322Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-07-guess-who-ruth-tt",
+      "at": "2026-11-07T10:50:37.749Z",
+      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
     }
   ],
-  "igPauseUntil": "2026-11-06T22:29:55.000Z"
+  "igPauseUntil": "2026-11-06T22:29:55.000Z",
+  "bufferPauseUntil": "2026-11-27T14:47:13.749Z",
+  "bufferQuota": {
+    "quota": 2000,
+    "left": 0,
+    "resetIn": 1742196,
+    "at": "2026-11-07T10:50:37.749Z"
+  }
 }
