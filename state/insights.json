@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T06:32:44.675Z",
+  "at": "2026-11-09T16:53:59.664Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1353,8 +1353,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-08T16:16:05.675Z",
-      "views": 4,
-      "reach": 4,
+      "views": 8,
+      "reach": 8,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1365,8 +1365,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-09T00:05:56.173Z",
-      "views": 23,
-      "reach": 22,
+      "views": 27,
+      "reach": 25,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1377,6 +1377,18 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-09T04:28:48.416Z",
+      "views": 5,
+      "reach": 5,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-09-guess-who-gideon-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-09T16:53:59.551Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
