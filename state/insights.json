@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-08T16:16:05.779Z",
+  "at": "2026-11-09T00:05:56.292Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1329,8 +1329,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-07T23:30:46.095Z",
-      "views": 8,
-      "reach": 7,
+      "views": 10,
+      "reach": 9,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1341,8 +1341,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-08T02:31:07.680Z",
-      "views": 19,
-      "reach": 15,
+      "views": 22,
+      "reach": 18,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1353,6 +1353,18 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-08T16:16:05.675Z",
+      "views": 4,
+      "reach": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-08-countdown-twelve-baskets-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-09T00:05:56.173Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
