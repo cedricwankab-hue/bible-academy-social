@@ -1319,6 +1319,36 @@
       "mode": "automatic",
       "dueAt": "2026-11-10T17:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-10-guess-who-joseph-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-10T14:09:48.545Z",
+      "planned": "2026-11-10T13:00:00.000Z",
+      "mediaId": "18121436549060798",
+      "permalink": "https://www.instagram.com/reel/DfkFkaMn3yL/"
+    },
+    "2026-11-10-yt-guess-who-joseph": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-10T14:20:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af325ad3fb3e0f9eadd4ce6",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-10T14:20:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-yt-countdown-eutychus-third-loft": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-10T17:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af325aebe42f217104fd12b",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-10T17:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1576,8 +1606,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 388,
-    "resetIn": 1474678,
-    "at": "2026-11-10T13:09:16.322Z"
+    "left": 386,
+    "resetIn": 1471044,
+    "at": "2026-11-10T14:09:50.561Z"
   }
 }
