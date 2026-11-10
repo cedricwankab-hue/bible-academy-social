@@ -1371,6 +1371,72 @@
       "mode": "automatic",
       "dueAt": "2026-11-10T20:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-10-countdown-pearl-gates-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-11T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af391793cfe2a84dbfc0906",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-countdown-pearl-gates-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-10T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af39179acda3662ff128a8f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-10T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-guess-who-samuel-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-11T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af3917a3cfe2a84dbfc095b",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-guess-who-samuel-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-11T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af3917a8cf622448db942bb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T02:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-yt-countdown-pearl-gates": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-11T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af3917a8cf622448db942e3",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T00:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-yt-guess-who-samuel": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-11T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af3917b3cfe2a84dbfc0983",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T02:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1628,8 +1694,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 384,
-    "resetIn": 1463665,
-    "at": "2026-11-10T16:12:49.634Z"
+    "left": 378,
+    "resetIn": 1443447,
+    "at": "2026-11-10T21:49:47.386Z"
   }
 }

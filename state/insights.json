@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-10T14:09:50.763Z",
+  "at": "2026-11-10T21:49:47.653Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1414,7 +1414,7 @@
       "kind": "reel",
       "at": "2026-11-10T04:29:04.795Z",
       "views": 7,
-      "reach": 7,
+      "reach": 8,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1425,13 +1425,13 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-10T14:09:48.545Z",
-      "views": 0,
-      "reach": 0,
+      "views": 16,
+      "reach": 17,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
     }
   }
 }
