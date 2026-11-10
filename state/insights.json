@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T16:53:59.664Z",
+  "at": "2026-11-10T00:36:08.137Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1365,8 +1365,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-09T00:05:56.173Z",
-      "views": 27,
-      "reach": 25,
+      "views": 28,
+      "reach": 26,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1377,8 +1377,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-09T04:28:48.416Z",
-      "views": 5,
-      "reach": 5,
+      "views": 6,
+      "reach": 6,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1389,6 +1389,18 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-09T16:53:59.551Z",
+      "views": 2,
+      "reach": 2,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-09-countdown-dagon-facedown-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-10T00:36:08.005Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
