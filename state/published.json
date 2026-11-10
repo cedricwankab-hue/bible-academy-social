@@ -1349,6 +1349,28 @@
       "mode": "automatic",
       "dueAt": "2026-11-10T17:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-10-motivation-fades-faithfulness-stays-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-10T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af34281e9e4a87f7b5055a5",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-10T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-10-motivation-fades-faithfulness-stays-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-10T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af34281a80c88d57646028a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-10T20:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1606,8 +1628,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 386,
-    "resetIn": 1471044,
-    "at": "2026-11-10T14:09:50.561Z"
+    "left": 384,
+    "resetIn": 1463665,
+    "at": "2026-11-10T16:12:49.634Z"
   }
 }
