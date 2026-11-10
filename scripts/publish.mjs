@@ -110,6 +110,7 @@ async function publishBuffer(item) {
 /** Met à jour les publications confiées à Buffer : envoyée (lien) ou erreur. Économe : on ne regarde un post qu'après son heure
  *  (+15 min), au plus une fois toutes les 3 h et 3 fois en tout. */
 async function syncBuffer() {
+  if (frugal()) return 0;   // quota presque vide : on ne vérifie plus l'envoi (Buffer publie quand même)
   const open = Object.entries(state.published).filter(([, v]) => v.via === 'buffer' && v.status === 'scheduled'
     && Date.now() > Date.parse(v.dueAt || v.planned) + 15 * 60e3 && (!v.checkedAt || Date.now() - Date.parse(v.checkedAt) > 3 * 3600e3) && (v.checks || 0) < 3);
   let n = 0;
@@ -125,6 +126,8 @@ async function syncBuffer() {
   }
   return n;
 }
+// mode économe : moins de 800 requêtes restantes sur 30 jours → seulement les créations de posts
+const frugal = () => (RL.month?.left ?? state.bufferQuota?.left ?? 9999) < 800;
 // quota Buffer épuisé : on arrête tout appel Buffer jusqu'à la remise à zéro (en-tête t), sinon 24 h
 function bufferLimited(e) {
   const w = e.window === '30d' ? RL.month : e.window === '24h' ? RL.day : RL.q15;
@@ -220,7 +223,7 @@ if (!DRY) {
           const r = await ig('GET', `/${v.mediaId}/insights`, { metric: metrics });
           out.posts[id] = { platform: 'ig', kind: v.kind, at: v.at, ...Object.fromEntries((r.data || []).map((m) => [m.name, m.values?.[0]?.value ?? m.total_value?.value ?? null])) };
         } else if (v.via === 'buffer' && v.bufferId && BUFFER_KEY && v.status === 'sent' && !v.metricsAt && Date.now() - Date.parse(v.at) > 36 * 3600e3
-          && !(state.bufferPauseUntil && Date.parse(state.bufferPauseUntil) > Date.now()) && (bufMetrics++ < 12)) {
+          && !(state.bufferPauseUntil && Date.parse(state.bufferPauseUntil) > Date.now()) && !frugal() && (bufMetrics++ < 6)) {
           // Buffer : une seule lecture par post, 36 h après sa sortie (quota mensuel limité)
           v.metricsAt = new Date().toISOString(); changed = true;
           const d = await gql('query($id: PostId!) { post(input: { id: $id }) { metrics { type value } } }', { id: v.bufferId });
