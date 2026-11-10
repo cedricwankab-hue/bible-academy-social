@@ -1530,7 +1530,6 @@
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
-  "bufferPauseUntil": "2026-11-27T14:47:13.749Z",
   "bufferQuota": {
     "quota": 2000,
     "left": 0,
