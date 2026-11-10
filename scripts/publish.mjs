@@ -76,7 +76,7 @@ async function findPublished(item) {
 }
 
 // ——— TikTok et Facebook : on confie chaque publication à Buffer ~1 h avant son heure, Buffer la publie à l'heure exacte ———
-const SERVICE = { tt: 'tiktok', fb: 'facebook' };
+const SERVICE = { tt: 'tiktok', fb: 'facebook', yt: 'youtube' };
 const CONFIG = fs.existsSync(path.join(ROOT, 'config.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8')) : {};
 // TikTok en mode « notification » : Cédric reçoit un rappel Buffer et ajoute lui-même un son TikTok tendance avant de publier
 const night = (iso) => {
@@ -95,7 +95,9 @@ async function publishBuffer(item) {
     ? [{ video: { url: item.media[0], ...(item.platform === 'tt' && item.thumbMs ? { metadata: { thumbnailOffset: item.thumbMs } } : {}) } }]
     : item.media.slice(0, item.platform === 'tt' ? 35 : 10).map((url) => ({ image: { url } }));
   const firstLine = item.caption.split('\n').find((l) => l.trim()) || '';
+  // YouTube : Shorts (vidéo verticale de moins de 3 min), catégorie 27 = Éducation, pas « pour enfants »
   const metadata = item.platform === 'fb' ? { facebook: { type: video ? 'reel' : 'post' } }
+    : item.platform === 'yt' ? { youtube: { title: (item.title || firstLine).replace(/#\w+/g, '').trim().slice(0, 90) + ' #Shorts', categoryId: '27', madeForKids: false, notifySubscribers: true } }
     : { tiktok: { title: (item.title || firstLine).slice(0, 90) } };
   const dueAt = new Date(Math.max(Date.parse(item.at), Date.now() + 3 * 60e3)).toISOString();
   const d = await gql(`mutation($input: CreatePostInput!) { createPost(input: $input) {
@@ -139,7 +141,9 @@ const fresh = (x, early = 0) => Date.parse(x.at) - early <= NOW && NOW - Date.pa
 // Instagram n'a pas de programmation : GitHub lance les passages avec du retard, donc on prend ce qui tombe dans les 65 prochaines minutes (Buffer : 5 h à l'avance) et on attend l'heure exacte.
 const pick = (x) => !state.published[x.id] && (ONLY ? x.id === ONLY : fresh(x, x.platform === 'ig' ? 65 * 60e3 : 5 * 3600e3));
 const dueIG = items.filter((x) => x.platform === 'ig' && pick(x)).sort((a, b) => Date.parse(a.at) - Date.parse(b.at));
-const dueBuf = items.filter((x) => (x.platform === 'tt' || x.platform === 'fb') && pick(x));
+// YouTube seulement quand la chaîne est reliée dans Buffer (config.bufferChannels)
+const ytOn = (CONFIG.bufferChannels || []).some((c) => String(c.service).toLowerCase() === 'youtube');
+const dueBuf = items.filter((x) => (x.platform === 'tt' || x.platform === 'fb' || (x.platform === 'yt' && ytOn)) && pick(x));
 log(`${items.length} éléments en file ; à traiter : ${dueIG.length} Instagram, ${dueBuf.length} TikTok/Facebook${DRY ? ' (essai, rien n’est publié)' : ''}`);
 if (dueIG.length && !TOKEN && !DRY) { console.error('IG_ACCESS_TOKEN manquant'); process.exit(1); }
 
