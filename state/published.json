@@ -1279,31 +1279,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
-      "at": "2026-11-05T15:25:13.458Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-deep-work-faith-edition-fb",
-      "at": "2026-11-05T15:25:13.540Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-repost-countdown-aaron-rod-almonds-tt",
-      "at": "2026-11-05T15:25:13.663Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-countdown-hannah-eli-drunk-tt",
-      "at": "2026-11-05T16:32:33.974Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-countdown-hannah-eli-drunk-fb",
-      "at": "2026-11-05T16:32:34.029Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
       "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
       "at": "2026-11-05T16:32:34.074Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
@@ -1527,13 +1502,38 @@
       "id": "2026-11-07-guess-who-ruth-tt",
       "at": "2026-11-07T10:50:37.749Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
+    },
+    {
+      "id": "2026-11-10-guess-who-joseph-ig",
+      "at": "2026-11-10T13:05:55.786Z",
+      "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-10-guess-who-joseph-tt",
+      "at": "2026-11-10T13:05:56.027Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-10-guess-who-joseph-fb",
+      "at": "2026-11-10T13:05:56.182Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-10-woman-at-the-well-john-4-fb",
+      "at": "2026-11-10T13:05:56.478Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL.,"
+    },
+    {
+      "id": "2026-11-10-woman-at-the-well-john-4-tt",
+      "at": "2026-11-10T13:05:56.746Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL.,"
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
-    "quota": 2000,
-    "left": 0,
-    "resetIn": 1742196,
-    "at": "2026-11-07T10:50:37.749Z"
+    "quota": 3000,
+    "left": 392,
+    "resetIn": 1474878,
+    "at": "2026-11-10T13:05:56.746Z"
   }
 }
