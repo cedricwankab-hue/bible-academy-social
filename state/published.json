@@ -1538,6 +1538,61 @@
       "mode": "automatic",
       "dueAt": "2026-11-11T20:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-11-bible-quiz-5-esau-roof-seraphim-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-11T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4f4af304f8985c46e96d4",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-bible-quiz-5-esau-roof-seraphim-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-12T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4f4b0bc9f3773a1a71b63",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-countdown-dove-olive-leaf-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-12T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4f4b18a1a2f52b50afec5",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-countdown-dove-olive-leaf-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-12T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4f4b1bc9f3773a1a71bb4",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T02:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-countdown-dove-olive-leaf-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-12T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4f4b1cb4c7286fdfc7179",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T02:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1795,8 +1850,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 371,
-    "resetIn": 1376139,
-    "at": "2026-11-11T16:31:35.263Z"
+    "left": 366,
+    "resetIn": 1352512,
+    "at": "2026-11-11T23:05:22.027Z"
   }
 }
