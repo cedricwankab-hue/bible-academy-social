@@ -1453,6 +1453,17 @@
       "planned": "2026-11-11T02:00:00.000Z",
       "mediaId": "18022765859729131",
       "permalink": "https://www.instagram.com/reel/DflW6tOgbGF/"
+    },
+    "2026-11-11-guess-who-moses-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-11T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af426ec60e4cf0fafb3035f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T13:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1710,8 +1721,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 378,
-    "resetIn": 1443447,
-    "at": "2026-11-10T21:49:47.386Z"
+    "left": 377,
+    "resetIn": 1405190,
+    "at": "2026-11-11T08:27:24.207Z"
   }
 }
