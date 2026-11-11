@@ -1464,6 +1464,80 @@
       "mode": "automatic",
       "dueAt": "2026-11-11T13:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-11-guess-who-moses-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-11T16:31:31.501Z",
+      "planned": "2026-11-11T13:00:00.000Z",
+      "mediaId": "18018892625748669",
+      "permalink": "https://www.instagram.com/reel/Dfm6lLBDss9/"
+    },
+    "2026-11-11-guess-who-moses-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-11T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af49864444c2727360ef3ec",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T16:34:31.502Z",
+      "permalink": null
+    },
+    "2026-11-11-guess-who-moses-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-11T13:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af49864444c2727360ef453",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T16:34:32.657Z",
+      "permalink": null
+    },
+    "2026-11-11-ten-lepers-luke-17-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-11T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af49865c39eba3c040544c4",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T17:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-ten-lepers-luke-17-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-11T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af49866b0396c2ba535cc6d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T17:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-gratitude-season-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-11T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af49866444c2727360ef4e6",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-11-gratitude-season-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-11T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af4986767456c42e971469e",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-11T20:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1721,8 +1795,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 377,
-    "resetIn": 1405190,
-    "at": "2026-11-11T08:27:24.207Z"
+    "left": 371,
+    "resetIn": 1376139,
+    "at": "2026-11-11T16:31:35.263Z"
   }
 }
