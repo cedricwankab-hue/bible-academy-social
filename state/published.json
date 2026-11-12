@@ -1653,14 +1653,72 @@
       "mode": "automatic",
       "dueAt": "2026-11-12T17:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-12-story-jesus-calms-storm-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-12T20:18:45.321Z",
+      "planned": "2026-11-12T18:30:00.000Z",
+      "mediaId": "17873954772642130",
+      "permalink": "https://www.instagram.com/reel/Dfp5WEmj_2a/"
+    },
+    "2026-11-12-hidden-details-3-pillow-coin-bones-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-12T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af61f2548a8bf93e421f846",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T20:21:45.322Z",
+      "permalink": null
+    },
+    "2026-11-12-cozy-winter-quiet-time-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-12T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af61f2648a8bf93e421f874",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T20:21:45.932Z",
+      "permalink": null
+    },
+    "2026-11-12-cozy-winter-quiet-time-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-12T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af61f262c1841db6ffa0cf9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T20:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-12-peter-character-7-slides-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-12T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af61f2748a8bf93e421f8c6",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-12-story-jesus-calms-storm-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-12T18:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af61f278c9b36f601b554a8",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T20:21:47.372Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
-      "at": "2026-11-05T16:32:34.118Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
     {
       "id": "2026-11-05-deep-work-faith-edition-fb",
       "at": "2026-11-05T16:32:34.167Z",
@@ -1905,13 +1963,18 @@
       "id": "2026-11-10-guess-who-joseph-ig",
       "at": "2026-11-10T13:09:14.066Z",
       "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-12-peter-character-7-slides-tt",
+      "at": "2026-11-12T20:18:47.372Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 362,
-    "resetIn": 1302344,
-    "at": "2026-11-12T13:01:31.319Z"
+    "left": 356,
+    "resetIn": 1276107,
+    "at": "2026-11-12T20:18:48.067Z"
   }
 }
