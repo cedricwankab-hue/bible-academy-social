@@ -1634,6 +1634,25 @@
       "mode": "automatic",
       "dueAt": "2026-11-12T13:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-12-guess-who-david-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-12T13:01:30.458Z",
+      "planned": "2026-11-12T13:00:00.000Z",
+      "mediaId": "18357043474222913",
+      "permalink": "https://www.instagram.com/reel/DfpHWe_EWAD/"
+    },
+    "2026-11-12-hidden-details-3-pillow-coin-bones-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-12T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af5b8ab37794f4dae3cb6a5",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-12T17:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -1891,8 +1910,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 363,
-    "resetIn": 1313307,
-    "at": "2026-11-12T09:58:47.828Z"
+    "left": 362,
+    "resetIn": 1302344,
+    "at": "2026-11-12T13:01:31.319Z"
   }
 }
