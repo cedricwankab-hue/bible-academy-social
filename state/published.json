@@ -1891,6 +1891,72 @@
       "mode": "automatic",
       "dueAt": "2026-11-13T17:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-13-bible-quiz-6-zechariah-statue-zacchaeus-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-13T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf178196a0a97246ecb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T22:18:12.695Z",
+      "permalink": null
+    },
+    "2026-11-13-bible-quiz-6-zechariah-statue-zacchaeus-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-13T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf19257ce33981497bb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T22:18:13.408Z",
+      "permalink": null
+    },
+    "2026-11-13-repost-peter-character-7-slides-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-13T22:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf24b28296eb11b6e81",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T22:18:13.923Z",
+      "permalink": null
+    },
+    "2026-11-13-repost-story-elijah-carmel-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-13T22:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf278196a0a97246f3d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T22:18:14.279Z",
+      "permalink": null
+    },
+    "2026-11-13-story-wise-men-star-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-13T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf381e1228421c97b70",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-13-story-wise-men-star-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-14T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af78bf39257ce33981498b4",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-14T00:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -2148,8 +2214,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 341,
-    "resetIn": 1201567,
-    "at": "2026-11-13T17:01:07.933Z"
+    "left": 335,
+    "resetIn": 1182719,
+    "at": "2026-11-13T22:15:16.006Z"
   }
 }
