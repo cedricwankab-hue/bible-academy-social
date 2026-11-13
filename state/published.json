@@ -1716,14 +1716,80 @@
       "mode": "automatic",
       "dueAt": "2026-11-12T20:21:47.372Z",
       "permalink": null
+    },
+    "2026-11-12-story-elijah-carmel-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-13T01:23:03.344Z",
+      "planned": "2026-11-12T21:30:00.000Z",
+      "mediaId": "17954702376299541",
+      "permalink": "https://www.instagram.com/reel/DfqcLbFDRbo/"
+    },
+    "2026-11-12-countdown-jonah-gourd-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-13T02:00:32.767Z",
+      "planned": "2026-11-13T02:00:00.000Z",
+      "mediaId": "18119123624032194",
+      "permalink": "https://www.instagram.com/reel/DfqggkDgLvx/"
+    },
+    "2026-11-12-countdown-jonah-gourd-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-13T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af66f415ec1c9d5be52993a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-12-countdown-jonah-gourd-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-13T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af66f41e1d8eff6109495e9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T02:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-12-countdown-jonah-gourd-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-13T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af66f42c1a0010a5bf0a6ce",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T02:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-12-story-elijah-carmel-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-12T21:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af66f43c1a0010a5bf0a758",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T02:03:34.784Z",
+      "permalink": null
+    },
+    "2026-11-12-story-elijah-carmel-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-12T22:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6af66f43da25c4db3e8bbf99",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-13T02:03:35.449Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-05-deep-work-faith-edition-fb",
-      "at": "2026-11-05T16:32:34.167Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
     {
       "id": "2026-11-05-deep-work-faith-edition-tt",
       "at": "2026-11-05T16:32:34.213Z",
@@ -1968,13 +2034,18 @@
       "id": "2026-11-12-peter-character-7-slides-tt",
       "at": "2026-11-12T20:18:47.372Z",
       "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
+    },
+    {
+      "id": "2026-11-12-peter-character-7-slides-tt",
+      "at": "2026-11-13T02:00:32.994Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 356,
-    "resetIn": 1276107,
-    "at": "2026-11-12T20:18:48.067Z"
+    "left": 350,
+    "resetIn": 1255599,
+    "at": "2026-11-13T02:00:36.014Z"
   }
 }
