@@ -1791,11 +1791,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-05-deep-work-faith-edition-tt",
-      "at": "2026-11-05T16:32:34.213Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
       "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
       "at": "2026-11-05T22:19:43.440Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
@@ -2039,13 +2034,18 @@
       "id": "2026-11-12-peter-character-7-slides-tt",
       "at": "2026-11-13T02:00:32.994Z",
       "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
+    },
+    {
+      "id": "2026-11-12-peter-character-7-slides-tt",
+      "at": "2026-11-13T04:40:20.349Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 350,
-    "resetIn": 1255599,
-    "at": "2026-11-13T02:00:36.014Z"
+    "left": 349,
+    "resetIn": 1246014,
+    "at": "2026-11-13T04:40:20.349Z"
   }
 }
