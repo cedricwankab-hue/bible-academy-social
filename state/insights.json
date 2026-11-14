@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-14T09:20:57.404Z",
+  "at": "2026-11-14T17:00:56.406Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1533,25 +1533,25 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-13T16:45:44.748Z",
-      "views": 22,
-      "reach": 20,
+      "views": 43,
+      "reach": 36,
       "saved": 0,
       "shares": 0,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
-      "total_interactions": 1
+      "total_interactions": 2
     },
     "2026-11-13-story-noah-ark-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-13T17:01:02.577Z",
-      "views": 65,
-      "reach": 61,
+      "views": 106,
+      "reach": 100,
       "saved": 0,
       "shares": 0,
-      "likes": 4,
+      "likes": 7,
       "comments": 0,
-      "total_interactions": 4
+      "total_interactions": 7
     },
     "2026-11-13-story-wise-men-star-ig": {
       "platform": "ig",
@@ -1569,13 +1569,37 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-14T02:31:53.390Z",
-      "views": 55,
-      "reach": 48,
+      "views": 107,
+      "reach": 101,
       "saved": 0,
       "shares": 0,
-      "likes": 1,
+      "likes": 5,
       "comments": 0,
-      "total_interactions": 1
+      "total_interactions": 7
+    },
+    "2026-11-14-story-jesus-twelve-temple-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-14T15:58:26.600Z",
+      "views": 53,
+      "reach": 7,
+      "saved": 0,
+      "shares": 0,
+      "likes": 4,
+      "comments": 0,
+      "total_interactions": 4
+    },
+    "2026-11-14-story-joseph-brothers-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-14T17:00:53.300Z",
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
     }
   }
 }
