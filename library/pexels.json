@@ -1,451 +1,483 @@
 {
- "source": "Pexels (licence Pexels : usage commercial autorisé, modification autorisée, pas d’attribution obligatoire ; ne pas laisser croire qu’une personne photographiée recommande l’app)",
- "photos": [
-  {
-   "id": 8383472,
-   "tag": "morning"
-  },
-  {
-   "id": 7987073,
-   "tag": "morning"
-  },
-  {
-   "id": 8383483,
-   "tag": "morning"
-  },
-  {
-   "id": 7987075,
-   "tag": "morning"
-  },
-  {
-   "id": 8383492,
-   "tag": "morning"
-  },
-  {
-   "id": 8383495,
-   "tag": "morning"
-  },
-  {
-   "id": 8383462,
-   "tag": "morning"
-  },
-  {
-   "id": 8383476,
-   "tag": "morning"
-  },
-  {
-   "id": 5206044,
-   "tag": "morning"
-  },
-  {
-   "id": 8383487,
-   "tag": "morning"
-  },
-  {
-   "id": 22711047,
-   "tag": "morning"
-  },
-  {
-   "id": 8383485,
-   "tag": "morning"
-  },
-  {
-   "id": 8383496,
-   "tag": "morning"
-  },
-  {
-   "id": 20320624,
-   "tag": "morning"
-  },
-  {
-   "id": 35828343,
-   "tag": "morning"
-  },
-  {
-   "id": 6860381,
-   "tag": "study"
-  },
-  {
-   "id": 8383420,
-   "tag": "study"
-  },
-  {
-   "id": 8383424,
-   "tag": "study"
-  },
-  {
-   "id": 8383422,
-   "tag": "study"
-  },
-  {
-   "id": 272337,
-   "tag": "study"
-  },
-  {
-   "id": 8275630,
-   "tag": "study"
-  },
-  {
-   "id": 13011294,
-   "tag": "study"
-  },
-  {
-   "id": 6186376,
-   "tag": "study"
-  },
-  {
-   "id": 159679,
-   "tag": "study"
-  },
-  {
-   "id": 34612053,
-   "tag": "study"
-  },
-  {
-   "id": 7790776,
-   "tag": "study"
-  },
-  {
-   "id": 5199819,
-   "tag": "study"
-  },
-  {
-   "id": 1557251,
-   "tag": "night"
-  },
-  {
-   "id": 4384147,
-   "tag": "night"
-  },
-  {
-   "id": 267559,
-   "tag": "prayer"
-  },
-  {
-   "id": 8383444,
-   "tag": "prayer"
-  },
-  {
-   "id": 4061215,
-   "tag": "prayer"
-  },
-  {
-   "id": 21782665,
-   "tag": "people"
-  },
-  {
-   "id": 29576079,
-   "tag": "people"
-  },
-  {
-   "id": 9488191,
-   "tag": "rain"
-  },
-  {
-   "id": 11793051,
-   "tag": "rain"
-  },
-  {
-   "id": 35289985,
-   "tag": "rain"
-  },
-  {
-   "id": 10882999,
-   "tag": "rain"
-  },
-  {
-   "id": 16295420,
-   "tag": "rain"
-  },
-  {
-   "id": 8858709,
-   "tag": "rain"
-  },
-  {
-   "id": 880989,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 669996,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 36181031,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 7063741,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 1635974,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 30107913,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 2047914,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 18632093,
-   "tag": "darkdesk"
-  },
-  {
-   "id": 35601510,
-   "tag": "cozy"
-  },
-  {
-   "id": 26535233,
-   "tag": "cozy"
-  },
-  {
-   "id": 5675465,
-   "tag": "cozy"
-  },
-  {
-   "id": 31557530,
-   "tag": "cozy"
-  },
-  {
-   "id": 35967875,
-   "tag": "cozy"
-  },
-  {
-   "id": 8643566,
-   "tag": "citynight"
-  },
-  {
-   "id": 10003518,
-   "tag": "citynight"
-  },
-  {
-   "id": 17836457,
-   "tag": "citynight"
-  },
-  {
-   "id": 7690454,
-   "tag": "gym"
-  },
-  {
-   "id": 1552252,
-   "tag": "gym"
-  },
-  {
-   "id": 14289784,
-   "tag": "gym"
-  },
-  {
-   "id": 4753890,
-   "tag": "gym"
-  },
-  {
-   "id": 9669473,
-   "tag": "gym"
-  },
-  {
-   "id": 6389516,
-   "tag": "gym"
-  },
-  {
-   "id": 39259261,
-   "tag": "gym"
-  },
-  {
-   "id": 4761790,
-   "tag": "gym"
-  },
-  {
-   "id": 18647749,
-   "tag": "alarm"
-  },
-  {
-   "id": 12450414,
-   "tag": "alarm"
-  },
-  {
-   "id": 13419442,
-   "tag": "alarm"
-  },
-  {
-   "id": 1028741,
-   "tag": "alarm"
-  },
-  {
-   "id": 17592633,
-   "tag": "alarm"
-  },
-  {
-   "id": 14115730,
-   "tag": "silhouette"
-  },
-  {
-   "id": 10057896,
-   "tag": "silhouette"
-  },
-  {
-   "id": 15071141,
-   "tag": "silhouette"
-  },
-  {
-   "id": 17267358,
-   "tag": "silhouette"
-  },
-  {
-   "id": 12689733,
-   "tag": "silhouette"
-  },
-  {
-   "id": 12907886,
-   "tag": "run"
-  },
-  {
-   "id": 14532913,
-   "tag": "run"
-  },
-  {
-   "id": 886696,
-   "tag": "run"
-  },
-  {
-   "id": 5206036,
-   "tag": "bibledark"
-  },
-  {
-   "id": 35644072,
-   "tag": "bibledark"
-  },
-  {
-   "id": 36022695,
-   "tag": "bibledark"
-  },
-  {
-   "id": 208397,
-   "tag": "bibledark"
-  },
-  {
-   "id": 24304477,
-   "tag": "bibledark"
-  },
-  {
-   "id": 5199807,
-   "tag": "bibledark"
-  },
-  {
-   "id": 14562160,
-   "tag": "bibledark"
-  },
-  {
-   "id": 8383450,
-   "tag": "bibledark"
-  },
-  {
-   "id": 5206052,
-   "tag": "study"
-  },
-  {
-   "id": 19109864,
-   "tag": "bibledark"
-  },
-  {
-   "id": 8268312,
-   "tag": "bibledark"
-  },
-  {
-   "id": 32977019,
-   "tag": "rain"
-  },
-  {
-   "id": 14537064,
-   "tag": "rain"
-  },
-  {
-   "id": 10023322,
-   "tag": "rain"
-  },
-  {
-   "id": 15118856,
-   "tag": "rain"
-  },
-  {
-   "id": 8955288,
-   "tag": "study"
-  },
-  {
-   "id": 6860482,
-   "tag": "study"
-  },
-  {
-   "id": 9174645,
-   "tag": "prayer"
-  },
-  {
-   "id": 33657892,
-   "tag": "study"
-  },
-  {
-   "id": 5199796,
-   "tag": "study"
-  },
-  {
-   "id": 2258240,
-   "tag": "prayer"
-  },
-  {
-   "id": 7317744,
-   "tag": "bibledark"
-  },
-  {
-   "id": 11696719,
-   "tag": "bibledark"
-  },
-  {
-   "id": 8383497,
-   "tag": "study"
-  },
-  {
-   "id": 8383447,
-   "tag": "study"
-  },
-  {
-   "id": 8383482,
-   "tag": "study"
-  },
-  {
-   "id": 1771219,
-   "tag": "prayer"
-  },
-  {
-   "id": 2351717,
-   "tag": "study"
-  },
-  {
-   "id": 8383406,
-   "tag": "morning"
-  },
-  {
-   "id": 4065021,
-   "tag": "cozy"
-  },
-  {
-   "id": 5989062,
-   "tag": "rain"
-  },
-  {
-   "id": 27402577,
-   "tag": "citynight"
-  },
-  {
-   "id": 31009525,
-   "tag": "rain"
-  },
-  {
-   "id": 39210996,
-   "tag": "rain"
-  }
- ],
- "mood": "Planches d’ambiance de Cédric (28/10, Pinterest, inspiration seulement) : Bible et café le matin, étude de nuit, bougie, pluie sur la vitre, bureau sombre minimal, studio cosy à la lampe, ville de nuit.",
- "rule": "Règle de Cédric : si un livre est visible, ce doit être une Bible (jamais un Coran, un magazine ou un manuel scolaire)."
+  "source": "Pexels (licence Pexels : usage commercial autorisé, modification autorisée, pas d’attribution obligatoire ; ne pas laisser croire qu’une personne photographiée recommande l’app)",
+  "photos": [
+    {
+      "id": 8383472,
+      "tag": "morning"
+    },
+    {
+      "id": 7987073,
+      "tag": "morning"
+    },
+    {
+      "id": 8383483,
+      "tag": "morning"
+    },
+    {
+      "id": 7987075,
+      "tag": "morning"
+    },
+    {
+      "id": 8383492,
+      "tag": "morning"
+    },
+    {
+      "id": 8383495,
+      "tag": "morning"
+    },
+    {
+      "id": 8383462,
+      "tag": "morning"
+    },
+    {
+      "id": 8383476,
+      "tag": "morning"
+    },
+    {
+      "id": 5206044,
+      "tag": "morning"
+    },
+    {
+      "id": 8383487,
+      "tag": "morning"
+    },
+    {
+      "id": 22711047,
+      "tag": "morning"
+    },
+    {
+      "id": 8383485,
+      "tag": "morning"
+    },
+    {
+      "id": 8383496,
+      "tag": "morning"
+    },
+    {
+      "id": 20320624,
+      "tag": "morning"
+    },
+    {
+      "id": 35828343,
+      "tag": "morning"
+    },
+    {
+      "id": 6860381,
+      "tag": "study"
+    },
+    {
+      "id": 8383420,
+      "tag": "study"
+    },
+    {
+      "id": 8383424,
+      "tag": "study"
+    },
+    {
+      "id": 8383422,
+      "tag": "study"
+    },
+    {
+      "id": 272337,
+      "tag": "study"
+    },
+    {
+      "id": 8275630,
+      "tag": "study"
+    },
+    {
+      "id": 13011294,
+      "tag": "study"
+    },
+    {
+      "id": 6186376,
+      "tag": "study"
+    },
+    {
+      "id": 159679,
+      "tag": "study"
+    },
+    {
+      "id": 34612053,
+      "tag": "study"
+    },
+    {
+      "id": 7790776,
+      "tag": "study"
+    },
+    {
+      "id": 5199819,
+      "tag": "study"
+    },
+    {
+      "id": 1557251,
+      "tag": "night"
+    },
+    {
+      "id": 4384147,
+      "tag": "night"
+    },
+    {
+      "id": 267559,
+      "tag": "prayer"
+    },
+    {
+      "id": 8383444,
+      "tag": "prayer"
+    },
+    {
+      "id": 4061215,
+      "tag": "prayer"
+    },
+    {
+      "id": 21782665,
+      "tag": "people"
+    },
+    {
+      "id": 29576079,
+      "tag": "people"
+    },
+    {
+      "id": 9488191,
+      "tag": "rain"
+    },
+    {
+      "id": 11793051,
+      "tag": "rain"
+    },
+    {
+      "id": 35289985,
+      "tag": "rain"
+    },
+    {
+      "id": 10882999,
+      "tag": "rain"
+    },
+    {
+      "id": 16295420,
+      "tag": "rain"
+    },
+    {
+      "id": 8858709,
+      "tag": "rain"
+    },
+    {
+      "id": 880989,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 669996,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 36181031,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 7063741,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 1635974,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 30107913,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 2047914,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 18632093,
+      "tag": "darkdesk"
+    },
+    {
+      "id": 35601510,
+      "tag": "cozy"
+    },
+    {
+      "id": 26535233,
+      "tag": "cozy"
+    },
+    {
+      "id": 5675465,
+      "tag": "cozy"
+    },
+    {
+      "id": 31557530,
+      "tag": "cozy"
+    },
+    {
+      "id": 35967875,
+      "tag": "cozy"
+    },
+    {
+      "id": 8643566,
+      "tag": "citynight"
+    },
+    {
+      "id": 10003518,
+      "tag": "citynight"
+    },
+    {
+      "id": 17836457,
+      "tag": "citynight"
+    },
+    {
+      "id": 7690454,
+      "tag": "gym"
+    },
+    {
+      "id": 1552252,
+      "tag": "gym"
+    },
+    {
+      "id": 14289784,
+      "tag": "gym"
+    },
+    {
+      "id": 4753890,
+      "tag": "gym"
+    },
+    {
+      "id": 9669473,
+      "tag": "gym"
+    },
+    {
+      "id": 6389516,
+      "tag": "gym"
+    },
+    {
+      "id": 39259261,
+      "tag": "gym"
+    },
+    {
+      "id": 4761790,
+      "tag": "gym"
+    },
+    {
+      "id": 18647749,
+      "tag": "alarm"
+    },
+    {
+      "id": 12450414,
+      "tag": "alarm"
+    },
+    {
+      "id": 13419442,
+      "tag": "alarm"
+    },
+    {
+      "id": 1028741,
+      "tag": "alarm"
+    },
+    {
+      "id": 17592633,
+      "tag": "alarm"
+    },
+    {
+      "id": 14115730,
+      "tag": "silhouette"
+    },
+    {
+      "id": 10057896,
+      "tag": "silhouette"
+    },
+    {
+      "id": 15071141,
+      "tag": "silhouette"
+    },
+    {
+      "id": 17267358,
+      "tag": "silhouette"
+    },
+    {
+      "id": 12689733,
+      "tag": "silhouette"
+    },
+    {
+      "id": 12907886,
+      "tag": "run"
+    },
+    {
+      "id": 14532913,
+      "tag": "run"
+    },
+    {
+      "id": 886696,
+      "tag": "run"
+    },
+    {
+      "id": 5206036,
+      "tag": "bibledark"
+    },
+    {
+      "id": 35644072,
+      "tag": "bibledark"
+    },
+    {
+      "id": 36022695,
+      "tag": "bibledark"
+    },
+    {
+      "id": 208397,
+      "tag": "bibledark"
+    },
+    {
+      "id": 24304477,
+      "tag": "bibledark"
+    },
+    {
+      "id": 5199807,
+      "tag": "bibledark"
+    },
+    {
+      "id": 14562160,
+      "tag": "bibledark"
+    },
+    {
+      "id": 8383450,
+      "tag": "bibledark"
+    },
+    {
+      "id": 5206052,
+      "tag": "study"
+    },
+    {
+      "id": 19109864,
+      "tag": "bibledark"
+    },
+    {
+      "id": 8268312,
+      "tag": "bibledark"
+    },
+    {
+      "id": 32977019,
+      "tag": "rain"
+    },
+    {
+      "id": 14537064,
+      "tag": "rain"
+    },
+    {
+      "id": 10023322,
+      "tag": "rain"
+    },
+    {
+      "id": 15118856,
+      "tag": "rain"
+    },
+    {
+      "id": 8955288,
+      "tag": "study"
+    },
+    {
+      "id": 6860482,
+      "tag": "study"
+    },
+    {
+      "id": 9174645,
+      "tag": "prayer"
+    },
+    {
+      "id": 33657892,
+      "tag": "study"
+    },
+    {
+      "id": 5199796,
+      "tag": "study"
+    },
+    {
+      "id": 2258240,
+      "tag": "prayer"
+    },
+    {
+      "id": 7317744,
+      "tag": "bibledark"
+    },
+    {
+      "id": 11696719,
+      "tag": "bibledark"
+    },
+    {
+      "id": 8383497,
+      "tag": "study"
+    },
+    {
+      "id": 8383447,
+      "tag": "study"
+    },
+    {
+      "id": 8383482,
+      "tag": "study"
+    },
+    {
+      "id": 1771219,
+      "tag": "prayer"
+    },
+    {
+      "id": 2351717,
+      "tag": "study"
+    },
+    {
+      "id": 8383406,
+      "tag": "morning"
+    },
+    {
+      "id": 4065021,
+      "tag": "cozy"
+    },
+    {
+      "id": 5989062,
+      "tag": "rain"
+    },
+    {
+      "id": 27402577,
+      "tag": "citynight"
+    },
+    {
+      "id": 31009525,
+      "tag": "rain"
+    },
+    {
+      "id": 39210996,
+      "tag": "rain"
+    },
+    {
+      "id": 2294878,
+      "tag": "study"
+    },
+    {
+      "id": 8275631,
+      "tag": "bibledark"
+    },
+    {
+      "id": 8275635,
+      "tag": "bibledark"
+    },
+    {
+      "id": 29756408,
+      "tag": "cozy"
+    },
+    {
+      "id": 29179297,
+      "tag": "study"
+    },
+    {
+      "id": 7076710,
+      "tag": "study"
+    },
+    {
+      "id": 5199801,
+      "tag": "prayer"
+    },
+    {
+      "id": 32922453,
+      "tag": "cozy"
+    }
+  ],
+  "mood": "Planches d’ambiance de Cédric (28/10, Pinterest, inspiration seulement) : Bible et café le matin, étude de nuit, bougie, pluie sur la vitre, bureau sombre minimal, studio cosy à la lampe, ville de nuit.",
+  "rule": "Règle de Cédric : si un livre est visible, ce doit être une Bible (jamais un Coran, un magazine ou un manuel scolaire)."
 }
