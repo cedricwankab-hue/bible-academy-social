@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T00:21:54.724Z",
+  "at": "2026-11-15T06:59:48.839Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1593,25 +1593,37 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-14T17:00:53.300Z",
-      "views": 58,
-      "reach": 48,
+      "views": 115,
+      "reach": 106,
       "saved": 0,
       "shares": 0,
-      "likes": 1,
+      "likes": 4,
       "comments": 0,
-      "total_interactions": 2
+      "total_interactions": 5
     },
     "2026-11-14-story-jesus-baptism-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-15T00:21:52.698Z",
-      "views": 0,
-      "reach": 0,
+      "views": 111,
+      "reach": 103,
+      "saved": 1,
+      "shares": 0,
+      "likes": 3,
+      "comments": 0,
+      "total_interactions": 4
+    },
+    "2026-11-14-story-moses-burning-bush-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-15T04:47:19.740Z",
+      "views": 32,
+      "reach": 29,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
     }
   }
 }
