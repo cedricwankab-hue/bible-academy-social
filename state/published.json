@@ -2340,6 +2340,47 @@
       "mode": "automatic",
       "dueAt": "2026-11-16T00:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-15-story-water-into-wine-cana-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-15T23:55:55.042Z",
+      "planned": "2026-11-15T23:30:00.000Z",
+      "mediaId": "17954397093318296",
+      "permalink": "https://www.instagram.com/reel/DfyAlWrjLYK/"
+    },
+    "2026-11-15-story-joshua-jericho-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-16T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afa468bff465c57dabe3184",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-16T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-15-story-joshua-jericho-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-16T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afa468cff465c57dabe31bb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-16T02:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-15-story-joshua-jericho-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-16T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afa468cff465c57dabe31e3",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-16T02:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -2597,8 +2638,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 306,
-    "resetIn": 1018090,
-    "at": "2026-11-15T19:59:04.223Z"
+    "left": 303,
+    "resetIn": 1003878,
+    "at": "2026-11-15T23:55:56.559Z"
   }
 }
