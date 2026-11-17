@@ -2537,6 +2537,36 @@
       "mode": "automatic",
       "dueAt": "2026-11-17T02:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-16-story-gideon-300-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-17T04:52:42.095Z",
+      "planned": "2026-11-17T02:00:00.000Z",
+      "mediaId": "18470591914190776",
+      "permalink": "https://www.instagram.com/reel/Df1HV5sgT2l/"
+    },
+    "2026-11-16-story-gideon-300-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-17T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afbdd9a4b26315855c0b473",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-17T04:55:42.096Z",
+      "permalink": null
+    },
+    "2026-11-16-story-gideon-300-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-17T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afbdd9b797935b975e197cc",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-17T04:55:42.953Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -2794,8 +2824,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 291,
-    "resetIn": 918978,
-    "at": "2026-11-16T23:30:57.418Z"
+    "left": 289,
+    "resetIn": 899671,
+    "at": "2026-11-17T04:52:43.384Z"
   }
 }
