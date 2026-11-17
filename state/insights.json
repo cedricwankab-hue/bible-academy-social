@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T14:27:32.262Z",
+  "at": "2026-11-17T23:30:52.799Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1701,8 +1701,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-17T04:52:42.095Z",
-      "views": 97,
-      "reach": 89,
+      "views": 107,
+      "reach": 98,
       "saved": 0,
       "shares": 0,
       "likes": 2,
@@ -1713,6 +1713,30 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-17T14:27:28.443Z",
+      "views": 97,
+      "reach": 75,
+      "saved": 0,
+      "shares": 0,
+      "likes": 10,
+      "comments": 0,
+      "total_interactions": 10
+    },
+    "2026-11-17-story-samson-delilah-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-17T22:35:56.100Z",
+      "views": 30,
+      "reach": 7,
+      "saved": 0,
+      "shares": 0,
+      "likes": 3,
+      "comments": 0,
+      "total_interactions": 3
+    },
+    "2026-11-17-story-blind-bartimaeus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-17T23:30:48.867Z",
       "views": 0,
       "reach": 0,
       "saved": 0,

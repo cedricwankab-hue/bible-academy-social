@@ -2641,6 +2641,88 @@
       "mode": "automatic",
       "dueAt": "2026-11-17T17:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-17-story-samson-delilah-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-17T22:35:56.100Z",
+      "planned": "2026-11-17T17:00:00.000Z",
+      "mediaId": "17908068879671709",
+      "permalink": "https://www.instagram.com/reel/Df3BBF5j9PN/"
+    },
+    "2026-11-17-story-blind-bartimaeus-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-17T23:30:48.867Z",
+      "planned": "2026-11-17T23:30:00.000Z",
+      "mediaId": "18149835016575223",
+      "permalink": "https://www.instagram.com/reel/Df3HUp0Cns7/"
+    },
+    "2026-11-17-finals-week-lock-in-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-17T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3a993fa11d37df063b5",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-17T23:33:48.868Z",
+      "permalink": null
+    },
+    "2026-11-17-finals-week-lock-in-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-17T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3a9f0c5ce9361a9528d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-17T23:33:49.634Z",
+      "permalink": null
+    },
+    "2026-11-17-story-blind-bartimaeus-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-18T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3aa93fa11d37df06411",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-17-story-blind-bartimaeus-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-17T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3abfc933ac285ac8d21",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-17T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-17-story-blind-bartimaeus-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-18T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3abfc933ac285ac8d53",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T00:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-17-story-ruth-naomi-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-18T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afce3ac93fa11d37df064ee",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T02:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -2898,8 +2980,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 283,
-    "resetIn": 865183,
-    "at": "2026-11-17T14:27:32.130Z"
+    "left": 277,
+    "resetIn": 832582,
+    "at": "2026-11-17T23:30:52.656Z"
   }
 }
