@@ -2816,6 +2816,80 @@
       "mode": "automatic",
       "dueAt": "2026-11-18T17:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-18-story-david-goliath-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-18T20:58:08.694Z",
+      "planned": "2026-11-18T17:00:00.000Z",
+      "mediaId": "18084970910396012",
+      "permalink": "https://www.instagram.com/reel/Df5am15El4S/"
+    },
+    "2026-11-18-story-david-goliath-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-18T17:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe11616fadb4be71163dbc",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T21:01:08.695Z",
+      "permalink": null
+    },
+    "2026-11-18-hidden-details-5-slingers-chariot-fire-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-18T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe1161a8bd8e4ffd182f4f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T21:01:09.465Z",
+      "permalink": null
+    },
+    "2026-11-18-hidden-details-5-slingers-chariot-fire-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-18T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe11620d8c064ce4d60ed3",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T21:01:09.881Z",
+      "permalink": null
+    },
+    "2026-11-18-story-lazarus-come-forth-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-19T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe1162a8bd8e4ffd1831bb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-18-story-lazarus-come-forth-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-18T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe11630d8c064ce4d60f38",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-18-story-lazarus-come-forth-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-19T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afe11636fadb4be71163e8f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T00:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -3073,8 +3147,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 270,
-    "resetIn": 783975,
-    "at": "2026-11-18T13:00:59.329Z"
+    "left": 264,
+    "resetIn": 755343,
+    "at": "2026-11-18T20:58:11.744Z"
   }
 }
