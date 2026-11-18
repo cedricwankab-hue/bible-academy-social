@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T23:30:52.799Z",
+  "at": "2026-11-18T13:00:59.457Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1713,8 +1713,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-17T14:27:28.443Z",
-      "views": 97,
-      "reach": 75,
+      "views": 122,
+      "reach": 97,
       "saved": 0,
       "shares": 0,
       "likes": 10,
@@ -1725,18 +1725,42 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-17T22:35:56.100Z",
-      "views": 30,
-      "reach": 7,
+      "views": 117,
+      "reach": 107,
       "saved": 0,
       "shares": 0,
-      "likes": 3,
+      "likes": 4,
       "comments": 0,
-      "total_interactions": 3
+      "total_interactions": 4
     },
     "2026-11-17-story-blind-bartimaeus-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-17T23:30:48.867Z",
+      "views": 116,
+      "reach": 107,
+      "saved": 0,
+      "shares": 0,
+      "likes": 4,
+      "comments": 0,
+      "total_interactions": 5
+    },
+    "2026-11-17-story-ruth-naomi-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-18T03:54:18.643Z",
+      "views": 114,
+      "reach": 106,
+      "saved": 0,
+      "shares": 0,
+      "likes": 6,
+      "comments": 0,
+      "total_interactions": 6
+    },
+    "2026-11-18-story-zacchaeus-sycamore-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-18T13:00:55.756Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
