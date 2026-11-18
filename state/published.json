@@ -2723,6 +2723,36 @@
       "mode": "automatic",
       "dueAt": "2026-11-18T02:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-17-story-ruth-naomi-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-18T03:54:18.643Z",
+      "planned": "2026-11-18T02:00:00.000Z",
+      "mediaId": "17934337125161285",
+      "permalink": "https://www.instagram.com/reel/Df3ldAhiRof/"
+    },
+    "2026-11-17-story-ruth-naomi-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-18T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afd216b9f3765f6ab2cce9d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T03:57:18.644Z",
+      "permalink": null
+    },
+    "2026-11-17-story-ruth-naomi-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-18T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afd216b93fa11d37d04dc2c",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-18T03:57:19.378Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -2980,8 +3010,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 277,
-    "resetIn": 832582,
-    "at": "2026-11-17T23:30:52.656Z"
+    "left": 275,
+    "resetIn": 816775,
+    "at": "2026-11-18T03:54:19.798Z"
   }
 }
