@@ -2972,14 +2972,72 @@
       "mode": "automatic",
       "dueAt": "2026-11-19T13:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-19-story-jonah-great-fish-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-19T19:11:21.691Z",
+      "planned": "2026-11-19T17:00:00.000Z",
+      "mediaId": "18103914905378526",
+      "permalink": "https://www.instagram.com/reel/Df7zONRCZUK/"
+    },
+    "2026-11-19-story-jonah-great-fish-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-19T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aff49daf29f0bca3b1392f6",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T19:14:21.692Z",
+      "permalink": null
+    },
+    "2026-11-19-story-jonah-great-fish-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-19T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aff49da0552cca31f261e29",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T19:14:22.459Z",
+      "permalink": null
+    },
+    "2026-11-19-night-reset-faith-edition-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-19T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aff49db44b1febf13dc48ed",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-19-night-reset-faith-edition-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-19T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aff49dbf8ce7fa6938fcb55",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T20:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-19-story-prodigal-son-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-20T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6aff49dd0552cca31f2620c7",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T00:00:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-fb",
-      "at": "2026-11-05T22:19:43.440Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
     {
       "id": "2026-11-05-jehoshaphat-singers-2-chronicles-20-tt",
       "at": "2026-11-05T22:19:43.583Z",
@@ -3224,13 +3282,18 @@
       "id": "2026-11-12-peter-character-7-slides-tt",
       "at": "2026-11-13T04:40:20.349Z",
       "error": "Buffer refuse (InvalidInputError) : Invalid post: TikTok posts cannot have more than 10 assets."
+    },
+    {
+      "id": "2026-11-19-story-jonah-great-fish-yt",
+      "at": "2026-11-19T19:11:23.112Z",
+      "error": "Buffer refuse (LimitReachedError) : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 258,
-    "resetIn": 706097,
-    "at": "2026-11-19T10:38:57.246Z"
+    "left": 252,
+    "resetIn": 675350,
+    "at": "2026-11-19T19:11:25.550Z"
   }
 }
