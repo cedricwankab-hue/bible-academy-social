@@ -2939,6 +2939,39 @@
       "mode": "automatic",
       "dueAt": "2026-11-19T02:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-19-story-woman-at-the-well-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-19T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afed1c0528b203593ec0bc4",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T13:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-19-story-woman-at-the-well-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-19T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afed1c0ec3834f1545242f9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T13:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-19-story-woman-at-the-well-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-19T13:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6afed1c1ffd0192517a933ea",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-19T13:45:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -3196,8 +3229,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 261,
-    "resetIn": 735711,
-    "at": "2026-11-19T02:25:23.558Z"
+    "left": 258,
+    "resetIn": 706097,
+    "at": "2026-11-19T10:38:57.246Z"
   }
 }
