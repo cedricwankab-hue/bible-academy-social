@@ -3128,19 +3128,69 @@
       "mode": "automatic",
       "dueAt": "2026-11-20T13:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-20-story-good-samaritan-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-20T17:42:17.121Z",
+      "planned": "2026-11-20T13:00:00.000Z",
+      "mediaId": "18345028123256053",
+      "permalink": "https://www.instagram.com/reel/Df-N1e1DvNX/"
+    },
+    "2026-11-20-story-nehemiah-wall-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-20T17:43:10.844Z",
+      "planned": "2026-11-20T17:00:00.000Z",
+      "mediaId": "17925919482220940",
+      "permalink": "https://www.instagram.com/reel/Df-N58YDP79/"
+    },
+    "2026-11-20-story-nehemiah-wall-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-20T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0086b0d425f1473aff6476",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T17:46:11.363Z",
+      "permalink": null
+    },
+    "2026-11-20-story-nehemiah-wall-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-20T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0086b1861298c9b13d6804",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T17:46:12.537Z",
+      "permalink": null
+    },
+    "2026-11-20-bible-quiz-8-joseph-daniel-esther-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-20T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0086b144c36191134bf3d0",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T20:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-20-bible-quiz-8-joseph-daniel-esther-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-20T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0086b26f199ec35b6b92ca",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T20:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
-    {
-      "id": "2026-11-05-deep-work-faith-edition-fb",
-      "at": "2026-11-05T22:19:43.690Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-deep-work-faith-edition-tt",
-      "at": "2026-11-05T22:19:43.812Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
     {
       "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-fb",
       "at": "2026-11-05T22:19:43.917Z",
@@ -3380,13 +3430,23 @@
       "id": "2026-11-20-story-good-samaritan-yt",
       "at": "2026-11-20T08:57:24.764Z",
       "error": "Buffer refuse (LimitReachedError) : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day."
+    },
+    {
+      "id": "2026-11-20-story-good-samaritan-yt",
+      "at": "2026-11-20T17:43:11.363Z",
+      "error": "Buffer refuse (LimitReachedError) : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day."
+    },
+    {
+      "id": "2026-11-20-story-nehemiah-wall-yt",
+      "at": "2026-11-20T17:43:13.395Z",
+      "error": "Buffer refuse (LimitReachedError) : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 244,
-    "resetIn": 625790,
-    "at": "2026-11-20T08:57:24.764Z"
+    "left": 238,
+    "resetIn": 594240,
+    "at": "2026-11-20T17:43:14.529Z"
   }
 }
