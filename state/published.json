@@ -3188,6 +3188,80 @@
       "mode": "automatic",
       "dueAt": "2026-11-20T20:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-20-story-triumphal-entry-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-20T23:30:33.515Z",
+      "planned": "2026-11-20T23:30:00.000Z",
+      "mediaId": "18434630650151715",
+      "permalink": "https://www.instagram.com/reel/Df-1sofFeAB/"
+    },
+    "2026-11-20-story-nehemiah-wall-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-20T17:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81add205ed779a48bf5",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T23:33:33.516Z",
+      "permalink": null
+    },
+    "2026-11-20-story-triumphal-entry-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-21T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81a20a2d09a0abb2529",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-21T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-20-story-triumphal-entry-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-20T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81b5102766245df626f",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-20T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-20-story-triumphal-entry-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-21T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81c9ffbc8503ce325b0",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-21T00:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-20-story-naaman-jordan-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-21T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81cdd205ed779a48d19",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-21T02:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-20-story-naaman-jordan-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-21T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b00d81d9ffbc8503ce328dc",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-21T02:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -3445,8 +3519,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 238,
-    "resetIn": 594240,
-    "at": "2026-11-20T17:43:14.529Z"
+    "left": 232,
+    "resetIn": 573397,
+    "at": "2026-11-20T23:30:37.156Z"
   }
 }
