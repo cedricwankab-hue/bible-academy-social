@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T13:01:41.552Z",
+  "at": "2026-11-21T19:51:13.009Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1845,8 +1845,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T17:42:17.121Z",
-      "views": 107,
-      "reach": 103,
+      "views": 108,
+      "reach": 104,
       "saved": 2,
       "shares": 0,
       "likes": 4,
@@ -1857,8 +1857,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T17:43:10.844Z",
-      "views": 55,
-      "reach": 49,
+      "views": 61,
+      "reach": 55,
       "saved": 0,
       "shares": 0,
       "likes": 2,
@@ -1869,13 +1869,13 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T23:30:33.515Z",
-      "views": 57,
-      "reach": 51,
+      "views": 84,
+      "reach": 73,
       "saved": 0,
       "shares": 0,
-      "likes": 5,
+      "likes": 6,
       "comments": 0,
-      "total_interactions": 5
+      "total_interactions": 6
     },
     "2026-11-20-story-naaman-jordan-ig": {
       "platform": "ig",
@@ -1893,6 +1893,18 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-21T13:01:39.077Z",
+      "views": 114,
+      "reach": 99,
+      "saved": 0,
+      "shares": 0,
+      "likes": 2,
+      "comments": 0,
+      "total_interactions": 2
+    },
+    "2026-11-21-story-mephibosheth-kings-table-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-21T19:51:10.521Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
