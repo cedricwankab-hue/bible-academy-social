@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T04:11:35.255Z",
+  "at": "2026-11-21T13:01:41.552Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1845,42 +1845,54 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T17:42:17.121Z",
-      "views": 39,
-      "reach": 36,
-      "saved": 0,
+      "views": 107,
+      "reach": 103,
+      "saved": 2,
       "shares": 0,
-      "likes": 1,
+      "likes": 4,
       "comments": 0,
-      "total_interactions": 1
+      "total_interactions": 6
     },
     "2026-11-20-story-nehemiah-wall-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T17:43:10.844Z",
-      "views": 43,
-      "reach": 40,
-      "saved": 0,
-      "shares": 0,
-      "likes": 1,
-      "comments": 0,
-      "total_interactions": 1
-    },
-    "2026-11-20-story-triumphal-entry-ig": {
-      "platform": "ig",
-      "kind": "reel",
-      "at": "2026-11-20T23:30:33.515Z",
-      "views": 29,
-      "reach": 24,
+      "views": 55,
+      "reach": 49,
       "saved": 0,
       "shares": 0,
       "likes": 2,
       "comments": 0,
       "total_interactions": 2
     },
+    "2026-11-20-story-triumphal-entry-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-20T23:30:33.515Z",
+      "views": 57,
+      "reach": 51,
+      "saved": 0,
+      "shares": 0,
+      "likes": 5,
+      "comments": 0,
+      "total_interactions": 5
+    },
     "2026-11-20-story-naaman-jordan-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-21T04:11:34.352Z",
+      "views": 1,
+      "reach": 1,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-21-story-last-supper-feet-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-21T13:01:39.077Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
