@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T19:51:13.009Z",
+  "at": "2026-11-22T04:50:18.994Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1869,13 +1869,13 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-20T23:30:33.515Z",
-      "views": 84,
-      "reach": 73,
+      "views": 111,
+      "reach": 98,
       "saved": 0,
       "shares": 0,
-      "likes": 6,
+      "likes": 8,
       "comments": 0,
-      "total_interactions": 6
+      "total_interactions": 8
     },
     "2026-11-20-story-naaman-jordan-ig": {
       "platform": "ig",
@@ -1893,8 +1893,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-21T13:01:39.077Z",
-      "views": 114,
-      "reach": 99,
+      "views": 115,
+      "reach": 100,
       "saved": 0,
       "shares": 0,
       "likes": 2,
@@ -1905,6 +1905,30 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-21T19:51:10.521Z",
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-21-story-gethsemane-not-my-will-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-22T00:09:55.944Z",
+      "views": 86,
+      "reach": 76,
+      "saved": 0,
+      "shares": 0,
+      "likes": 10,
+      "comments": 0,
+      "total_interactions": 10
+    },
+    "2026-11-21-story-abigail-david-nabal-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-22T04:50:18.831Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
