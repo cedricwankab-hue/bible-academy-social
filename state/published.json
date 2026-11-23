@@ -3609,6 +3609,28 @@
       "mode": "automatic",
       "dueAt": "2026-11-23T02:45:00.000Z",
       "permalink": null
+    },
+    "2026-11-23-story-doubting-thomas-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-23T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b040ce451038c931bae0b62",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-23T13:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-23-story-doubting-thomas-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-23T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b040ce49c207fed959086fe",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-23T13:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -3866,8 +3888,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 207,
-    "resetIn": 391523,
-    "at": "2026-11-23T02:01:52.121Z"
+    "left": 205,
+    "resetIn": 363278,
+    "at": "2026-11-23T09:52:36.893Z"
   }
 }

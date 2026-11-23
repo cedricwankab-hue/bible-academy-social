@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T02:01:52.285Z",
+  "at": "2026-11-23T09:52:37.131Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1929,8 +1929,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-22T04:50:18.831Z",
-      "views": 108,
-      "reach": 99,
+      "views": 109,
+      "reach": 100,
       "saved": 0,
       "shares": 0,
       "likes": 3,
@@ -1941,20 +1941,20 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-22T15:08:56.776Z",
-      "views": 34,
-      "reach": 32,
+      "views": 98,
+      "reach": 88,
       "saved": 0,
       "shares": 0,
-      "likes": 2,
+      "likes": 8,
       "comments": 0,
-      "total_interactions": 2
+      "total_interactions": 8
     },
     "2026-11-22-story-hannah-prayer-shiloh-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-22T21:05:01.989Z",
-      "views": 33,
-      "reach": 30,
+      "views": 68,
+      "reach": 67,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -1965,25 +1965,25 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-23T01:46:01.051Z",
-      "views": 0,
-      "reach": 0,
+      "views": 117,
+      "reach": 100,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 9,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 9
     },
     "2026-11-22-story-widow-oil-jars-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-23T02:01:50.438Z",
-      "views": 0,
-      "reach": 0,
+      "views": 98,
+      "reach": 80,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
     }
   }
 }
