@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-24T04:46:04.925Z",
+  "at": "2026-11-24T17:09:49.504Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -1929,8 +1929,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-22T04:50:18.831Z",
-      "views": 109,
-      "reach": 100,
+      "views": 110,
+      "reach": 101,
       "saved": 0,
       "shares": 0,
       "likes": 3,
@@ -1989,37 +1989,37 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-23T21:56:46.592Z",
-      "views": 31,
-      "reach": 29,
-      "saved": 0,
-      "shares": 0,
-      "likes": 2,
+      "views": 102,
+      "reach": 102,
+      "saved": 1,
+      "shares": 1,
+      "likes": 12,
       "comments": 0,
-      "total_interactions": 2
+      "total_interactions": 14
     },
     "2026-11-23-story-ascension-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-24T04:45:09.467Z",
-      "views": 0,
-      "reach": 0,
+      "views": 127,
+      "reach": 107,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 9,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 9
     },
     "2026-11-23-story-solomon-asks-wisdom-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-24T04:46:02.387Z",
-      "views": 0,
-      "reach": 0,
+      "views": 58,
+      "reach": 49,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 3,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 3
     }
   }
 }

@@ -3769,46 +3769,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-fb",
-      "at": "2026-11-05T22:19:43.917Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-tt",
-      "at": "2026-11-05T22:19:44.039Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-fb",
-      "at": "2026-11-06T02:43:41.158Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-tt",
-      "at": "2026-11-06T02:43:41.306Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-guess-who-obadiah-1-kings-18-tt",
-      "at": "2026-11-06T02:43:41.437Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-guess-who-obadiah-1-kings-18-fb",
-      "at": "2026-11-06T02:43:41.566Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-fb",
-      "at": "2026-11-06T04:24:55.831Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-bible-quiz-4-job-sheba-john-8-tt",
-      "at": "2026-11-06T04:24:55.942Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
       "id": "2026-11-05-guess-who-obadiah-1-kings-18-tt",
       "at": "2026-11-06T04:24:56.064Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
@@ -4017,13 +3977,53 @@
       "id": "2026-11-20-story-nehemiah-wall-yt",
       "at": "2026-11-20T17:43:13.395Z",
       "error": "Buffer refuse (LimitReachedError) : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day."
+    },
+    {
+      "id": "2026-11-24-story-pentecost-tongues-of-fire-ig",
+      "at": "2026-11-24T17:09:38.616Z",
+      "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-24-story-jacob-ladder-bethel-ig",
+      "at": "2026-11-24T17:09:48.178Z",
+      "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-24-story-pentecost-tongues-of-fire-tt",
+      "at": "2026-11-24T17:09:48.387Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-pentecost-tongues-of-fire-fb",
+      "at": "2026-11-24T17:09:48.496Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-jacob-ladder-bethel-tt",
+      "at": "2026-11-24T17:09:48.616Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-jacob-ladder-bethel-fb",
+      "at": "2026-11-24T17:09:48.707Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-hidden-details-6-moses-face-malchus-shoes-fb",
+      "at": "2026-11-24T17:09:49.163Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-hidden-details-6-moses-face-malchus-shoes-tt",
+      "at": "2026-11-24T17:09:49.396Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 195,
-    "resetIn": 295270,
-    "at": "2026-11-24T04:46:04.806Z"
+    "left": 189,
+    "resetIn": 250645,
+    "at": "2026-11-24T17:09:49.396Z"
   }
 }
