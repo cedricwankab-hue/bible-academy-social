@@ -3769,46 +3769,6 @@
   },
   "errors": [
     {
-      "id": "2026-11-05-guess-who-obadiah-1-kings-18-tt",
-      "at": "2026-11-06T04:24:56.064Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-05-guess-who-obadiah-1-kings-18-fb",
-      "at": "2026-11-06T04:24:56.159Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-four-lepers-2-kings-7-fb",
-      "at": "2026-11-06T09:56:03.596Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-four-lepers-2-kings-7-tt",
-      "at": "2026-11-06T09:56:03.845Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-four-lepers-2-kings-7-fb",
-      "at": "2026-11-06T17:15:42.977Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-four-lepers-2-kings-7-tt",
-      "at": "2026-11-06T17:15:43.122Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-jonathan-armorbearer-1-samuel-14-fb",
-      "at": "2026-11-06T17:15:43.277Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
-      "id": "2026-11-06-jonathan-armorbearer-1-samuel-14-tt",
-      "at": "2026-11-06T17:15:43.393Z",
-      "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
-    },
-    {
       "id": "2026-11-06-winter-arc-train-your-soul-fb",
       "at": "2026-11-06T17:15:43.545Z",
       "error": "Buffer 429 [{\"message\":\"Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade\",\"extensions\":{\"code\":\"RATE_LIMIT_EXCEEDED\",\"window\":\"30d\"}}]"
@@ -4017,13 +3977,53 @@
       "id": "2026-11-24-hidden-details-6-moses-face-malchus-shoes-tt",
       "at": "2026-11-24T17:09:49.396Z",
       "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-saul-damascus-road-ig",
+      "at": "2026-11-25T01:26:34.225Z",
+      "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-24-story-david-spares-saul-cave-ig",
+      "at": "2026-11-25T02:00:09.875Z",
+      "error": "reel : traitement Instagram ERROR ERROR"
+    },
+    {
+      "id": "2026-11-24-hidden-details-6-moses-face-malchus-shoes-fb",
+      "at": "2026-11-25T02:00:10.629Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-hidden-details-6-moses-face-malchus-shoes-tt",
+      "at": "2026-11-25T02:00:11.916Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL., Image could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-saul-damascus-road-tt",
+      "at": "2026-11-25T02:00:12.361Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-saul-damascus-road-fb",
+      "at": "2026-11-25T02:00:13.011Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-saul-damascus-road-yt",
+      "at": "2026-11-25T02:00:13.544Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
+    },
+    {
+      "id": "2026-11-24-story-david-spares-saul-cave-tt",
+      "at": "2026-11-25T02:00:13.990Z",
+      "error": "Buffer refuse (InvalidInputError) : Invalid post: Video could not be read from its URL."
     }
   ],
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 189,
-    "resetIn": 250645,
-    "at": "2026-11-24T17:09:49.396Z"
+    "left": 183,
+    "resetIn": 218821,
+    "at": "2026-11-25T02:00:13.990Z"
   }
 }
