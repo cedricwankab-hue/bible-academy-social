@@ -3872,6 +3872,77 @@
       "mode": "automatic",
       "dueAt": "2026-11-26T00:00:00.000Z",
       "permalink": null
+    },
+    "2026-11-25-repost-story-saul-damascus-road-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-26T02:52:22.354Z",
+      "planned": "2026-11-25T23:30:00.000Z",
+      "mediaId": "17966608368252793",
+      "permalink": "https://www.instagram.com/reel/DgMEv9TtBOu/"
+    },
+    "2026-11-25-repost-story-david-spares-saul-cave-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-26T02:53:16.170Z",
+      "planned": "2026-11-26T02:00:00.000Z",
+      "mediaId": "18058232357814989",
+      "permalink": "https://www.instagram.com/reel/DgME1U0JVDu/"
+    },
+    "2026-11-25-repost-story-saul-damascus-road-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-25T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b079f1ca791bea1b24a4312",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T02:56:16.170Z",
+      "permalink": null
+    },
+    "2026-11-25-repost-story-saul-damascus-road-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-26T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b079f1d07071a60674b84bf",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T02:56:16.958Z",
+      "permalink": null
+    },
+    "2026-11-25-repost-story-david-spares-saul-cave-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-26T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b079f1da791bea1b24a4359",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T02:56:17.364Z",
+      "permalink": null
+    },
+    "2026-11-25-repost-story-david-spares-saul-cave-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-26T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b079f1e9f6dda31ccb9fc31",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T02:56:17.780Z",
+      "permalink": null
+    },
+    "2026-11-25-repost-story-david-spares-saul-cave-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-26T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b079f1eb8e2338b85845a93",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T02:56:18.228Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4129,8 +4200,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 174,
-    "resetIn": 153753,
-    "at": "2026-11-25T20:04:42.801Z"
+    "left": 169,
+    "resetIn": 129236,
+    "at": "2026-11-26T02:53:18.610Z"
   }
 }
