@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T02:53:18.733Z",
+  "at": "2026-11-26T13:01:05.760Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -2025,30 +2025,42 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-25T20:04:37.979Z",
-      "views": 6,
-      "reach": 6,
+      "views": 88,
+      "reach": 84,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 4,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 4
     },
     "2026-11-25-repost-story-saul-damascus-road-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T02:52:22.354Z",
-      "views": 0,
-      "reach": 0,
+      "views": 36,
+      "reach": 33,
+      "saved": 0,
+      "shares": 0,
+      "likes": 2,
+      "comments": 0,
+      "total_interactions": 2
+    },
+    "2026-11-25-repost-story-david-spares-saul-cave-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-26T02:53:16.170Z",
+      "views": 18,
+      "reach": 15,
       "saved": 0,
       "shares": 0,
       "likes": 0,
       "comments": 0,
       "total_interactions": 0
     },
-    "2026-11-25-repost-story-david-spares-saul-cave-ig": {
+    "2026-11-26-story-ten-lepers-one-returned-ig": {
       "platform": "ig",
       "kind": "reel",
-      "at": "2026-11-26T02:53:16.170Z",
+      "at": "2026-11-26T13:01:03.147Z",
       "views": 0,
       "reach": 0,
       "saved": 0,

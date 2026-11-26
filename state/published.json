@@ -3943,6 +3943,36 @@
       "mode": "automatic",
       "dueAt": "2026-11-26T02:56:18.228Z",
       "permalink": null
+    },
+    "2026-11-26-story-ten-lepers-one-returned-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-26T13:01:03.147Z",
+      "planned": "2026-11-26T13:00:00.000Z",
+      "mediaId": "17900561982410774",
+      "permalink": "https://www.instagram.com/reel/DgNKYCHKAm0/"
+    },
+    "2026-11-26-story-ten-lepers-one-returned-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-26T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b082d9013a1e7f183368875",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T13:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-26-story-ten-lepers-one-returned-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-26T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b082d912983091c92b23014",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-26T13:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4200,8 +4230,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 169,
-    "resetIn": 129236,
-    "at": "2026-11-26T02:53:18.610Z"
+    "left": 167,
+    "resetIn": 92769,
+    "at": "2026-11-26T13:01:05.624Z"
   }
 }
