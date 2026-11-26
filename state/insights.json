@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T13:01:05.760Z",
+  "at": "2026-11-26T21:25:47.503Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -2025,20 +2025,20 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-25T20:04:37.979Z",
-      "views": 88,
-      "reach": 84,
+      "views": 102,
+      "reach": 99,
       "saved": 0,
       "shares": 0,
-      "likes": 4,
+      "likes": 5,
       "comments": 0,
-      "total_interactions": 4
+      "total_interactions": 5
     },
     "2026-11-25-repost-story-saul-damascus-road-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T02:52:22.354Z",
-      "views": 36,
-      "reach": 33,
+      "views": 44,
+      "reach": 42,
       "saved": 0,
       "shares": 0,
       "likes": 2,
@@ -2049,18 +2049,30 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T02:53:16.170Z",
-      "views": 18,
-      "reach": 15,
+      "views": 28,
+      "reach": 24,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
     },
     "2026-11-26-story-ten-lepers-one-returned-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T13:01:03.147Z",
+      "views": 82,
+      "reach": 73,
+      "saved": 0,
+      "shares": 0,
+      "likes": 12,
+      "comments": 0,
+      "total_interactions": 13
+    },
+    "2026-11-26-story-elisha-chariots-of-fire-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-26T21:25:44.239Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
