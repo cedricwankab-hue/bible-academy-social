@@ -4107,6 +4107,58 @@
       "mode": "automatic",
       "dueAt": "2026-11-27T03:48:29.295Z",
       "permalink": null
+    },
+    "2026-11-27-story-paralytic-through-roof-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-27T13:12:54.228Z",
+      "planned": "2026-11-27T13:00:00.000Z",
+      "mediaId": "18091523945698178",
+      "permalink": "https://www.instagram.com/reel/DgPwibWuj8p/"
+    },
+    "2026-11-27-story-paralytic-through-roof-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-27T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0981d71fd46e62e747b65e",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T13:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-27-story-paralytic-through-roof-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-27T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0981d7049983dcfbc043aa",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T13:15:55.198Z",
+      "permalink": null
+    },
+    "2026-11-27-story-baby-moses-basket-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-27T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0981d8e94385a8fda86e60",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T17:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-27-story-baby-moses-basket-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-27T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0981d8062ed764a819394a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T17:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4364,8 +4416,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 157,
-    "resetIn": 39705,
-    "at": "2026-11-27T03:45:29.682Z"
+    "left": 153,
+    "resetIn": 5658,
+    "at": "2026-11-27T13:12:56.622Z"
   }
 }

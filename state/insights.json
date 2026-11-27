@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-27T03:45:29.824Z",
+  "at": "2026-11-27T13:12:56.789Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -2061,8 +2061,8 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T13:01:03.147Z",
-      "views": 110,
-      "reach": 93,
+      "views": 113,
+      "reach": 104,
       "saved": 0,
       "shares": 0,
       "likes": 14,
@@ -2073,20 +2073,20 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T21:25:44.239Z",
-      "views": 12,
-      "reach": 11,
+      "views": 25,
+      "reach": 24,
       "saved": 0,
       "shares": 0,
-      "likes": 0,
+      "likes": 1,
       "comments": 0,
-      "total_interactions": 0
+      "total_interactions": 1
     },
     "2026-11-26-story-peter-prison-rhoda-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-27T03:44:34.610Z",
-      "views": 0,
-      "reach": 0,
+      "views": 38,
+      "reach": 33,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -2097,6 +2097,18 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-27T03:45:27.224Z",
+      "views": 9,
+      "reach": 9,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-27-story-paralytic-through-roof-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-27T13:12:54.228Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
