@@ -1282,10 +1282,13 @@
       "planned": "2026-11-10T13:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af3177aa596663bea91dd40",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T13:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706534664957185312?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-27T22:01:07.880Z",
+      "checks": 1,
+      "at": "2026-11-10T13:32:13.362Z"
     },
     "2026-11-10-guess-who-joseph-fb": {
       "platform": "fb",
@@ -1293,10 +1296,13 @@
       "planned": "2026-11-10T13:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af3177b85810493943223a3",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T13:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1359857349424664/",
+      "checkedAt": "2026-11-27T22:01:08.037Z",
+      "checks": 1,
+      "at": "2026-11-10T13:15:34.965Z"
     },
     "2026-11-10-woman-at-the-well-john-4-fb": {
       "platform": "fb",
@@ -1304,10 +1310,13 @@
       "planned": "2026-11-10T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af3177bab43be4969875533",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122107798185534302",
+      "checkedAt": "2026-11-27T22:01:08.404Z",
+      "checks": 1,
+      "at": "2026-11-10T17:15:48.255Z"
     },
     "2026-11-10-woman-at-the-well-john-4-tt": {
       "platform": "tt",
@@ -1315,10 +1324,13 @@
       "planned": "2026-11-10T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af3177ca596663bea91df92",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T17:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706596668950514977?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-27T22:01:08.612Z",
+      "checks": 1,
+      "at": "2026-11-10T17:32:24.215Z"
     },
     "2026-11-10-guess-who-joseph-ig": {
       "platform": "ig",
@@ -1334,10 +1346,13 @@
       "planned": "2026-11-10T14:20:00.000Z",
       "via": "buffer",
       "bufferId": "6af325ad3fb3e0f9eadd4ce6",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T14:20:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/edxmWvmx24o",
+      "checkedAt": "2026-11-27T22:01:08.810Z",
+      "checks": 1,
+      "at": "2026-11-10T14:20:03.014Z"
     },
     "2026-11-10-yt-countdown-eutychus-third-loft": {
       "platform": "yt",
@@ -1345,10 +1360,13 @@
       "planned": "2026-11-10T17:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af325aebe42f217104fd12b",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T17:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/JjdJNYqEEeM",
+      "checkedAt": "2026-11-27T22:01:09.208Z",
+      "checks": 1,
+      "at": "2026-11-10T17:45:15.781Z"
     },
     "2026-11-10-motivation-fades-faithfulness-stays-fb": {
       "platform": "fb",
@@ -1356,10 +1374,13 @@
       "planned": "2026-11-10T20:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af34281e9e4a87f7b5055a5",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T20:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122107865241534302",
+      "checkedAt": "2026-11-27T22:01:09.477Z",
+      "checks": 1,
+      "at": "2026-11-10T20:15:43.483Z"
     },
     "2026-11-10-motivation-fades-faithfulness-stays-tt": {
       "platform": "tt",
@@ -1367,10 +1388,13 @@
       "planned": "2026-11-10T20:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af34281a80c88d57646028a",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T20:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706642814737665312?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-27T22:01:09.630Z",
+      "checks": 1,
+      "at": "2026-11-10T20:31:53.977Z"
     },
     "2026-11-10-countdown-pearl-gates-tt": {
       "platform": "tt",
@@ -4159,6 +4183,80 @@
       "mode": "automatic",
       "dueAt": "2026-11-27T17:15:00.000Z",
       "permalink": null
+    },
+    "2026-11-27-story-baby-moses-basket-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-27T22:01:02.090Z",
+      "planned": "2026-11-27T17:00:00.000Z",
+      "mediaId": "18649906054031483",
+      "permalink": "https://www.instagram.com/reel/DgQs_kns-Ct/"
+    },
+    "2026-11-27-black-friday-cant-buy-fb": {
+      "platform": "fb",
+      "kind": "carousel",
+      "planned": "2026-11-27T20:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fd9ff3bfab63eab682f2",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T22:04:02.091Z",
+      "permalink": null
+    },
+    "2026-11-27-black-friday-cant-buy-tt": {
+      "platform": "tt",
+      "kind": "photo",
+      "planned": "2026-11-27T20:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fda0c02ca0988abb53aa",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T22:04:03.524Z",
+      "permalink": null
+    },
+    "2026-11-27-story-widow-two-mites-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-28T00:00:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fda1277f27038a40e3a9",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T00:00:00.000Z",
+      "permalink": null
+    },
+    "2026-11-27-story-widow-two-mites-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-27T23:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fda241454797eac8db0a",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-27T23:45:00.000Z",
+      "permalink": null
+    },
+    "2026-11-27-story-widow-two-mites-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-28T00:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fda2f3bfab63eab686fb",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T00:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-27-story-paul-silas-midnight-prison-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-28T02:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b09fda341454797eac8dc8d",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T02:30:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4416,8 +4514,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 153,
-    "resetIn": 5658,
-    "at": "2026-11-27T13:12:56.622Z"
+    "left": 2986,
+    "resetIn": 2591993,
+    "at": "2026-11-27T22:01:09.796Z"
   }
 }
