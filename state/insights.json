@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T21:25:47.503Z",
+  "at": "2026-11-27T03:45:29.824Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -2025,20 +2025,20 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-25T20:04:37.979Z",
-      "views": 102,
-      "reach": 99,
+      "views": 104,
+      "reach": 100,
       "saved": 0,
       "shares": 0,
-      "likes": 5,
+      "likes": 6,
       "comments": 0,
-      "total_interactions": 5
+      "total_interactions": 6
     },
     "2026-11-25-repost-story-saul-damascus-road-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T02:52:22.354Z",
-      "views": 44,
-      "reach": 42,
+      "views": 49,
+      "reach": 46,
       "saved": 0,
       "shares": 0,
       "likes": 2,
@@ -2049,30 +2049,54 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T02:53:16.170Z",
-      "views": 28,
-      "reach": 24,
+      "views": 34,
+      "reach": 30,
       "saved": 0,
       "shares": 0,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
-      "total_interactions": 1
+      "total_interactions": 2
     },
     "2026-11-26-story-ten-lepers-one-returned-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T13:01:03.147Z",
-      "views": 82,
-      "reach": 73,
+      "views": 110,
+      "reach": 93,
       "saved": 0,
       "shares": 0,
-      "likes": 12,
+      "likes": 14,
       "comments": 0,
-      "total_interactions": 13
+      "total_interactions": 15
     },
     "2026-11-26-story-elisha-chariots-of-fire-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-26T21:25:44.239Z",
+      "views": 12,
+      "reach": 11,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-26-story-peter-prison-rhoda-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-27T03:44:34.610Z",
+      "views": 0,
+      "reach": 0,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-26-story-jehoshaphat-singers-battle-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-27T03:45:27.224Z",
       "views": 0,
       "reach": 0,
       "saved": 0,
