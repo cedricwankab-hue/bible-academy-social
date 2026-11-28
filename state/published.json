@@ -1538,10 +1538,13 @@
       "planned": "2026-11-11T13:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af49864444c2727360ef453",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T16:34:32.657Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/n1h6MBF4Zdc",
+      "checkedAt": "2026-11-28T04:43:32.401Z",
+      "checks": 1,
+      "at": "2026-11-11T16:34:46.628Z"
     },
     "2026-11-11-ten-lepers-luke-17-fb": {
       "platform": "fb",
@@ -1549,10 +1552,13 @@
       "planned": "2026-11-11T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af49865c39eba3c040544c4",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122108297463534302",
+      "checkedAt": "2026-11-28T04:43:32.579Z",
+      "checks": 1,
+      "at": "2026-11-11T17:15:43.773Z"
     },
     "2026-11-11-ten-lepers-luke-17-tt": {
       "platform": "tt",
@@ -1560,10 +1566,13 @@
       "planned": "2026-11-11T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af49866b0396c2ba535cc6d",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T17:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706967596431871264?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T04:43:32.634Z",
+      "checks": 1,
+      "at": "2026-11-11T17:32:20.488Z"
     },
     "2026-11-11-gratitude-season-faith-edition-fb": {
       "platform": "fb",
@@ -1571,10 +1580,13 @@
       "planned": "2026-11-11T20:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af49866444c2727360ef4e6",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T20:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122108350767534302",
+      "checkedAt": "2026-11-28T04:43:32.688Z",
+      "checks": 1,
+      "at": "2026-11-11T20:15:51.623Z"
     },
     "2026-11-11-gratitude-season-faith-edition-tt": {
       "platform": "tt",
@@ -1582,10 +1594,13 @@
       "planned": "2026-11-11T20:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af4986767456c42e971469e",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T20:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7707013963283828000?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T04:43:32.754Z",
+      "checks": 1,
+      "at": "2026-11-11T20:32:10.113Z"
     },
     "2026-11-11-bible-quiz-5-esau-roof-seraphim-fb": {
       "platform": "fb",
@@ -1593,10 +1608,13 @@
       "planned": "2026-11-11T23:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af4f4af304f8985c46e96d4",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T23:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122108396103534302",
+      "checkedAt": "2026-11-28T04:43:32.808Z",
+      "checks": 1,
+      "at": "2026-11-11T23:45:39.873Z"
     },
     "2026-11-11-bible-quiz-5-esau-roof-seraphim-tt": {
       "platform": "tt",
@@ -1604,10 +1622,13 @@
       "planned": "2026-11-12T00:00:00.000Z",
       "via": "buffer",
       "bufferId": "6af4f4b0bc9f3773a1a71b63",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T00:00:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7707068102059592992?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T04:43:32.896Z",
+      "checks": 1,
+      "at": "2026-11-12T00:02:41.893Z"
     },
     "2026-11-11-countdown-dove-olive-leaf-tt": {
       "platform": "tt",
@@ -1615,10 +1636,13 @@
       "planned": "2026-11-12T02:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af4f4b18a1a2f52b50afec5",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T02:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7707106711269559584?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T04:43:32.966Z",
+      "checks": 1,
+      "at": "2026-11-12T02:31:12.465Z"
     },
     "2026-11-11-countdown-dove-olive-leaf-fb": {
       "platform": "fb",
@@ -4576,8 +4600,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 2976,
-    "resetIn": 2570971,
-    "at": "2026-11-28T03:51:32.265Z"
+    "left": 2968,
+    "resetIn": 2567850,
+    "at": "2026-11-28T04:43:33.028Z"
   }
 }

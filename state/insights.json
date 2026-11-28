@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-27T22:01:10.176Z",
+  "at": "2026-11-28T04:43:33.375Z",
   "posts": {
     "2026-10-28-countdown-jedidiah-fb": {
       "platform": "fb",
@@ -2085,20 +2085,20 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-27T03:44:34.610Z",
-      "views": 60,
-      "reach": 54,
+      "views": 65,
+      "reach": 59,
       "saved": 0,
       "shares": 0,
-      "likes": 1,
+      "likes": 2,
       "comments": 0,
-      "total_interactions": 1
+      "total_interactions": 2
     },
     "2026-11-26-story-jehoshaphat-singers-battle-ig": {
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-27T03:45:27.224Z",
-      "views": 12,
-      "reach": 12,
+      "views": 14,
+      "reach": 14,
       "saved": 0,
       "shares": 0,
       "likes": 0,
@@ -2121,8 +2121,32 @@
       "platform": "ig",
       "kind": "reel",
       "at": "2026-11-27T22:01:02.090Z",
-      "views": 0,
-      "reach": 0,
+      "views": 50,
+      "reach": 42,
+      "saved": 0,
+      "shares": 0,
+      "likes": 1,
+      "comments": 0,
+      "total_interactions": 1
+    },
+    "2026-11-27-story-widow-two-mites-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-28T03:50:29.834Z",
+      "views": 5,
+      "reach": 4,
+      "saved": 0,
+      "shares": 0,
+      "likes": 0,
+      "comments": 0,
+      "total_interactions": 0
+    },
+    "2026-11-27-story-paul-silas-midnight-prison-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-28T03:51:30.059Z",
+      "views": 3,
+      "reach": 3,
       "saved": 0,
       "shares": 0,
       "likes": 0,
