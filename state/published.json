@@ -1650,10 +1650,13 @@
       "planned": "2026-11-12T02:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af4f4b1bc9f3773a1a71bb4",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T02:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1495339292480126/",
+      "checkedAt": "2026-11-28T13:00:56.929Z",
+      "checks": 1,
+      "at": "2026-11-12T02:15:22.679Z"
     },
     "2026-11-11-countdown-dove-olive-leaf-yt": {
       "platform": "yt",
@@ -1661,10 +1664,13 @@
       "planned": "2026-11-12T02:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af4f4b1cb4c7286fdfc7179",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T02:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/j9HmJVG-KtM",
+      "checkedAt": "2026-11-28T13:00:56.999Z",
+      "checks": 1,
+      "at": "2026-11-12T02:45:07.631Z"
     },
     "2026-11-11-countdown-dove-olive-leaf-ig": {
       "platform": "ig",
@@ -1680,10 +1686,13 @@
       "planned": "2026-11-12T13:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af58dd649bcfed3aa737e23",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T13:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7707276903866060065?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T13:00:57.080Z",
+      "checks": 1,
+      "at": "2026-11-12T13:31:49.546Z"
     },
     "2026-11-12-guess-who-david-fb": {
       "platform": "fb",
@@ -1691,10 +1700,13 @@
       "planned": "2026-11-12T13:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af58dd7041a9377d7de4f6b",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T13:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1689654275835933/",
+      "checkedAt": "2026-11-28T13:00:57.166Z",
+      "checks": 1,
+      "at": "2026-11-12T13:15:55.550Z"
     },
     "2026-11-12-guess-who-david-yt": {
       "platform": "yt",
@@ -1702,10 +1714,13 @@
       "planned": "2026-11-12T13:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af58dd7dcbfadbe0a6c6e50",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T13:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/NPA1N_8iIUo",
+      "checkedAt": "2026-11-28T13:00:57.231Z",
+      "checks": 1,
+      "at": "2026-11-12T13:45:09.378Z"
     },
     "2026-11-12-guess-who-david-ig": {
       "platform": "ig",
@@ -1721,10 +1736,13 @@
       "planned": "2026-11-12T17:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af5b8ab37794f4dae3cb6a5",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T17:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122108719533534302",
+      "checkedAt": "2026-11-28T13:00:57.326Z",
+      "checks": 1,
+      "at": "2026-11-12T17:15:29.681Z"
     },
     "2026-11-12-story-jesus-calms-storm-ig": {
       "platform": "ig",
@@ -1740,10 +1758,13 @@
       "planned": "2026-11-12T17:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af61f2548a8bf93e421f846",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T20:21:45.322Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7707382895802912032?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T13:00:57.383Z",
+      "checks": 1,
+      "at": "2026-11-12T20:23:46.464Z"
     },
     "2026-11-12-cozy-winter-quiet-time-fb": {
       "platform": "fb",
@@ -1751,10 +1772,13 @@
       "planned": "2026-11-12T20:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af61f2648a8bf93e421f874",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-12T20:21:45.932Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/122096063433534302/posts/122108772597534302",
+      "checkedAt": "2026-11-28T13:00:57.486Z",
+      "checks": 1,
+      "at": "2026-11-12T20:22:17.149Z"
     },
     "2026-11-12-cozy-winter-quiet-time-tt": {
       "platform": "tt",
@@ -4343,6 +4367,58 @@
       "mode": "automatic",
       "dueAt": "2026-11-28T03:54:30.861Z",
       "permalink": null
+    },
+    "2026-11-28-story-woman-touches-hem-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-28T13:00:54.334Z",
+      "planned": "2026-11-28T13:00:00.000Z",
+      "mediaId": "18663238246044565",
+      "permalink": "https://www.instagram.com/reel/DgST9cIMMKA/"
+    },
+    "2026-11-28-story-woman-touches-hem-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-28T13:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0ad086be536564e42e466e",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T13:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-28-story-woman-touches-hem-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-28T13:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0ad087c6d7f1e7224329d0",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T13:15:00.000Z",
+      "permalink": null
+    },
+    "2026-11-28-story-samuel-hears-god-call-tt": {
+      "platform": "tt",
+      "kind": "video",
+      "planned": "2026-11-28T17:30:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0ad088be536564e42e477e",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T17:30:00.000Z",
+      "permalink": null
+    },
+    "2026-11-28-story-samuel-hears-god-call-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-28T17:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0ad0880f9559e0ce12cb31",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T17:15:00.000Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4600,8 +4676,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 2968,
-    "resetIn": 2567850,
-    "at": "2026-11-28T04:43:33.028Z"
+    "left": 2956,
+    "resetIn": 2538005,
+    "at": "2026-11-28T13:00:57.548Z"
   }
 }
