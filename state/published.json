@@ -1402,10 +1402,13 @@
       "planned": "2026-11-11T00:00:00.000Z",
       "via": "buffer",
       "bufferId": "6af391793cfe2a84dbfc0906",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T00:00:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706697042453646624?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T03:51:31.329Z",
+      "checks": 1,
+      "at": "2026-11-11T00:02:49.935Z"
     },
     "2026-11-10-countdown-pearl-gates-fb": {
       "platform": "fb",
@@ -1413,10 +1416,13 @@
       "planned": "2026-11-10T23:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af39179acda3662ff128a8f",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-10T23:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1884774579540275/",
+      "checkedAt": "2026-11-28T03:51:31.426Z",
+      "checks": 1,
+      "at": "2026-11-10T23:45:22.160Z"
     },
     "2026-11-10-guess-who-samuel-tt": {
       "platform": "tt",
@@ -1424,10 +1430,13 @@
       "planned": "2026-11-11T02:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af3917a3cfe2a84dbfc095b",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T02:30:00.000Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706735404610800929?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T03:51:31.521Z",
+      "checks": 1,
+      "at": "2026-11-11T02:31:56.893Z"
     },
     "2026-11-10-guess-who-samuel-fb": {
       "platform": "fb",
@@ -1435,10 +1444,13 @@
       "planned": "2026-11-11T02:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af3917a8cf622448db942bb",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T02:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1681263553644088/",
+      "checkedAt": "2026-11-28T03:51:31.616Z",
+      "checks": 1,
+      "at": "2026-11-11T02:15:31.805Z"
     },
     "2026-11-10-yt-countdown-pearl-gates": {
       "platform": "yt",
@@ -1446,10 +1458,13 @@
       "planned": "2026-11-11T00:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af3917a8cf622448db942e3",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T00:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/b-ZGsQcCFPA",
+      "checkedAt": "2026-11-28T03:51:31.705Z",
+      "checks": 1,
+      "at": "2026-11-11T00:15:16.785Z"
     },
     "2026-11-10-yt-guess-who-samuel": {
       "platform": "yt",
@@ -1457,10 +1472,13 @@
       "planned": "2026-11-11T02:45:00.000Z",
       "via": "buffer",
       "bufferId": "6af3917b3cfe2a84dbfc0983",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T02:45:00.000Z",
-      "permalink": null
+      "permalink": "https://www.youtube.com/shorts/m9ejoNU98po",
+      "checkedAt": "2026-11-28T03:51:31.855Z",
+      "checks": 1,
+      "at": "2026-11-11T02:45:13.406Z"
     },
     "2026-11-10-countdown-pearl-gates-ig": {
       "platform": "ig",
@@ -1484,10 +1502,13 @@
       "planned": "2026-11-11T13:15:00.000Z",
       "via": "buffer",
       "bufferId": "6af426ec60e4cf0fafb3035f",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T13:15:00.000Z",
-      "permalink": null
+      "permalink": "https://www.facebook.com/reel/1080433281626417/",
+      "checkedAt": "2026-11-28T03:51:31.959Z",
+      "checks": 1,
+      "at": "2026-11-11T13:15:44.949Z"
     },
     "2026-11-11-guess-who-moses-ig": {
       "platform": "ig",
@@ -1503,10 +1524,13 @@
       "planned": "2026-11-11T13:30:00.000Z",
       "via": "buffer",
       "bufferId": "6af49864444c2727360ef3ec",
-      "status": "scheduled",
+      "status": "sent",
       "mode": "automatic",
       "dueAt": "2026-11-11T16:34:31.502Z",
-      "permalink": null
+      "permalink": "https://www.tiktok.com/@bibleacademy4/video/7706953303355100448?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
+      "checkedAt": "2026-11-28T03:51:32.056Z",
+      "checks": 1,
+      "at": "2026-11-11T16:36:28.444Z"
     },
     "2026-11-11-guess-who-moses-yt": {
       "platform": "yt",
@@ -4257,6 +4281,44 @@
       "mode": "automatic",
       "dueAt": "2026-11-28T02:30:00.000Z",
       "permalink": null
+    },
+    "2026-11-27-story-widow-two-mites-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-28T03:50:29.834Z",
+      "planned": "2026-11-27T23:30:00.000Z",
+      "mediaId": "18118678895604911",
+      "permalink": "https://www.instagram.com/reel/DgRVAIVSTHK/"
+    },
+    "2026-11-27-story-paul-silas-midnight-prison-ig": {
+      "platform": "ig",
+      "kind": "reel",
+      "at": "2026-11-28T03:51:30.059Z",
+      "planned": "2026-11-28T02:00:00.000Z",
+      "mediaId": "18136408150761028",
+      "permalink": "https://www.instagram.com/reel/DgRVEumBTEx/"
+    },
+    "2026-11-27-story-paul-silas-midnight-prison-fb": {
+      "platform": "fb",
+      "kind": "reel",
+      "planned": "2026-11-28T02:15:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0a4fc22a2e4f66caf89ee8",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T03:54:30.060Z",
+      "permalink": null
+    },
+    "2026-11-27-story-paul-silas-midnight-prison-yt": {
+      "platform": "yt",
+      "kind": "video",
+      "planned": "2026-11-28T02:45:00.000Z",
+      "via": "buffer",
+      "bufferId": "6b0a4fc3eada83daa6c18a01",
+      "status": "scheduled",
+      "mode": "automatic",
+      "dueAt": "2026-11-28T03:54:30.861Z",
+      "permalink": null
     }
   },
   "errors": [
@@ -4514,8 +4576,8 @@
   "igPauseUntil": "2026-11-06T22:29:55.000Z",
   "bufferQuota": {
     "quota": 3000,
-    "left": 2986,
-    "resetIn": 2591993,
-    "at": "2026-11-27T22:01:09.796Z"
+    "left": 2976,
+    "resetIn": 2570971,
+    "at": "2026-11-28T03:51:32.265Z"
   }
 }
